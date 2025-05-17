@@ -1,0 +1,62 @@
+{
+     "image_name": "372_662013.jpg",
+     "description": "The image shows a table with various objects on it. There is a bottle on the left side of the table, a snack package in the middle, and another snack package on the right side of the table.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "likely for drinking",
+               "relationship": "close to the snack package in the middle"
+          },
+          {
+               "name": "snack",
+               "color": "yellow and red",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "in the middle of the table",
+               "purpose": "snack food",
+               "relationship": "close to the bottle"
+          },
+          {
+               "name": "snack",
+               "color": "green and red",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "snack food",
+               "relationship": "close to the snack package in the middle"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    246,
+                    46,
+                    304,
+                    232
+               ]
+          },
+          {
+               "object": "snack",
+               "bbox": [
+                    353,
+                    196,
+                    486,
+                    331
+               ]
+          },
+          {
+               "object": "snack",
+               "bbox": [
+                    393,
+                    329,
+                    569,
+                    442
+               ]
+          }
+     ]
+}

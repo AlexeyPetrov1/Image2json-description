@@ -1,0 +1,44 @@
+{
+     "image_name": "708_862463.jpg",
+     "description": "The image shows a room with a table and a floor. The table is located on the right side of the image, and the floor occupies the entire bottom half of the image.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the image",
+               "purpose": "to provide a surface for placing objects",
+               "relationship": "The table is placed on the floor, and there are no other objects directly on top of it."
+          },
+          {
+               "name": "floor",
+               "color": "gray",
+               "form": "rectangular",
+               "size": "large",
+               "location": "occupies the entire bottom half of the image",
+               "purpose": "to provide a surface for walking and placing objects",
+               "relationship": "The table is placed on the floor, and there are no other objects directly on top of it."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    446,
+                    2,
+                    639,
+                    231
+               ]
+          },
+          {
+               "object": "floor",
+               "bbox": [
+                    1,
+                    0,
+                    639,
+                    478
+               ]
+          }
+     ]
+}

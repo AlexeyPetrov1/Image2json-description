@@ -1,0 +1,98 @@
+{
+     "image_name": "563_838430.jpg",
+     "description": "The image shows a kitchen scene with various objects. There is an oven on the left side of the image, a bowl with a spatula on the right side, and several bottles scattered around the scene.",
+     "objects": [
+          {
+               "name": "oven",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left side of the image",
+               "purpose": "cooking and baking",
+               "relationship": "The oven is placed on the left side of the image, near the bottles."
+          },
+          {
+               "name": "bowl",
+               "color": "white",
+               "form": "circular",
+               "size": "small",
+               "location": "on the right side of the image",
+               "purpose": "serving and mixing",
+               "relationship": "The bowl is placed on the right side of the image, near the spatula."
+          },
+          {
+               "name": "spatula",
+               "color": "orange",
+               "form": "curved",
+               "size": "small",
+               "location": "on the right side of the image",
+               "purpose": "cooking and serving",
+               "relationship": "The spatula is placed on the right side of the image, inside the bowl."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "scattered around the image",
+               "purpose": "storage and serving",
+               "relationship": "The bottles are scattered around the image, near the oven and the bowl."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "oven",
+               "bbox": [
+                    122,
+                    55,
+                    346,
+                    262
+               ]
+          },
+          {
+               "object": "bowl",
+               "bbox": [
+                    394,
+                    189,
+                    503,
+                    283
+               ]
+          },
+          {
+               "object": "spatula",
+               "bbox": [
+                    410,
+                    220,
+                    557,
+                    269
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    101,
+                    20,
+                    153,
+                    132
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    44,
+                    38,
+                    109,
+                    159
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    95,
+                    101,
+                    131,
+                    167
+               ]
+          }
+     ]
+}

@@ -1,0 +1,44 @@
+{
+     "image_name": "497_720218.jpg",
+     "description": "The image shows a storage area with a box containing snacks. The box is located in the center of the image, and the snacks are neatly arranged inside.",
+     "objects": [
+          {
+               "name": "box",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "storage",
+               "relationship": "The box contains snacks and is located in the center of the image."
+          },
+          {
+               "name": "snacks",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "inside the box",
+               "purpose": "storage",
+               "relationship": "The snacks are neatly arranged inside the box, which is located in the center of the image."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "box",
+               "bbox": [
+                    100,
+                    87,
+                    388,
+                    408
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    200,
+                    132,
+                    316,
+                    259
+               ]
+          }
+     ]
+}

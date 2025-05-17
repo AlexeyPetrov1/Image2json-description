@@ -1,0 +1,62 @@
+{
+     "image_name": "515_781872.jpg",
+     "description": "The image shows a kitchen scene with a microwave oven in the center, a bowl of meat on the right, and a bottle on the left.",
+     "objects": [
+          {
+               "name": "microwave oven",
+               "color": "black",
+               "form": "rectangular",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "cooking and heating food",
+               "relationship": "The microwave oven is the central object in the image, with the bowl of meat to its right and the bottle to its left."
+          },
+          {
+               "name": "bowl",
+               "color": "blue",
+               "form": "circular",
+               "size": "medium",
+               "location": "right of the microwave oven",
+               "purpose": "holding food",
+               "relationship": "The bowl of meat is placed to the right of the microwave oven, indicating that it may have been heated or prepared in the microwave."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "left of the microwave oven",
+               "purpose": "containing liquid",
+               "relationship": "The bottle is positioned to the left of the microwave oven, suggesting it may have been used for cooking or as a beverage."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "microwave oven",
+               "bbox": [
+                    147,
+                    3,
+                    494,
+                    291
+               ]
+          },
+          {
+               "object": "bowl",
+               "bbox": [
+                    370,
+                    302,
+                    496,
+                    457
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    0,
+                    48,
+                    98,
+                    191
+               ]
+          }
+     ]
+}

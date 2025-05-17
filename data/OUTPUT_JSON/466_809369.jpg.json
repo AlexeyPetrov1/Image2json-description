@@ -1,0 +1,44 @@
+{
+     "image_name": "466_809369.jpg",
+     "description": "The image shows a Haier washing machine with a black clothing item inside the drum.",
+     "objects": [
+          {
+               "name": "Haier washing machine",
+               "color": "silver",
+               "form": "cylindrical",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "washing clothes",
+               "relationship": "clothing is inside the drum of the washing machine"
+          },
+          {
+               "name": "clothing",
+               "color": "black",
+               "form": "unknown",
+               "size": "medium",
+               "location": "inside the drum of the washing machine",
+               "purpose": "to be washed",
+               "relationship": "clothing is inside the drum of the washing machine"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "Haier washing machine",
+               "bbox": [
+                    0,
+                    0,
+                    600,
+                    600
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    256,
+                    351,
+                    411,
+                    479
+               ]
+          }
+     ]
+}

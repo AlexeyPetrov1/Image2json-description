@@ -1,0 +1,35 @@
+{
+     "image_name": "566_797080.jpg",
+     "description": "The image shows a shopping cart filled with various snacks. The cart contains multiple bags of snacks, including potato chips and other types of snacks. The snacks are arranged in different sections of the cart, with some bags placed on top of others.",
+     "objects": [
+          {
+               "name": "snacks",
+               "color": "various colors",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "in the shopping cart",
+               "purpose": "to be consumed",
+               "relationship": "snacks are arranged in different sections of the cart, with some bags placed on top of others."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "snacks",
+               "bbox": [
+                    165,
+                    61,
+                    296,
+                    237
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    245,
+                    361,
+                    336,
+                    479
+               ]
+          }
+     ]
+}

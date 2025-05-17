@@ -1,0 +1,62 @@
+{
+     "image_name": "596_814647.jpg",
+     "description": "The image shows a table with various objects on it. There is a plastic bag on the left side of the table, a strip on the right side, and a white appliance in the center.",
+     "objects": [
+          {
+               "name": "plastic bag",
+               "color": "clear",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "storage",
+               "relationship": "close to the table"
+          },
+          {
+               "name": "strip",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the right side of the table",
+               "purpose": "unspecified",
+               "relationship": "close to the table"
+          },
+          {
+               "name": "white appliance",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "in the center of the table",
+               "purpose": "unspecified",
+               "relationship": "close to the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "plastic bag",
+               "bbox": [
+                    171,
+                    110,
+                    221,
+                    220
+               ]
+          },
+          {
+               "object": "strip",
+               "bbox": [
+                    493,
+                    198,
+                    582,
+                    239
+               ]
+          },
+          {
+               "object": "white appliance",
+               "bbox": [
+                    19,
+                    197,
+                    638,
+                    478
+               ]
+          }
+     ]
+}

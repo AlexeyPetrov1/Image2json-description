@@ -1,0 +1,15 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/533_861737.jpg",
+    "objects": [
+        {
+            "label": "curtains",
+            "score": 0.4287116527557373,
+            "box": [
+                0,
+                0,
+                639,
+                479
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+     "image_name": "535_791457.jpg",
+     "description": "The image shows a bathroom sink area with various objects. There are two sinks, one on the left and one on the right, with faucets above them. A cup is placed on the left sink, and a bottle is on the right sink. The robot arms are not visible in the image.",
+     "objects": [
+          {
+               "name": "sink",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "left and right side of the image",
+               "purpose": "used for washing hands and face",
+               "relationship": "Two sinks are present, one on the left and one on the right, with faucets above them."
+          },
+          {
+               "name": "sink",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "left and right side of the image",
+               "purpose": "used for washing hands and face",
+               "relationship": "Two sinks are present, one on the left and one on the right, with faucets above them."
+          },
+          {
+               "name": "cup",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the left sink",
+               "purpose": "used for drinking",
+               "relationship": "The cup is placed on the left sink."
+          },
+          {
+               "name": "bottle",
+               "color": "green",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the right sink",
+               "purpose": "used for holding liquid",
+               "relationship": "The bottle is placed on the right sink."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "sink",
+               "bbox": [
+                    68,
+                    249,
+                    501,
+                    478
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    68,
+                    312,
+                    500,
+                    478
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    278,
+                    86,
+                    324,
+                    173
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    282,
+                    283,
+                    302,
+                    335
+               ]
+          }
+     ]
+}

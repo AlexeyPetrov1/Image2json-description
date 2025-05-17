@@ -1,0 +1,161 @@
+{
+     "image_name": "389_655660.jpg",
+     "description": "The image shows a supermarket shelf with various dairy products, including milk and yogurt. The shelf is filled with bottles and cartons of milk and yogurt, and there is a shopping cart in the foreground.",
+     "objects": [
+          {
+               "name": "milk",
+               "color": "white",
+               "form": "bottle",
+               "size": "medium",
+               "location": "on the shelf",
+               "purpose": "for sale in the supermarket",
+               "relationship": "close to other dairy products on the shelf"
+          },
+          {
+               "name": "yogurt",
+               "color": "white",
+               "form": "bottle",
+               "size": "medium",
+               "location": "on the shelf",
+               "purpose": "for sale in the supermarket",
+               "relationship": "close to other dairy products on the shelf"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "milk",
+               "bbox": [
+                    192,
+                    11,
+                    233,
+                    110
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    237,
+                    0,
+                    274,
+                    112
+               ]
+          },
+          {
+               "object": "milk",
+               "bbox": [
+                    429,
+                    3,
+                    478,
+                    108
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    237,
+                    1,
+                    274,
+                    112
+               ]
+          },
+          {
+               "object": "milk",
+               "bbox": [
+                    279,
+                    0,
+                    313,
+                    111
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    429,
+                    3,
+                    478,
+                    108
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    334,
+                    8,
+                    364,
+                    109
+               ]
+          },
+          {
+               "object": "milk",
+               "bbox": [
+                    192,
+                    11,
+                    233,
+                    110
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    492,
+                    28,
+                    578,
+                    107
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    279,
+                    0,
+                    313,
+                    111
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    385,
+                    11,
+                    423,
+                    109
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    264,
+                    222,
+                    293,
+                    294
+               ]
+          },
+          {
+               "object": "milk",
+               "bbox": [
+                    266,
+                    178,
+                    294,
+                    239
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    266,
+                    178,
+                    294,
+                    239
+               ]
+          },
+          {
+               "object": "yogurt",
+               "bbox": [
+                    460,
+                    11,
+                    510,
+                    109
+               ]
+          }
+     ]
+}

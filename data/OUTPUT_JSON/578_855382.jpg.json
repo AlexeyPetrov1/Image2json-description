@@ -1,0 +1,62 @@
+{
+     "image_name": "578_855382.jpg",
+     "description": "The image shows a grocery store shelf with various items. The shelf is filled with bottles, snacks, and gloves. The gloves are placed on the left side of the shelf, while the bottles are scattered throughout the shelf.",
+     "objects": [
+          {
+               "name": "bottles",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "scattered throughout the shelf",
+               "purpose": "drinks and beverages",
+               "relationship": "bottles are placed on the shelf, some are close to the gloves, and others are near the snacks."
+          },
+          {
+               "name": "snacks",
+               "color": "various colors",
+               "form": "packaged",
+               "size": "small",
+               "location": "on the shelf",
+               "purpose": "snacks for purchase",
+               "relationship": "snacks are placed on the shelf, some are close to the gloves, and others are near the bottles."
+          },
+          {
+               "name": "gloves",
+               "color": "black",
+               "form": "gloved hand",
+               "size": "large",
+               "location": "on the left side of the shelf",
+               "purpose": "protection",
+               "relationship": "gloves are placed on the left side of the shelf, away from the bottles and snacks."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottles",
+               "bbox": [
+                    184,
+                    425,
+                    215,
+                    479
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    171,
+                    295,
+                    280,
+                    386
+               ]
+          },
+          {
+               "object": "gloves",
+               "bbox": [
+                    0,
+                    184,
+                    179,
+                    354
+               ]
+          }
+     ]
+}

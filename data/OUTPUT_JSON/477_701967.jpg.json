@@ -1,0 +1,80 @@
+{
+     "image_name": "477_701967.jpg",
+     "description": "The image shows a table with a colorful fabric on it. There is a chair in the background and the floor is visible.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "in the center of the image",
+               "purpose": "to provide a surface for the fabric",
+               "relationship": "fabric is placed on the table"
+          },
+          {
+               "name": "fabric",
+               "color": "multi-colored",
+               "form": "rectangle",
+               "size": "large",
+               "location": "on the table",
+               "purpose": "to cover the table",
+               "relationship": "fabric is placed on the table"
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "circle",
+               "size": "small",
+               "location": "in the background",
+               "purpose": "to sit on",
+               "relationship": "chair is placed in the background"
+          },
+          {
+               "name": "floor",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "large",
+               "location": "in the background",
+               "purpose": "to walk on",
+               "relationship": "floor is visible in the background"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    1,
+                    155,
+                    534,
+                    477
+               ]
+          },
+          {
+               "object": "fabric",
+               "bbox": [
+                    103,
+                    200,
+                    406,
+                    367
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    355,
+                    0,
+                    442,
+                    98
+               ]
+          },
+          {
+               "object": "floor",
+               "bbox": [
+                    0,
+                    0,
+                    640,
+                    478
+               ]
+          }
+     ]
+}

@@ -1,0 +1,26 @@
+{
+     "image_name": "609_834794.jpg",
+     "description": "The image shows a shopping cart filled with various snacks. The cart is located in the lower part of the image, and the snacks are arranged in the upper part.",
+     "objects": [
+          {
+               "name": "snacks",
+               "color": "various colors",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "arranged in the upper part of the image",
+               "purpose": "for consumption",
+               "relationship": "snacks are placed in the shopping cart, which is located in the lower part of the image."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "snacks",
+               "bbox": [
+                    286,
+                    377,
+                    335,
+                    443
+               ]
+          }
+     ]
+}

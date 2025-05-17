@@ -1,0 +1,71 @@
+{
+     "image_name": "692_902577.jpg",
+     "description": "The image shows a room with a window, a wall, and two floors.",
+     "objects": [
+          {
+               "name": "window",
+               "color": "clear",
+               "form": "rectangle",
+               "size": "large",
+               "location": "on the left side of the image, covering a significant portion of the top half",
+               "purpose": "allows natural light into the room",
+               "relationship": "opposite the wall"
+          },
+          {
+               "name": "wall",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "on the right side of the image, covering a significant portion of the top half",
+               "purpose": "provides structure and support for the room",
+               "relationship": "opposite the window"
+          },
+          {
+               "name": "floor",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "large",
+               "location": "covering the bottom half of the image",
+               "purpose": "provides a surface for walking and placing objects",
+               "relationship": "under the window and wall"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "window",
+               "bbox": [
+                    0,
+                    14,
+                    310,
+                    453
+               ]
+          },
+          {
+               "object": "wall",
+               "bbox": [
+                    331,
+                    0,
+                    638,
+                    351
+               ]
+          },
+          {
+               "object": "floor",
+               "bbox": [
+                    0,
+                    379,
+                    638,
+                    479
+               ]
+          },
+          {
+               "object": "floor",
+               "bbox": [
+                    1,
+                    410,
+                    638,
+                    479
+               ]
+          }
+     ]
+}

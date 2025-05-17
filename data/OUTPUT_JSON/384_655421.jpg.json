@@ -1,0 +1,44 @@
+{
+     "image_name": "384_655421.jpg",
+     "description": "The image shows a bookshelf with various books and a toy car. The books are neatly arranged on the shelves, while the toy car is placed on the bottom shelf.",
+     "objects": [
+          {
+               "name": "books",
+               "color": "various colors",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "arranged on the shelves",
+               "purpose": "for reading",
+               "relationship": "The books are neatly arranged on the shelves, creating an organized appearance."
+          },
+          {
+               "name": "toy car",
+               "color": "red",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the bottom shelf",
+               "purpose": "for play",
+               "relationship": "The toy car is placed on the bottom shelf, separate from the books."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "books",
+               "bbox": [
+                    0,
+                    7,
+                    446,
+                    225
+               ]
+          },
+          {
+               "object": "toy car",
+               "bbox": [
+                    148,
+                    291,
+                    272,
+                    393
+               ]
+          }
+     ]
+}

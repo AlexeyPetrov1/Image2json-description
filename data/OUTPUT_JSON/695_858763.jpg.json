@@ -1,0 +1,62 @@
+{
+     "image_name": "695_858763.jpg",
+     "description": "The image contains a fan, a table, and some fruits. The fan is located on the right side of the table, and the fruits are placed on the table.",
+     "objects": [
+          {
+               "name": "fan",
+               "color": "white",
+               "form": "square",
+               "size": "large",
+               "location": "on the right side of the table",
+               "purpose": "air circulation",
+               "relationship": "The fan is placed on the right side of the table, providing air circulation."
+          },
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "in the center of the image",
+               "purpose": "surface for placing objects",
+               "relationship": "The table is located in the center of the image, providing a surface for placing the fan and fruits."
+          },
+          {
+               "name": "fruit",
+               "color": "yellow and red",
+               "form": "round",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "food",
+               "relationship": "The fruits are placed on the table, likely for consumption."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "fan",
+               "bbox": [
+                    261,
+                    61,
+                    628,
+                    392
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    1,
+                    91,
+                    636,
+                    478
+               ]
+          },
+          {
+               "object": "fruit",
+               "bbox": [
+                    66,
+                    97,
+                    166,
+                    184
+               ]
+          }
+     ]
+}

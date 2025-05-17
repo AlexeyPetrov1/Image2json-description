@@ -1,0 +1,80 @@
+{
+     "image_name": "380_648703.jpg",
+     "description": "The image shows a room with multiple chairs and a large cardboard box on a table. The chairs are scattered around the room, while the box is placed on the table.",
+     "objects": [
+          {
+               "name": "chairs",
+               "color": "black",
+               "form": "round",
+               "size": "medium",
+               "location": "scattered around the room",
+               "purpose": "seating",
+               "relationship": "The chairs are positioned in various locations around the room, some closer to the foreground and others further in the background."
+          },
+          {
+               "name": "box",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the table",
+               "purpose": "storage",
+               "relationship": "The large cardboard box is placed on the table, occupying a significant portion of the table's surface."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "chairs",
+               "bbox": [
+                    268,
+                    0,
+                    357,
+                    104
+               ]
+          },
+          {
+               "object": "chairs",
+               "bbox": [
+                    406,
+                    0,
+                    496,
+                    74
+               ]
+          },
+          {
+               "object": "chairs",
+               "bbox": [
+                    117,
+                    0,
+                    231,
+                    94
+               ]
+          },
+          {
+               "object": "chairs",
+               "bbox": [
+                    0,
+                    0,
+                    71,
+                    94
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    67,
+                    165,
+                    447,
+                    478
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    49,
+                    157,
+                    583,
+                    478
+               ]
+          }
+     ]
+}

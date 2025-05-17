@@ -1,0 +1,44 @@
+{
+     "image_name": "543_788521.jpg",
+     "description": "The image shows a conveyor belt with a cardboard box placed on it. There are two people standing in the background, and a clothing item is placed on the conveyor belt near the box.",
+     "objects": [
+          {
+               "name": "cardboard box",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the conveyor belt",
+               "purpose": "used for packaging",
+               "relationship": "The cardboard box is placed on the conveyor belt, likely for transportation or storage purposes."
+          },
+          {
+               "name": "clothing",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "unknown",
+               "location": "on the conveyor belt",
+               "purpose": "unknown",
+               "relationship": "The clothing item is placed on the conveyor belt near the cardboard box, possibly for packaging or sorting."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "cardboard box",
+               "bbox": [
+                    178,
+                    301,
+                    399,
+                    479
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    232,
+                    0,
+                    292,
+                    95
+               ]
+          }
+     ]
+}

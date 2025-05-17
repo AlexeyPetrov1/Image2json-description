@@ -1,0 +1,25 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/462_836604.jpg",
+    "objects": [
+        {
+            "label": "can",
+            "score": 0.5314525961875916,
+            "box": [
+                225,
+                224,
+                365,
+                405
+            ]
+        },
+        {
+            "label": "table",
+            "score": 0.42823341488838196,
+            "box": [
+                29,
+                0,
+                464,
+                158
+            ]
+        }
+    ]
+}

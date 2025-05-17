@@ -1,0 +1,44 @@
+{
+     "image_name": "570_794445.jpg",
+     "description": "The image shows a bed with a blue t-shirt and a black and white clothing item on it.",
+     "objects": [
+          {
+               "name": "t-shirt",
+               "color": "blue",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the bed",
+               "purpose": "clothing",
+               "relationship": "The t-shirt is placed on top of the bed."
+          },
+          {
+               "name": "clothing",
+               "color": "black and white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the bed",
+               "purpose": "clothing",
+               "relationship": "The clothing item is placed on top of the bed, next to the t-shirt."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "t-shirt",
+               "bbox": [
+                    160,
+                    78,
+                    463,
+                    391
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    447,
+                    43,
+                    556,
+                    130
+               ]
+          }
+     ]
+}

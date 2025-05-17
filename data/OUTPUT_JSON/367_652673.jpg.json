@@ -1,0 +1,98 @@
+{
+     "image_name": "367_652673.jpg",
+     "description": "The image shows a kitchen countertop with a blue plate, a banana, an apple, a toaster, and two pieces of bread.",
+     "objects": [
+          {
+               "name": "blue plate",
+               "color": "blue",
+               "form": "round",
+               "size": "medium",
+               "location": "on the countertop",
+               "purpose": "used for serving food",
+               "relationship": "The blue plate is placed on the countertop, near the banana and apple."
+          },
+          {
+               "name": "banana",
+               "color": "yellow",
+               "form": "curved",
+               "size": "small",
+               "location": "on the countertop",
+               "purpose": "a healthy snack",
+               "relationship": "The banana is placed on the countertop, near the blue plate and apple."
+          },
+          {
+               "name": "apple",
+               "color": "red",
+               "form": "round",
+               "size": "medium",
+               "location": "on the countertop",
+               "purpose": "a healthy snack",
+               "relationship": "The apple is placed on the countertop, near the blue plate and banana."
+          },
+          {
+               "name": "toaster",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the countertop",
+               "purpose": "used for toasting bread",
+               "relationship": "The toaster is placed on the countertop, near the blue plate, banana, and apple."
+          },
+          {
+               "name": "bread",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "small",
+               "location": "in the toaster",
+               "purpose": "used for toasting",
+               "relationship": "The bread is placed inside the toaster, near the blue plate, banana, and apple."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "blue plate",
+               "bbox": [
+                    227,
+                    253,
+                    347,
+                    392
+               ]
+          },
+          {
+               "object": "banana",
+               "bbox": [
+                    258,
+                    171,
+                    311,
+                    248
+               ]
+          },
+          {
+               "object": "apple",
+               "bbox": [
+                    299,
+                    183,
+                    338,
+                    229
+               ]
+          },
+          {
+               "object": "toaster",
+               "bbox": [
+                    367,
+                    212,
+                    517,
+                    351
+               ]
+          },
+          {
+               "object": "bread",
+               "bbox": [
+                    409,
+                    201,
+                    487,
+                    244
+               ]
+          }
+     ]
+}

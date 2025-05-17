@@ -1,0 +1,44 @@
+{
+     "image_name": "465_690835.jpg",
+     "description": "The image shows a washing machine with clothes inside. The washing machine is located on the left side of the image, while the clothes are on the right side.",
+     "objects": [
+          {
+               "name": "washing machine",
+               "color": "black",
+               "form": "rectangular",
+               "size": "large",
+               "location": "left side of the image",
+               "purpose": "washing clothes",
+               "relationship": "clothes are inside the washing machine"
+          },
+          {
+               "name": "clothes",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "right side of the image",
+               "purpose": "to be washed",
+               "relationship": "clothes are inside the washing machine"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "washing machine",
+               "bbox": [
+                    57,
+                    0,
+                    506,
+                    327
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    392,
+                    227,
+                    589,
+                    426
+               ]
+          }
+     ]
+}

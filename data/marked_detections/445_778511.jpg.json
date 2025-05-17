@@ -1,0 +1,35 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/445_778511.jpg",
+    "objects": [
+        {
+            "label": "bottle",
+            "score": 0.2991051971912384,
+            "box": [
+                137,
+                218,
+                173,
+                299
+            ]
+        },
+        {
+            "label": "door",
+            "score": 0.2925952970981598,
+            "box": [
+                248,
+                0,
+                638,
+                478
+            ]
+        },
+        {
+            "label": "bottle",
+            "score": 0.2925952970981598,
+            "box": [
+                96,
+                206,
+                149,
+                302
+            ]
+        }
+    ]
+}

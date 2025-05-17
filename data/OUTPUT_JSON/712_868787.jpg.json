@@ -1,0 +1,179 @@
+{
+     "image_name": "712_868787.jpg",
+     "description": "The image shows a room with various objects, including chairs, tables, and bottles. The chairs are placed around the room, with one near the top left corner and another near the top right corner. There is a table in the middle of the room, with chairs around it. The bottles are scattered throughout the room, with some near the chairs and others near the table.",
+     "objects": [
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "near the top left corner of the room",
+               "purpose": "providing seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "near the top right corner of the room",
+               "purpose": "providing seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "near the bottom left corner of the room",
+               "purpose": "providing seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "near the bottom right corner of the room",
+               "purpose": "providing seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "table",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the middle of the room",
+               "purpose": "providing a surface for placing objects",
+               "relationship": "surrounded by chairs"
+          },
+          {
+               "name": "bottle",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "near the top left corner of the room",
+               "purpose": "containing liquid",
+               "relationship": "adjacent to the chair"
+          },
+          {
+               "name": "bottle",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "near the top right corner of the room",
+               "purpose": "containing liquid",
+               "relationship": "adjacent to the chair"
+          },
+          {
+               "name": "bottle",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "near the bottom left corner of the room",
+               "purpose": "containing liquid",
+               "relationship": "adjacent to the chair"
+          },
+          {
+               "name": "bottle",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "near the bottom right corner of the room",
+               "purpose": "containing liquid",
+               "relationship": "adjacent to the chair"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "chair",
+               "bbox": [
+                    7,
+                    0,
+                    127,
+                    136
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    105,
+                    0,
+                    208,
+                    76
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    444,
+                    0,
+                    516,
+                    67
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    545,
+                    0,
+                    604,
+                    26
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    1,
+                    189,
+                    360,
+                    478
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    346,
+                    196,
+                    453,
+                    429
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    349,
+                    250,
+                    404,
+                    383
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    348,
+                    203,
+                    391,
+                    326
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    389,
+                    195,
+                    436,
+                    261
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    362,
+                    299,
+                    423,
+                    429
+               ]
+          }
+     ]
+}

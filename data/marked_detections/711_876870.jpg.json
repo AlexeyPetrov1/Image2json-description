@@ -1,0 +1,25 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/711_876870.jpg",
+    "objects": [
+        {
+            "label": "floor",
+            "score": 0.3656831681728363,
+            "box": [
+                0,
+                0,
+                639,
+                479
+            ]
+        },
+        {
+            "label": "cable",
+            "score": 0.3007456064224243,
+            "box": [
+                0,
+                122,
+                64,
+                262
+            ]
+        }
+    ]
+}

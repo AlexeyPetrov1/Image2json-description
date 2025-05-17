@@ -1,0 +1,143 @@
+{
+     "image_name": "366_724752.jpg",
+     "description": "The image shows a scene with various objects, including bags, bottles, and boxes. The objects are placed on a blue tray, and there is a chair in the background.",
+     "objects": [
+          {
+               "name": "bags",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "placed on the blue tray",
+               "purpose": "used for carrying items",
+               "relationship": "adjacent to bottles and boxes"
+          },
+          {
+               "name": "bottles",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "placed on the blue tray",
+               "purpose": "containing liquid",
+               "relationship": "adjacent to bags and boxes"
+          },
+          {
+               "name": "boxes",
+               "color": "white",
+               "form": "rectangular",
+               "size": "large",
+               "location": "placed on the blue tray",
+               "purpose": "used for packaging",
+               "relationship": "adjacent to bags and bottles"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bags",
+               "bbox": [
+                    217,
+                    191,
+                    299,
+                    336
+               ]
+          },
+          {
+               "object": "bottles",
+               "bbox": [
+                    220,
+                    328,
+                    258,
+                    387
+               ]
+          },
+          {
+               "object": "bottles",
+               "bbox": [
+                    266,
+                    323,
+                    300,
+                    388
+               ]
+          },
+          {
+               "object": "bottles",
+               "bbox": [
+                    211,
+                    380,
+                    247,
+                    411
+               ]
+          },
+          {
+               "object": "bags",
+               "bbox": [
+                    435,
+                    143,
+                    501,
+                    254
+               ]
+          },
+          {
+               "object": "boxes",
+               "bbox": [
+                    585,
+                    200,
+                    639,
+                    356
+               ]
+          },
+          {
+               "object": "bottles",
+               "bbox": [
+                    247,
+                    378,
+                    283,
+                    421
+               ]
+          },
+          {
+               "object": "boxes",
+               "bbox": [
+                    167,
+                    202,
+                    341,
+                    464
+               ]
+          },
+          {
+               "object": "bags",
+               "bbox": [
+                    381,
+                    161,
+                    436,
+                    262
+               ]
+          },
+          {
+               "object": "boxes",
+               "bbox": [
+                    335,
+                    166,
+                    571,
+                    479
+               ]
+          },
+          {
+               "object": "bags",
+               "bbox": [
+                    321,
+                    144,
+                    378,
+                    297
+               ]
+          },
+          {
+               "object": "boxes",
+               "bbox": [
+                    95,
+                    203,
+                    342,
+                    463
+               ]
+          }
+     ]
+}

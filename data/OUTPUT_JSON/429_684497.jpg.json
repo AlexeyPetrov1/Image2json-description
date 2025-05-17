@@ -1,0 +1,44 @@
+{
+     "image_name": "429_684497.jpg",
+     "description": "The image shows a motherboard placed on a table. There are two robotic arms on either side of the motherboard, with one arm holding a red object.",
+     "objects": [
+          {
+               "name": "motherboard",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "electronic component",
+               "relationship": "on the table"
+          },
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "background of the image",
+               "purpose": "supporting surface",
+               "relationship": "under the motherboard"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "motherboard",
+               "bbox": [
+                    300,
+                    450,
+                    500,
+                    600
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    0,
+                    0,
+                    639,
+                    478
+               ]
+          }
+     ]
+}

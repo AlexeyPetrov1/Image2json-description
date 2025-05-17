@@ -1,0 +1,44 @@
+{
+     "image_name": "715_878193.jpg",
+     "description": "The image shows a robot interacting with a door. The robot is positioned in front of the door, with its arm extended towards the door handle. The floor is visible in the lower part of the image.",
+     "objects": [
+          {
+               "name": "door",
+               "color": "gray",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in front of the robot",
+               "purpose": "The door serves as the target for the robot's interaction.",
+               "relationship": "The robot is positioned in front of the door, with its arm extended towards the door handle."
+          },
+          {
+               "name": "handle",
+               "color": "black",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the door",
+               "purpose": "The handle is the point of interaction for the robot.",
+               "relationship": "The robot's arm is extended towards the door handle."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "door",
+               "bbox": [
+                    0,
+                    0,
+                    476,
+                    477
+               ]
+          },
+          {
+               "object": "handle",
+               "bbox": [
+                    371,
+                    70,
+                    446,
+                    199
+               ]
+          }
+     ]
+}

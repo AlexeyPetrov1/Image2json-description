@@ -1,0 +1,44 @@
+{
+     "image_name": "589_817884.jpg",
+     "description": "The image shows a kitchen scene with two robotic arms, one holding an egg and the other holding a bottle.",
+     "objects": [
+          {
+               "name": "egg",
+               "color": "beige",
+               "form": "round",
+               "size": "small",
+               "location": "being held by the robotic arm on the left",
+               "purpose": "likely to be used in cooking or baking",
+               "relationship": "close to the robotic arm holding the bottle"
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "being held by the robotic arm on the right",
+               "purpose": "likely to contain a liquid ingredient for cooking or baking",
+               "relationship": "close to the robotic arm holding the egg"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "egg",
+               "bbox": [
+                    402,
+                    326,
+                    443,
+                    385
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    575,
+                    96,
+                    621,
+                    169
+               ]
+          }
+     ]
+}

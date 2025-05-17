@@ -1,0 +1,89 @@
+{
+     "image_name": "573_795558.jpg",
+     "description": "The image shows a table with a vase of flowers and two drawers. The vase is placed on the table, and the drawers are located below the table.",
+     "objects": [
+          {
+               "name": "vase",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the table",
+               "purpose": "to hold flowers",
+               "relationship": "The vase is placed on the table, and the drawers are located below the table."
+          },
+          {
+               "name": "flowers",
+               "color": "various",
+               "form": "bouquet",
+               "size": "medium",
+               "location": "in the vase",
+               "purpose": "to decorate the table",
+               "relationship": "The flowers are placed in the vase, which is on the table."
+          },
+          {
+               "name": "table",
+               "color": "gray",
+               "form": "square",
+               "size": "large",
+               "location": "in the center of the image",
+               "purpose": "to hold objects",
+               "relationship": "The vase and flowers are placed on the table, and the drawers are located below the table."
+          },
+          {
+               "name": "drawer",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "below the table",
+               "purpose": "to store items",
+               "relationship": "There are two drawers located below the table, one on the left and one on the right."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "vase",
+               "bbox": [
+                    262,
+                    85,
+                    324,
+                    202
+               ]
+          },
+          {
+               "object": "flowers",
+               "bbox": [
+                    260,
+                    0,
+                    362,
+                    107
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    1,
+                    11,
+                    570,
+                    400
+               ]
+          },
+          {
+               "object": "drawer",
+               "bbox": [
+                    349,
+                    293,
+                    471,
+                    336
+               ]
+          },
+          {
+               "object": "drawer",
+               "bbox": [
+                    107,
+                    293,
+                    352,
+                    338
+               ]
+          }
+     ]
+}

@@ -1,0 +1,62 @@
+{
+     "image_name": "622_842262.jpg",
+     "description": "The image shows a table with a checkered tablecloth. On the table, there are various objects including a lid, a bag, and a container with food. The lid is placed on top of the container, and the bag is placed nearby.",
+     "objects": [
+          {
+               "name": "lid",
+               "color": "white",
+               "form": "square",
+               "size": "small",
+               "location": "on top of the container",
+               "purpose": "to cover the container",
+               "relationship": "in contact with the container"
+          },
+          {
+               "name": "bag",
+               "color": "yellow",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the table",
+               "purpose": "to store items",
+               "relationship": "near the container"
+          },
+          {
+               "name": "container with food",
+               "color": "clear",
+               "form": "round",
+               "size": "medium",
+               "location": "on the table",
+               "purpose": "to store food",
+               "relationship": "under the lid"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "lid",
+               "bbox": [
+                    137,
+                    144,
+                    222,
+                    217
+               ]
+          },
+          {
+               "object": "bag",
+               "bbox": [
+                    456,
+                    127,
+                    556,
+                    212
+               ]
+          },
+          {
+               "object": "container with food",
+               "bbox": [
+                    235,
+                    57,
+                    337,
+                    150
+               ]
+          }
+     ]
+}

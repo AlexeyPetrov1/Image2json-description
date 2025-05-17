@@ -1,0 +1,44 @@
+{
+     "image_name": "694_881816.jpg",
+     "description": "The image shows a table with a bottle and a glass on it. The bottle is located in the center of the table, while the glass is slightly to the left of the bottle.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "in the center of the table",
+               "purpose": "to hold a liquid",
+               "relationship": "The bottle is placed on the table, with the glass to its left."
+          },
+          {
+               "name": "glass",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "to the left of the bottle",
+               "purpose": "to hold a liquid",
+               "relationship": "The glass is placed on the table, to the left of the bottle."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    229,
+                    196,
+                    278,
+                    304
+               ]
+          },
+          {
+               "object": "glass",
+               "bbox": [
+                    287,
+                    121,
+                    322,
+                    184
+               ]
+          }
+     ]
+}

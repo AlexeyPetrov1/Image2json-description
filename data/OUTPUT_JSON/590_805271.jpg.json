@@ -1,0 +1,107 @@
+{
+     "image_name": "590_805271.jpg",
+     "description": "The image shows a table with various objects on it. There are two chairs, one on the left and one on the right, with a table between them. On the table, there is a plant in a pot, a glass, and a bottle. The plant is located on the left side of the table, the glass is in the middle, and the bottle is on the right side.",
+     "objects": [
+          {
+               "name": "chair",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left and right side of the table",
+               "purpose": "to sit on",
+               "relationship": "located on the left and right side of the table"
+          },
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the middle of the image",
+               "purpose": "to place objects on",
+               "relationship": "located in the middle of the image"
+          },
+          {
+               "name": "plant",
+               "color": "green",
+               "form": "pot",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "to decorate the table",
+               "relationship": "located on the left side of the table"
+          },
+          {
+               "name": "glass",
+               "color": "clear",
+               "form": "cylinder",
+               "size": "small",
+               "location": "in the middle of the table",
+               "purpose": "to drink from",
+               "relationship": "located in the middle of the table"
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylinder",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "to contain liquid",
+               "relationship": "located on the right side of the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "chair",
+               "bbox": [
+                    425,
+                    0,
+                    508,
+                    128
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    119,
+                    0,
+                    224,
+                    152
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    124,
+                    0,
+                    543,
+                    479
+               ]
+          },
+          {
+               "object": "plant",
+               "bbox": [
+                    234,
+                    0,
+                    293,
+                    123
+               ]
+          },
+          {
+               "object": "glass",
+               "bbox": [
+                    396,
+                    338,
+                    446,
+                    416
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    311,
+                    66,
+                    362,
+                    115
+               ]
+          }
+     ]
+}

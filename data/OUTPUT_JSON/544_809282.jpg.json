@@ -1,0 +1,80 @@
+{
+     "image_name": "544_809282.jpg",
+     "description": "The image shows a kitchen scene with a sink, a sponge, a bottle, and several bowls. The sink is located in the center of the image, with the sponge placed on its left side. The bottle is positioned above the sink, and the bowls are placed to the right of the sink.",
+     "objects": [
+          {
+               "name": "sink",
+               "color": "silver",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "used for washing dishes",
+               "relationship": "The sponge is placed on the left side of the sink, and the bottle is positioned above the sink."
+          },
+          {
+               "name": "sponge",
+               "color": "green",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "left side of the sink",
+               "purpose": "used for cleaning dishes",
+               "relationship": "The sponge is placed on the left side of the sink, and the bottle is positioned above the sink."
+          },
+          {
+               "name": "bottle",
+               "color": "green",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "above the sink",
+               "purpose": "used for cleaning dishes",
+               "relationship": "The bottle is positioned above the sink, and the sponge is placed on the left side of the sink."
+          },
+          {
+               "name": "bowls",
+               "color": "orange",
+               "form": "circular",
+               "size": "medium",
+               "location": "right side of the sink",
+               "purpose": "used for serving food",
+               "relationship": "The bowls are placed to the right of the sink, and the sponge is placed on the left side of the sink."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "sink",
+               "bbox": [
+                    72,
+                    188,
+                    380,
+                    478
+               ]
+          },
+          {
+               "object": "sponge",
+               "bbox": [
+                    123,
+                    151,
+                    191,
+                    200
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    241,
+                    70,
+                    286,
+                    181
+               ]
+          },
+          {
+               "object": "bowls",
+               "bbox": [
+                    429,
+                    136,
+                    525,
+                    244
+               ]
+          }
+     ]
+}

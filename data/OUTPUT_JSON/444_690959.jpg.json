@@ -1,0 +1,26 @@
+{
+     "image_name": "444_690959.jpg",
+     "description": "The image shows a table with a black clothing item placed on it. The clothing item is centrally located on the table.",
+     "objects": [
+          {
+               "name": "clothing",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "central on the table",
+               "purpose": "unknown",
+               "relationship": "clothing is placed on the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "clothing",
+               "bbox": [
+                    167,
+                    111,
+                    535,
+                    478
+               ]
+          }
+     ]
+}

@@ -1,0 +1,44 @@
+{
+     "image_name": "438_684856.jpg",
+     "description": "The image shows a table with various objects on it. There is a clothing item on the left side of the table and a book on the right side.",
+     "objects": [
+          {
+               "name": "clothing",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "unknown",
+               "relationship": "clothing is on the left side of the table"
+          },
+          {
+               "name": "book",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "unknown",
+               "relationship": "book is on the right side of the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "clothing",
+               "bbox": [
+                    161,
+                    0,
+                    195,
+                    47
+               ]
+          },
+          {
+               "object": "book",
+               "bbox": [
+                    55,
+                    145,
+                    591,
+                    478
+               ]
+          }
+     ]
+}

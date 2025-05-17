@@ -1,0 +1,44 @@
+{
+     "image_name": "547_845311.jpg",
+     "description": "The image shows a washing machine with its door open, revealing the drum inside. There is a piece of clothing inside the drum, partially visible.",
+     "objects": [
+          {
+               "name": "washing machine",
+               "color": "silver",
+               "form": "rectangular",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "used for washing clothes",
+               "relationship": "clothing is inside the drum of the washing machine"
+          },
+          {
+               "name": "clothing",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "inside the drum of the washing machine",
+               "purpose": "to be washed",
+               "relationship": "clothing is inside the drum of the washing machine"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "washing machine",
+               "bbox": [
+                    1,
+                    0,
+                    639,
+                    478
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    227,
+                    353,
+                    421,
+                    479
+               ]
+          }
+     ]
+}

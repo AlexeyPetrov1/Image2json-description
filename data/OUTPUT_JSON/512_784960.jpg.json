@@ -1,0 +1,62 @@
+{
+     "image_name": "512_784960.jpg",
+     "description": "The image shows a whiteboard with some text written on it. There is also an eraser near the bottom right corner of the whiteboard.",
+     "objects": [
+          {
+               "name": "whiteboard",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "used for writing and displaying information",
+               "relationship": "The eraser is located near the bottom right corner of the whiteboard."
+          },
+          {
+               "name": "text",
+               "color": "red",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "top right corner of the whiteboard",
+               "purpose": "used for writing and displaying information",
+               "relationship": "The eraser is located near the bottom right corner of the whiteboard."
+          },
+          {
+               "name": "eraser",
+               "color": "red",
+               "form": "rectangle",
+               "size": "small",
+               "location": "bottom right corner of the whiteboard",
+               "purpose": "used for erasing written information",
+               "relationship": "The eraser is located near the bottom right corner of the whiteboard."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "whiteboard",
+               "bbox": [
+                    26,
+                    0,
+                    610,
+                    346
+               ]
+          },
+          {
+               "object": "text",
+               "bbox": [
+                    264,
+                    70,
+                    477,
+                    163
+               ]
+          },
+          {
+               "object": "eraser",
+               "bbox": [
+                    390,
+                    352,
+                    443,
+                    387
+               ]
+          }
+     ]
+}

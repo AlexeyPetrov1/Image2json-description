@@ -1,0 +1,44 @@
+{
+     "image_name": "445_778511.jpg",
+     "description": "The image contains a bottle and a door. The bottle is located on the left side of the image, near the bottom. The door is located on the right side of the image, covering a large portion of the background.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "unknown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the left side of the image, near the bottom",
+               "purpose": "unknown",
+               "relationship": "The bottle is located near the bottom of the image, close to the door."
+          },
+          {
+               "name": "door",
+               "color": "unknown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the right side of the image, covering a large portion of the background",
+               "purpose": "unknown",
+               "relationship": "The door is located on the right side of the image, covering a large portion of the background."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    137,
+                    218,
+                    173,
+                    299
+               ]
+          },
+          {
+               "object": "door",
+               "bbox": [
+                    248,
+                    0,
+                    638,
+                    478
+               ]
+          }
+     ]
+}

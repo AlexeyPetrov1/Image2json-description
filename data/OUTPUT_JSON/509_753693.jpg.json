@@ -1,0 +1,80 @@
+{
+     "image_name": "509_753693.jpg",
+     "description": "The image shows a bathroom scene with a mirror, a sink, a toothbrush, and a bottle of toothpaste.",
+     "objects": [
+          {
+               "name": "mirror",
+               "color": "white",
+               "form": "rectangular",
+               "size": "large",
+               "location": "attached to the wall above the sink",
+               "purpose": "reflects the image of the person",
+               "relationship": "above the sink"
+          },
+          {
+               "name": "sink",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "under the mirror",
+               "purpose": "for washing hands and face",
+               "relationship": "under the mirror"
+          },
+          {
+               "name": "toothbrush",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the sink",
+               "purpose": "for brushing teeth",
+               "relationship": "on the sink"
+          },
+          {
+               "name": "toothpaste",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the sink",
+               "purpose": "for use with the toothbrush",
+               "relationship": "on the sink"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "mirror",
+               "bbox": [
+                    225,
+                    0,
+                    636,
+                    222
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    233,
+                    316,
+                    639,
+                    478
+               ]
+          },
+          {
+               "object": "toothbrush",
+               "bbox": [
+                    563,
+                    77,
+                    575,
+                    109
+               ]
+          },
+          {
+               "object": "toothpaste",
+               "bbox": [
+                    340,
+                    285,
+                    370,
+                    365
+               ]
+          }
+     ]
+}

@@ -1,0 +1,62 @@
+{
+     "image_name": "468_727980.jpg",
+     "description": "The image shows a clothing rack with various items of clothing hanging on it. There are two hangers, one with a shirt and the other with a blouse. A basket is placed on the lower part of the rack.",
+     "objects": [
+          {
+               "name": "shirt",
+               "color": "brown",
+               "form": "long-sleeved",
+               "size": "medium",
+               "location": "hanging on the right hanger",
+               "purpose": "to display the shirt",
+               "relationship": "hanging on the right hanger, next to the blouse"
+          },
+          {
+               "name": "blouse",
+               "color": "brown",
+               "form": "long-sleeved",
+               "size": "medium",
+               "location": "hanging on the left hanger",
+               "purpose": "to display the blouse",
+               "relationship": "hanging on the left hanger, next to the shirt"
+          },
+          {
+               "name": "basket",
+               "color": "brown",
+               "form": "square",
+               "size": "small",
+               "location": "placed on the lower part of the rack",
+               "purpose": "to store items",
+               "relationship": "placed on the lower part of the rack, next to the hangers"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "shirt",
+               "bbox": [
+                    501,
+                    31,
+                    559,
+                    144
+               ]
+          },
+          {
+               "object": "blouse",
+               "bbox": [
+                    327,
+                    30,
+                    394,
+                    182
+               ]
+          },
+          {
+               "object": "basket",
+               "bbox": [
+                    136,
+                    355,
+                    286,
+                    478
+               ]
+          }
+     ]
+}

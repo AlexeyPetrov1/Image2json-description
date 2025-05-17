@@ -1,0 +1,26 @@
+{
+     "image_name": "533_861737.jpg",
+     "description": "The image shows a pair of curtains in the background, with two robotic arms in the foreground.",
+     "objects": [
+          {
+               "name": "curtains",
+               "color": "white",
+               "form": "vertical stripes",
+               "size": "large",
+               "location": "in the background, covering the entire width of the image",
+               "purpose": "to provide privacy and control the amount of light entering the room",
+               "relationship": "The curtains are parallel to each other, creating a symmetrical appearance."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "curtains",
+               "bbox": [
+                    0,
+                    0,
+                    639,
+                    479
+               ]
+          }
+     ]
+}

@@ -1,0 +1,44 @@
+{
+     "image_name": "462_836604.jpg",
+     "description": "The image shows a room with a table and a trash can. The table is located in the background, while the trash can is in the foreground.",
+     "objects": [
+          {
+               "name": "trash can",
+               "color": "black",
+               "form": "cylinder",
+               "size": "medium",
+               "location": "in the foreground, in front of the table",
+               "purpose": "to dispose of waste",
+               "relationship": "in front of the table"
+          },
+          {
+               "name": "table",
+               "color": "brown",
+               "form": "rectangle",
+               "size": "large",
+               "location": "in the background, behind the trash can",
+               "purpose": "to place items",
+               "relationship": "behind the trash can"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "trash can",
+               "bbox": [
+                    225,
+                    224,
+                    365,
+                    405
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    29,
+                    0,
+                    464,
+                    158
+               ]
+          }
+     ]
+}

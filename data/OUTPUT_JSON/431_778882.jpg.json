@@ -1,0 +1,62 @@
+{
+     "image_name": "431_778882.jpg",
+     "description": "The image shows a scene with three bottles placed on a countertop. The bottles are positioned close to each other, with one on the left, one in the middle, and one on the right.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "unknown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the countertop",
+               "purpose": "unknown",
+               "relationship": "close to the other bottles"
+          },
+          {
+               "name": "bottle",
+               "color": "unknown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "in the middle of the countertop",
+               "purpose": "unknown",
+               "relationship": "close to the other bottles"
+          },
+          {
+               "name": "bottle",
+               "color": "unknown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the right side of the countertop",
+               "purpose": "unknown",
+               "relationship": "close to the other bottles"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    402,
+                    134,
+                    439,
+                    256
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    373,
+                    204,
+                    400,
+                    262
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    429,
+                    143,
+                    466,
+                    253
+               ]
+          }
+     ]
+}

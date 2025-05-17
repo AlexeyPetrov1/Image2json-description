@@ -1,0 +1,80 @@
+{
+     "image_name": "717_876722.jpg",
+     "description": "The image shows a table with various objects on it. There is a clothing item on the left side of the table, a plant in the middle, and a storage container on the right side. The table also has a flower arrangement on it.",
+     "objects": [
+          {
+               "name": "clothing",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "small",
+               "location": "left side of the table",
+               "purpose": "unknown",
+               "relationship": "clothing is placed on the table"
+          },
+          {
+               "name": "plant",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "small",
+               "location": "middle of the table",
+               "purpose": "unknown",
+               "relationship": "plant is placed on the table"
+          },
+          {
+               "name": "storage",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "medium",
+               "location": "right side of the table",
+               "purpose": "unknown",
+               "relationship": "storage container is placed on the table"
+          },
+          {
+               "name": "flower",
+               "color": "unknown",
+               "form": "unknown",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "unknown",
+               "relationship": "flower arrangement is placed on the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "clothing",
+               "bbox": [
+                    98,
+                    0,
+                    228,
+                    214
+               ]
+          },
+          {
+               "object": "plant",
+               "bbox": [
+                    440,
+                    138,
+                    505,
+                    204
+               ]
+          },
+          {
+               "object": "storage",
+               "bbox": [
+                    261,
+                    194,
+                    407,
+                    463
+               ]
+          },
+          {
+               "object": "flower",
+               "bbox": [
+                    473,
+                    145,
+                    486,
+                    160
+               ]
+          }
+     ]
+}

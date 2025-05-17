@@ -1,0 +1,44 @@
+{
+     "image_name": "485_724773.jpg",
+     "description": "The image shows a table with a book and a pen holder on it.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "in the center of the image",
+               "purpose": "to provide a surface for placing objects",
+               "relationship": "The book and the pen holder are placed on the table."
+          },
+          {
+               "name": "book",
+               "color": "blue and yellow",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "to provide information or entertainment",
+               "relationship": "The book is placed on the table next to the pen holder."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    87,
+                    75,
+                    585,
+                    435
+               ]
+          },
+          {
+               "object": "book",
+               "bbox": [
+                    152,
+                    78,
+                    239,
+                    133
+               ]
+          }
+     ]
+}

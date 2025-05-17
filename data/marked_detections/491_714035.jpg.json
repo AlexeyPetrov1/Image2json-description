@@ -1,0 +1,15 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/491_714035.jpg",
+    "objects": [
+        {
+            "label": "clothing",
+            "score": 0.45495641231536865,
+            "box": [
+                183,
+                253,
+                457,
+                479
+            ]
+        }
+    ]
+}

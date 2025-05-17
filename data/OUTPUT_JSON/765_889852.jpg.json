@@ -1,0 +1,44 @@
+{
+     "image_name": "765_889852.jpg",
+     "description": "The image shows a shelf with various bottles and tubes of skincare products. There are two bottles highlighted, one located in the center and the other on the right side of the shelf.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "center of the shelf",
+               "purpose": "contains a skincare product",
+               "relationship": "The bottle in the center is surrounded by other bottles and tubes of skincare products."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "right side of the shelf",
+               "purpose": "contains a skincare product",
+               "relationship": "The bottle on the right side of the shelf is placed next to other bottles and tubes of skincare products."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    187,
+                    154,
+                    287,
+                    385
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    335,
+                    22,
+                    383,
+                    184
+               ]
+          }
+     ]
+}

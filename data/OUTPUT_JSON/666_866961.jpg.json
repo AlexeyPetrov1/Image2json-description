@@ -1,0 +1,62 @@
+{
+     "image_name": "666_866961.jpg",
+     "description": "The image shows a table with a box, a marker, and a battery. The box is located in the center of the table, while the marker and battery are on the left and right sides, respectively.",
+     "objects": [
+          {
+               "name": "box",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the table",
+               "purpose": "storage",
+               "relationship": "The box is surrounded by the marker and the battery."
+          },
+          {
+               "name": "marker",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "left side of the table",
+               "purpose": "writing",
+               "relationship": "The marker is placed near the box and the battery."
+          },
+          {
+               "name": "battery",
+               "color": "blue",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "right side of the table",
+               "purpose": "power supply",
+               "relationship": "The battery is placed near the marker and the box."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "box",
+               "bbox": [
+                    197,
+                    153,
+                    350,
+                    261
+               ]
+          },
+          {
+               "object": "marker",
+               "bbox": [
+                    368,
+                    312,
+                    436,
+                    326
+               ]
+          },
+          {
+               "object": "battery",
+               "bbox": [
+                    368,
+                    312,
+                    436,
+                    326
+               ]
+          }
+     ]
+}

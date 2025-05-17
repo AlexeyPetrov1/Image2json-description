@@ -1,0 +1,62 @@
+{
+     "image_name": "575_807540.jpg",
+     "description": "The image shows a room with a window in the background. There is a basket on the floor, a cup on a surface, and several boxes scattered around the room.",
+     "objects": [
+          {
+               "name": "basket",
+               "color": "green",
+               "form": "square",
+               "size": "medium",
+               "location": "on the floor, near the window",
+               "purpose": "storage",
+               "relationship": "The basket is placed near the window, possibly for easy access to items stored inside."
+          },
+          {
+               "name": "cup",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on a surface, near the window",
+               "purpose": "drinking",
+               "relationship": "The cup is placed on a surface near the window, possibly for easy access to a drink."
+          },
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the floor, near the window",
+               "purpose": "storage",
+               "relationship": "The box is placed near the window, possibly for easy access to items stored inside."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "basket",
+               "bbox": [
+                    256,
+                    287,
+                    422,
+                    455
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    440,
+                    165,
+                    481,
+                    216
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    278,
+                    181,
+                    357,
+                    217
+               ]
+          }
+     ]
+}

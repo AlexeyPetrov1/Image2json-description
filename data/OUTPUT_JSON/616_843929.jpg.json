@@ -1,0 +1,44 @@
+{
+     "image_name": "616_843929.jpg",
+     "description": "The image shows a striped cloth placed on a table. The cloth is located in the center of the image, covering a significant portion of the table.",
+     "objects": [
+          {
+               "name": "cloth",
+               "color": "red and white stripes",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the center of the image, covering a significant portion of the table",
+               "purpose": "unknown",
+               "relationship": "The cloth is placed on top of the table."
+          },
+          {
+               "name": "table",
+               "color": "gray",
+               "form": "rectangular",
+               "size": "large",
+               "location": "under the cloth",
+               "purpose": "unknown",
+               "relationship": "The cloth is placed on top of the table."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "cloth",
+               "bbox": [
+                    215,
+                    52,
+                    499,
+                    463
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    0,
+                    0,
+                    639,
+                    476
+               ]
+          }
+     ]
+}

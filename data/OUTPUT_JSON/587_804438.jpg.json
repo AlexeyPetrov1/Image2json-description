@@ -1,0 +1,143 @@
+{
+     "image_name": "587_804438.jpg",
+     "description": "The image shows a table with various objects placed on it. There are several boxes of different sizes, a cup, a book, and two markers. The boxes are scattered across the table, with one on the left side, one in the middle, and two on the right side. The cup is located in the center of the table, surrounded by the boxes. The book is placed to the left of the cup, and the two markers are positioned to the right of the cup.",
+     "objects": [
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "storage",
+               "relationship": "surrounded by other boxes"
+          },
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "in the middle of the table",
+               "purpose": "storage",
+               "relationship": "surrounded by other boxes"
+          },
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the right side of the table",
+               "purpose": "storage",
+               "relationship": "surrounded by other boxes"
+          },
+          {
+               "name": "cup",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "in the center of the table",
+               "purpose": "drinking",
+               "relationship": "surrounded by boxes"
+          },
+          {
+               "name": "book",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "to the left of the cup",
+               "purpose": "reading",
+               "relationship": "surrounded by boxes"
+          },
+          {
+               "name": "marker",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "to the right of the cup",
+               "purpose": "writing",
+               "relationship": "surrounded by boxes"
+          },
+          {
+               "name": "marker",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "to the right of the cup",
+               "purpose": "writing",
+               "relationship": "surrounded by boxes"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "box",
+               "bbox": [
+                    157,
+                    99,
+                    252,
+                    223
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    364,
+                    115,
+                    451,
+                    161
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    570,
+                    165,
+                    639,
+                    314
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    309,
+                    197,
+                    356,
+                    282
+               ]
+          },
+          {
+               "object": "book",
+               "bbox": [
+                    249,
+                    135,
+                    313,
+                    223
+               ]
+          },
+          {
+               "object": "marker",
+               "bbox": [
+                    325,
+                    125,
+                    344,
+                    196
+               ]
+          },
+          {
+               "object": "marker",
+               "bbox": [
+                    358,
+                    281,
+                    392,
+                    375
+               ]
+          },
+          {
+               "object": "marker",
+               "bbox": [
+                    271,
+                    288,
+                    315,
+                    376
+               ]
+          }
+     ]
+}

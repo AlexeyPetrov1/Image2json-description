@@ -1,0 +1,26 @@
+{
+     "image_name": "369_778774.jpg",
+     "description": "The image shows a Haier washing machine in a store setting. The machine is prominently displayed, taking up a significant portion of the image.",
+     "objects": [
+          {
+               "name": "Haier washing machine",
+               "color": "gray",
+               "form": "rectangular",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "washing clothes",
+               "relationship": "The washing machine is the main object in the image, with other objects surrounding it."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "Haier washing machine",
+               "bbox": [
+                    162,
+                    0,
+                    625,
+                    472
+               ]
+          }
+     ]
+}

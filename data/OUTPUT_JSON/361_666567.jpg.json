@@ -1,0 +1,44 @@
+{
+     "image_name": "361_666567.jpg",
+     "description": "The image shows a bed with a clothing item on it. The bed occupies the majority of the image, while the clothing item is placed on top of it.",
+     "objects": [
+          {
+               "name": "bed",
+               "color": "beige",
+               "form": "rectangle",
+               "size": "large",
+               "location": "occupies the majority of the image",
+               "purpose": "a place for resting",
+               "relationship": "The clothing item is placed on top of the bed."
+          },
+          {
+               "name": "clothing",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "placed on top of the bed",
+               "purpose": "an item of clothing",
+               "relationship": "The clothing item is placed on top of the bed."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bed",
+               "bbox": [
+                    1,
+                    2,
+                    639,
+                    478
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    211,
+                    170,
+                    364,
+                    321
+               ]
+          }
+     ]
+}

@@ -1,0 +1,26 @@
+{
+     "image_name": "602_818679.jpg",
+     "description": "The image shows a shopping cart filled with various snacks. The cart contains multiple bags of snacks, including potato chips and other types of snacks. The cart is positioned in the foreground, with the robot arms visible on either side.",
+     "objects": [
+          {
+               "name": "snacks",
+               "color": "various colors",
+               "form": "rectangular bags",
+               "size": "medium",
+               "location": "in the shopping cart",
+               "purpose": "to be consumed",
+               "relationship": "The snacks are arranged in the shopping cart, with some bags overlapping each other."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "snacks",
+               "bbox": [
+                    241,
+                    34,
+                    351,
+                    196
+               ]
+          }
+     ]
+}

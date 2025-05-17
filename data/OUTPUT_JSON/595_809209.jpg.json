@@ -1,0 +1,98 @@
+{
+     "image_name": "595_809209.jpg",
+     "description": "The image shows a person sitting at a table with various objects around them. The person is wearing a black shirt and black pants. The table is made of wood and has a glass top. There are several chairs around the table, one of which the person is sitting on. A plant is placed on the floor next to the table, and a phone is on the table. The room appears to be well-lit with natural light.",
+     "objects": [
+          {
+               "name": "man",
+               "color": "black",
+               "form": "human",
+               "size": "medium",
+               "location": "sitting at the table",
+               "purpose": "seating",
+               "relationship": "sitting on a chair"
+          },
+          {
+               "name": "table",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the center of the room",
+               "purpose": "eating and working",
+               "relationship": "surrounded by chairs"
+          },
+          {
+               "name": "chair",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "around the table",
+               "purpose": "seating",
+               "relationship": "sitting on a chair"
+          },
+          {
+               "name": "plant",
+               "color": "green",
+               "form": "potted plant",
+               "size": "small",
+               "location": "on the floor",
+               "purpose": "decoration",
+               "relationship": "next to the table"
+          },
+          {
+               "name": "phone",
+               "color": "black",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "communication",
+               "relationship": "on the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "man",
+               "bbox": [
+                    210,
+                    0,
+                    443,
+                    442
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    363,
+                    84,
+                    560,
+                    356
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    511,
+                    95,
+                    614,
+                    284
+               ]
+          },
+          {
+               "object": "plant",
+               "bbox": [
+                    82,
+                    0,
+                    268,
+                    209
+               ]
+          },
+          {
+               "object": "phone",
+               "bbox": [
+                    389,
+                    153,
+                    431,
+                    189
+               ]
+          }
+     ]
+}

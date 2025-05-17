@@ -1,0 +1,62 @@
+{
+     "image_name": "428_690364.jpg",
+     "description": "The image shows a countertop with various items on it. There is a green box, a white packet, and a black object with purple lights. The countertop is made of marble and there is a drawer below it.",
+     "objects": [
+          {
+               "name": "green box",
+               "color": "green",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the countertop",
+               "purpose": "storage",
+               "relationship": "next to the white packet"
+          },
+          {
+               "name": "white packet",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the countertop",
+               "purpose": "food",
+               "relationship": "next to the green box"
+          },
+          {
+               "name": "black object with purple lights",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the countertop",
+               "purpose": "unknown",
+               "relationship": "next to the green box and white packet"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "green box",
+               "bbox": [
+                    300,
+                    300,
+                    400,
+                    400
+               ]
+          },
+          {
+               "object": "white packet",
+               "bbox": [
+                    200,
+                    300,
+                    300,
+                    400
+               ]
+          },
+          {
+               "object": "black object with purple lights",
+               "bbox": [
+                    100,
+                    300,
+                    200,
+                    400
+               ]
+          }
+     ]
+}

@@ -1,0 +1,80 @@
+{
+     "image_name": "368_652910.jpg",
+     "description": "The image shows a kitchen countertop with various objects. There is a black oven on the left side, a tray with a yellow object in the middle, and several jars and bottles on the right side.",
+     "objects": [
+          {
+               "name": "oven",
+               "color": "black",
+               "form": "rectangular",
+               "size": "large",
+               "location": "left side of the image",
+               "purpose": "cooking and baking",
+               "relationship": "The oven is placed on the countertop and is surrounded by other kitchen items."
+          },
+          {
+               "name": "tray",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "middle of the image",
+               "purpose": "holding kitchen items",
+               "relationship": "The tray is placed on the countertop and contains a yellow object."
+          },
+          {
+               "name": "jar",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "right side of the image",
+               "purpose": "storage",
+               "relationship": "The jar is placed on the countertop near other jars and bottles."
+          },
+          {
+               "name": "bottle",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "right side of the image",
+               "purpose": "storage",
+               "relationship": "The bottle is placed on the countertop near other jars and bottles."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "oven",
+               "bbox": [
+                    48,
+                    110,
+                    367,
+                    385
+               ]
+          },
+          {
+               "object": "tray",
+               "bbox": [
+                    357,
+                    285,
+                    473,
+                    372
+               ]
+          },
+          {
+               "object": "jar",
+               "bbox": [
+                    560,
+                    370,
+                    634,
+                    453
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    445,
+                    142,
+                    491,
+                    256
+               ]
+          }
+     ]
+}

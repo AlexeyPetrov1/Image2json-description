@@ -1,0 +1,80 @@
+{
+     "image_name": "744_888740.jpg",
+     "description": "The image shows a variety of fruits in a wooden drawer, including apples, limes, oranges, and tangerines. The apples are located in the top left corner of the drawer, while the limes are in the top right corner. The oranges and tangerines are in the bottom right corner of the drawer.",
+     "objects": [
+          {
+               "name": "apples",
+               "color": "red",
+               "form": "round",
+               "size": "medium",
+               "location": "top left corner of the drawer",
+               "purpose": "food",
+               "relationship": "apples are located in the top left corner of the drawer, near the limes."
+          },
+          {
+               "name": "limes",
+               "color": "green",
+               "form": "round",
+               "size": "small",
+               "location": "top right corner of the drawer",
+               "purpose": "food",
+               "relationship": "limes are located in the top right corner of the drawer, near the apples."
+          },
+          {
+               "name": "oranges",
+               "color": "orange",
+               "form": "round",
+               "size": "medium",
+               "location": "bottom right corner of the drawer",
+               "purpose": "food",
+               "relationship": "oranges are located in the bottom right corner of the drawer, near the tangerines."
+          },
+          {
+               "name": "tangerines",
+               "color": "orange",
+               "form": "round",
+               "size": "small",
+               "location": "bottom right corner of the drawer",
+               "purpose": "food",
+               "relationship": "tangerines are located in the bottom right corner of the drawer, near the oranges."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "apples",
+               "bbox": [
+                    204,
+                    0,
+                    273,
+                    75
+               ]
+          },
+          {
+               "object": "limes",
+               "bbox": [
+                    101,
+                    29,
+                    159,
+                    75
+               ]
+          },
+          {
+               "object": "oranges",
+               "bbox": [
+                    285,
+                    375,
+                    350,
+                    461
+               ]
+          },
+          {
+               "object": "tangerines",
+               "bbox": [
+                    442,
+                    114,
+                    460,
+                    147
+               ]
+          }
+     ]
+}

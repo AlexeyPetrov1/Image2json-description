@@ -1,0 +1,26 @@
+{
+     "image_name": "591_858179.jpg",
+     "description": "The image shows a curtain in the center, with two robotic arms on either side.",
+     "objects": [
+          {
+               "name": "curtains",
+               "color": "beige",
+               "form": "vertical",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "decoration or privacy",
+               "relationship": "divides the space between the robotic arms"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "curtains",
+               "bbox": [
+                    289,
+                    0,
+                    441,
+                    479
+               ]
+          }
+     ]
+}

@@ -1,0 +1,80 @@
+{
+     "image_name": "748_893216.jpg",
+     "description": "The image shows a man standing in front of a whiteboard, with a sign and a detector nearby.",
+     "objects": [
+          {
+               "name": "man",
+               "color": "unknown",
+               "form": "human",
+               "size": "medium",
+               "location": "standing in front of a whiteboard",
+               "purpose": "unknown",
+               "relationship": "The man is standing in front of a whiteboard, with a sign and a detector nearby."
+          },
+          {
+               "name": "whiteboard",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "behind the man",
+               "purpose": "unknown",
+               "relationship": "The man is standing in front of a whiteboard, with a sign and a detector nearby."
+          },
+          {
+               "name": "sign",
+               "color": "unknown",
+               "form": "rectangle",
+               "size": "small",
+               "location": "in front of the man",
+               "purpose": "unknown",
+               "relationship": "The man is standing in front of a whiteboard, with a sign and a detector nearby."
+          },
+          {
+               "name": "detector",
+               "color": "unknown",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "in front of the man",
+               "purpose": "unknown",
+               "relationship": "The man is standing in front of a whiteboard, with a sign and a detector nearby."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "man",
+               "bbox": [
+                    11,
+                    0,
+                    189,
+                    358
+               ]
+          },
+          {
+               "object": "whiteboard",
+               "bbox": [
+                    431,
+                    0,
+                    536,
+                    151
+               ]
+          },
+          {
+               "object": "sign",
+               "bbox": [
+                    271,
+                    201,
+                    371,
+                    249
+               ]
+          },
+          {
+               "object": "detector",
+               "bbox": [
+                    1,
+                    181,
+                    639,
+                    479
+               ]
+          }
+     ]
+}

@@ -1,0 +1,62 @@
+{
+     "image_name": "682_858693.jpg",
+     "description": "The image shows a workspace with various objects. There is a beaker on the left side of the table, a tray in the middle, and a cup on the right side of the table.",
+     "objects": [
+          {
+               "name": "beaker",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "likely used for holding liquids",
+               "relationship": "The beaker is placed on the left side of the table, near the tray and the cup."
+          },
+          {
+               "name": "tray",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "in the middle of the table",
+               "purpose": "likely used for holding items",
+               "relationship": "The tray is placed in the middle of the table, between the beaker and the cup."
+          },
+          {
+               "name": "cup",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the right side of the table",
+               "purpose": "likely used for holding liquids",
+               "relationship": "The cup is placed on the right side of the table, near the tray and the beaker."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "beaker",
+               "bbox": [
+                    100,
+                    216,
+                    249,
+                    443
+               ]
+          },
+          {
+               "object": "tray",
+               "bbox": [
+                    239,
+                    263,
+                    468,
+                    442
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    301,
+                    256,
+                    362,
+                    364
+               ]
+          }
+     ]
+}

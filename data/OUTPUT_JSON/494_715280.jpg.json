@@ -1,0 +1,44 @@
+{
+     "image_name": "494_715280.jpg",
+     "description": "The image shows a kitchen scene with two bottles placed on a countertop. One bottle is closer to the left side of the image, while the other is closer to the right side.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "placed on the countertop, closer to the left side of the image",
+               "purpose": "likely used for storing liquid ingredients",
+               "relationship": "The bottle on the left is closer to the other objects in the scene, while the bottle on the right is further away."
+          },
+          {
+               "name": "bottle",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "placed on the countertop, closer to the right side of the image",
+               "purpose": "likely used for storing liquid ingredients",
+               "relationship": "The bottle on the right is further away from the other objects in the scene compared to the bottle on the left."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    299,
+                    237,
+                    341,
+                    392
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    225,
+                    148,
+                    272,
+                    288
+               ]
+          }
+     ]
+}

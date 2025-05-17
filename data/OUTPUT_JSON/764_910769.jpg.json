@@ -1,0 +1,62 @@
+{
+     "image_name": "764_910769.jpg",
+     "description": "The image contains a mattress, a clothing item, and a box. The mattress is located at the top of the image, covering a large area. The clothing item is placed on the mattress, partially covering it. The box is positioned to the right of the clothing item, closer to the bottom of the image.",
+     "objects": [
+          {
+               "name": "mattress",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "top of the image, covering a large area",
+               "purpose": "providing a surface for the clothing item and the box",
+               "relationship": "The mattress is the largest object in the image and is located at the top, providing a surface for the other objects."
+          },
+          {
+               "name": "clothing",
+               "color": "black",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on the mattress, partially covering it",
+               "purpose": "being placed on the mattress",
+               "relationship": "The clothing item is placed on top of the mattress, partially covering it."
+          },
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangle",
+               "size": "small",
+               "location": "to the right of the clothing item, closer to the bottom of the image",
+               "purpose": "being placed near the clothing item",
+               "relationship": "The box is positioned to the right of the clothing item, closer to the bottom of the image."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "mattress",
+               "bbox": [
+                    87,
+                    1,
+                    638,
+                    464
+               ]
+          },
+          {
+               "object": "clothing",
+               "bbox": [
+                    211,
+                    124,
+                    459,
+                    337
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    578,
+                    135,
+                    639,
+                    287
+               ]
+          }
+     ]
+}

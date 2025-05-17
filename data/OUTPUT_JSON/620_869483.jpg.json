@@ -1,0 +1,80 @@
+{
+     "image_name": "620_869483.jpg",
+     "description": "The image shows a desk with various objects on it. There is a pair of scissors on the right side of the desk, a piece of paper on the left side, and another piece of paper on the right side.",
+     "objects": [
+          {
+               "name": "desk",
+               "color": "white",
+               "form": "square",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "work surface",
+               "relationship": "The desk is the main object in the image, with other objects placed on it."
+          },
+          {
+               "name": "scissors",
+               "color": "black",
+               "form": "pair",
+               "size": "medium",
+               "location": "right side of the desk",
+               "purpose": "cutting tool",
+               "relationship": "The scissors are placed on the desk, ready for use."
+          },
+          {
+               "name": "paper",
+               "color": "white",
+               "form": "sheet",
+               "size": "small",
+               "location": "left side of the desk",
+               "purpose": "writing material",
+               "relationship": "The paper is placed on the desk, possibly for writing or drawing."
+          },
+          {
+               "name": "paper",
+               "color": "white",
+               "form": "sheet",
+               "size": "small",
+               "location": "right side of the desk",
+               "purpose": "writing material",
+               "relationship": "The second piece of paper is placed on the desk, possibly for writing or drawing."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "desk",
+               "bbox": [
+                    47,
+                    158,
+                    580,
+                    478
+               ]
+          },
+          {
+               "object": "scissors",
+               "bbox": [
+                    460,
+                    153,
+                    490,
+                    205
+               ]
+          },
+          {
+               "object": "paper",
+               "bbox": [
+                    268,
+                    76,
+                    380,
+                    189
+               ]
+          },
+          {
+               "object": "paper",
+               "bbox": [
+                    411,
+                    289,
+                    481,
+                    399
+               ]
+          }
+     ]
+}

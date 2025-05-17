@@ -1,0 +1,44 @@
+{
+     "image_name": "722_894695.jpg",
+     "description": "The image shows a table with a bottle and a glass on it. The bottle is located on the left side of the table, while the glass is on the right side.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "to contain a liquid",
+               "relationship": "in close proximity to the glass"
+          },
+          {
+               "name": "glass",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the right side of the table",
+               "purpose": "to hold a liquid",
+               "relationship": "in close proximity to the bottle"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    192,
+                    254,
+                    247,
+                    349
+               ]
+          },
+          {
+               "object": "glass",
+               "bbox": [
+                    371,
+                    201,
+                    410,
+                    262
+               ]
+          }
+     ]
+}

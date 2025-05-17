@@ -1,0 +1,35 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/444_690959.jpg",
+    "objects": [
+        {
+            "label": "table",
+            "score": 0.3090237081050873,
+            "box": [
+                1,
+                114,
+                638,
+                478
+            ]
+        },
+        {
+            "label": "table",
+            "score": 0.2901756167411804,
+            "box": [
+                82,
+                114,
+                558,
+                478
+            ]
+        },
+        {
+            "label": "clothing",
+            "score": 0.35756751894950867,
+            "box": [
+                167,
+                111,
+                535,
+                478
+            ]
+        }
+    ]
+}

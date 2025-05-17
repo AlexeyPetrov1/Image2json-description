@@ -1,0 +1,80 @@
+{
+     "image_name": "464_706269.jpg",
+     "description": "The image shows a bathroom scene with a sink, faucet, toilet paper, and a trash can. The sink and faucet are located on the upper right side of the image, with the faucet slightly to the left of the sink. The toilet paper is placed on the left side of the image, near the bottom. The trash can is located at the bottom center of the image, with the toilet paper inside it.",
+     "objects": [
+          {
+               "name": "sink",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "upper right side of the image",
+               "purpose": "used for washing hands and face",
+               "relationship": "The sink is located near the faucet, which is used to fill the sink with water."
+          },
+          {
+               "name": "faucet",
+               "color": "silver",
+               "form": "circular",
+               "size": "small",
+               "location": "slightly to the left of the sink",
+               "purpose": "used to fill the sink with water",
+               "relationship": "The faucet is located near the sink, which is used for washing hands and face."
+          },
+          {
+               "name": "toilet paper",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "left side of the image, near the bottom",
+               "purpose": "used for personal hygiene",
+               "relationship": "The toilet paper is located near the trash can, which is used for waste disposal."
+          },
+          {
+               "name": "trash can",
+               "color": "gray",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "bottom center of the image",
+               "purpose": "used for waste disposal",
+               "relationship": "The trash can is located near the toilet paper, which is used for personal hygiene."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "sink",
+               "bbox": [
+                    374,
+                    148,
+                    639,
+                    478
+               ]
+          },
+          {
+               "object": "faucet",
+               "bbox": [
+                    354,
+                    185,
+                    378,
+                    240
+               ]
+          },
+          {
+               "object": "toilet paper",
+               "bbox": [
+                    226,
+                    271,
+                    314,
+                    381
+               ]
+          },
+          {
+               "object": "trash can",
+               "bbox": [
+                    282,
+                    334,
+                    423,
+                    479
+               ]
+          }
+     ]
+}

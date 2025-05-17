@@ -1,0 +1,62 @@
+{
+     "image_name": "683_865209.jpg",
+     "description": "The image shows a scene with a tray, a cup, and several sticks. The tray is located in the center of the image, with the cup placed on top of it. The sticks are scattered around the tray and cup.",
+     "objects": [
+          {
+               "name": "tray",
+               "color": "white",
+               "form": "square",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "to hold the cup and sticks",
+               "relationship": "The tray is the central object in the image, with the cup placed on top of it. The sticks are scattered around the tray and cup."
+          },
+          {
+               "name": "cup",
+               "color": "white",
+               "form": "cylinder",
+               "size": "small",
+               "location": "on top of the tray",
+               "purpose": "to hold liquid",
+               "relationship": "The cup is placed on top of the tray, which is the central object in the image. The sticks are scattered around the tray and cup."
+          },
+          {
+               "name": "sticks",
+               "color": "brown",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "scattered around the tray and cup",
+               "purpose": "to hold liquid",
+               "relationship": "The sticks are scattered around the tray and cup, which are the central objects in the image. The tray is located in the center of the image, with the cup placed on top of it. The sticks are scattered around the tray and cup."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "tray",
+               "bbox": [
+                    218,
+                    116,
+                    447,
+                    247
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    490,
+                    143,
+                    620,
+                    295
+               ]
+          },
+          {
+               "object": "sticks",
+               "bbox": [
+                    377,
+                    130,
+                    439,
+                    227
+               ]
+          }
+     ]
+}

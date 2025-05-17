@@ -1,0 +1,62 @@
+{
+     "image_name": "358_655108.jpg",
+     "description": "The image shows a kitchen countertop with a toaster, a carton of milk, and two slices of bread. The toaster is located in the center of the countertop, with the carton of milk to its left and the slices of bread to its right.",
+     "objects": [
+          {
+               "name": "toaster",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the countertop",
+               "purpose": "used for toasting bread",
+               "relationship": "The toaster is surrounded by other objects on the countertop."
+          },
+          {
+               "name": "carton",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "left of the toaster",
+               "purpose": "contains milk",
+               "relationship": "The carton of milk is placed to the left of the toaster."
+          },
+          {
+               "name": "slice",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "small",
+               "location": "right of the toaster",
+               "purpose": "bread slices",
+               "relationship": "The slices of bread are placed to the right of the toaster."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "toaster",
+               "bbox": [
+                    254,
+                    209,
+                    419,
+                    373
+               ]
+          },
+          {
+               "object": "carton",
+               "bbox": [
+                    127,
+                    134,
+                    215,
+                    289
+               ]
+          },
+          {
+               "object": "slice",
+               "bbox": [
+                    176,
+                    340,
+                    263,
+                    426
+               ]
+          }
+     ]
+}

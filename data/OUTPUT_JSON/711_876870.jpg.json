@@ -1,0 +1,44 @@
+{
+     "image_name": "711_876870.jpg",
+     "description": "The image shows a floor with some objects on it. There is a cable on the left side of the image, and a robot arm on the right side.",
+     "objects": [
+          {
+               "name": "cable",
+               "color": "black",
+               "form": "straight",
+               "size": "small",
+               "location": "on the left side of the image",
+               "purpose": "to provide power or data connection",
+               "relationship": "The cable is connected to the robot arm on the right side of the image."
+          },
+          {
+               "name": "robot arm",
+               "color": "black",
+               "form": "mechanical",
+               "size": "large",
+               "location": "on the right side of the image",
+               "purpose": "to manipulate objects",
+               "relationship": "The robot arm is connected to the cable on the left side of the image."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "cable",
+               "bbox": [
+                    0,
+                    122,
+                    64,
+                    262
+               ]
+          },
+          {
+               "object": "robot arm",
+               "bbox": [
+                    0,
+                    122,
+                    64,
+                    262
+               ]
+          }
+     ]
+}

@@ -1,0 +1,107 @@
+{
+     "image_name": "567_797041.jpg",
+     "description": "The image shows a grocery store shelf with various snack items. The shelf is filled with different types of snacks, including potato chips and other packaged goods. A shopping basket is placed in front of the shelf, containing additional snack items.",
+     "objects": [
+          {
+               "name": "snacks",
+               "color": "various colors",
+               "form": "packaged",
+               "size": "medium",
+               "location": "on the shelf and in the shopping basket",
+               "purpose": "for sale in the grocery store",
+               "relationship": "snacks on the shelf are next to each other, while snacks in the shopping basket are placed in front of the shelf."
+          },
+          {
+               "name": "shopping basket",
+               "color": "blue",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "in front of the shelf",
+               "purpose": "for carrying items",
+               "relationship": "the shopping basket is placed in front of the shelf, containing additional snack items."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "snacks",
+               "bbox": [
+                    54,
+                    20,
+                    175,
+                    203
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    84,
+                    130,
+                    175,
+                    202
+               ]
+          },
+          {
+               "object": "storage",
+               "bbox": [
+                    219,
+                    294,
+                    483,
+                    479
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    296,
+                    331,
+                    399,
+                    479
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    163,
+                    66,
+                    246,
+                    206
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    478,
+                    37,
+                    578,
+                    188
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    230,
+                    42,
+                    339,
+                    202
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    325,
+                    22,
+                    411,
+                    202
+               ]
+          },
+          {
+               "object": "snacks",
+               "bbox": [
+                    55,
+                    18,
+                    579,
+                    208
+               ]
+          }
+     ]
+}

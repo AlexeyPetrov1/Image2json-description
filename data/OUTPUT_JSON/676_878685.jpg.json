@@ -1,0 +1,62 @@
+{
+     "image_name": "676_878685.jpg",
+     "description": "The image shows a table with various objects on it. There is a calendar, a stapler, and a cable. The calendar is placed on the left side of the table, the stapler is next to the calendar, and the cable is on the right side of the table.",
+     "objects": [
+          {
+               "name": "calendar",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "to keep track of dates and events",
+               "relationship": "next to the stapler"
+          },
+          {
+               "name": "stapler",
+               "color": "black",
+               "form": "rectangle",
+               "size": "small",
+               "location": "next to the calendar",
+               "purpose": "to staple papers together",
+               "relationship": "next to the calendar"
+          },
+          {
+               "name": "cable",
+               "color": "black",
+               "form": "wire",
+               "size": "large",
+               "location": "on the right side of the table",
+               "purpose": "to connect electronic devices",
+               "relationship": "next to the stapler"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "calendar",
+               "bbox": [
+                    213,
+                    107,
+                    331,
+                    206
+               ]
+          },
+          {
+               "object": "stapler",
+               "bbox": [
+                    176,
+                    158,
+                    221,
+                    191
+               ]
+          },
+          {
+               "object": "cable",
+               "bbox": [
+                    473,
+                    108,
+                    639,
+                    230
+               ]
+          }
+     ]
+}

@@ -1,0 +1,35 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/676_878685.jpg",
+    "objects": [
+        {
+            "label": "calendar",
+            "score": 0.4942934811115265,
+            "box": [
+                213,
+                107,
+                331,
+                206
+            ]
+        },
+        {
+            "label": "stapler",
+            "score": 0.35756751894950867,
+            "box": [
+                176,
+                158,
+                221,
+                191
+            ]
+        },
+        {
+            "label": "cable",
+            "score": 0.3674972355365753,
+            "box": [
+                473,
+                108,
+                639,
+                230
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+     "image_name": "446_687682.jpg",
+     "description": "The image shows a table with various objects on it, including a chair, a cable, and a floor. The chair is located on the left side of the table, while the cable is on the right side. The floor is visible beneath the table.",
+     "objects": [
+          {
+               "name": "chair",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "provides seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "cable",
+               "color": "black",
+               "form": "straight",
+               "size": "small",
+               "location": "on the right side of the table",
+               "purpose": "used for electrical connections",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "floor",
+               "color": "gray",
+               "form": "plane",
+               "size": "large",
+               "location": "beneath the table",
+               "purpose": "provides a surface for the table to rest on",
+               "relationship": "underneath the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "chair",
+               "bbox": [
+                    0,
+                    0,
+                    107,
+                    80
+               ]
+          },
+          {
+               "object": "cable",
+               "bbox": [
+                    40,
+                    202,
+                    193,
+                    478
+               ]
+          },
+          {
+               "object": "floor",
+               "bbox": [
+                    0,
+                    0,
+                    639,
+                    479
+               ]
+          }
+     ]
+}

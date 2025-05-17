@@ -1,0 +1,44 @@
+{
+     "image_name": "719_876829.jpg",
+     "description": "In the image, there is a table with a white bag on it. The table is located in the middle of the image, and the white bag is placed on top of it.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "in the middle of the image",
+               "purpose": "to place objects on it",
+               "relationship": "The white bag is placed on top of the table."
+          },
+          {
+               "name": "white bag",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on top of the table",
+               "purpose": "to carry objects",
+               "relationship": "The white bag is placed on top of the table."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    0,
+                    243,
+                    638,
+                    479
+               ]
+          },
+          {
+               "object": "white bag",
+               "bbox": [
+                    294,
+                    287,
+                    349,
+                    332
+               ]
+          }
+     ]
+}

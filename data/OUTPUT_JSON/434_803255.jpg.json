@@ -1,0 +1,98 @@
+{
+     "image_name": "434_803255.jpg",
+     "description": "The image shows a kitchen counter with a coffee machine and a trash can. There are three bottles on the counter, two of which are near the coffee machine and one is near the trash can. The trash can is located on the right side of the counter.",
+     "objects": [
+          {
+               "name": "coffee machine",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on the left side of the counter",
+               "purpose": "to make coffee",
+               "relationship": "The coffee machine is near the two bottles on the left side of the counter."
+          },
+          {
+               "name": "trash can",
+               "color": "white",
+               "form": "cylinder",
+               "size": "small",
+               "location": "on the right side of the counter",
+               "purpose": "to dispose of waste",
+               "relationship": "The trash can is near the bottle on the right side of the counter."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylinder",
+               "size": "small",
+               "location": "on the left side of the counter",
+               "purpose": "to contain liquid",
+               "relationship": "The bottle is near the coffee machine on the left side of the counter."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylinder",
+               "size": "small",
+               "location": "on the right side of the counter",
+               "purpose": "to contain liquid",
+               "relationship": "The bottle is near the trash can on the right side of the counter."
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylinder",
+               "size": "small",
+               "location": "on the left side of the counter",
+               "purpose": "to contain liquid",
+               "relationship": "The bottle is near the coffee machine on the left side of the counter."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "coffee machine",
+               "bbox": [
+                    200,
+                    200,
+                    400,
+                    400
+               ]
+          },
+          {
+               "object": "trash can",
+               "bbox": [
+                    400,
+                    400,
+                    600,
+                    600
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    100,
+                    100,
+                    300,
+                    300
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    300,
+                    300,
+                    500,
+                    500
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    500,
+                    500,
+                    700,
+                    700
+               ]
+          }
+     ]
+}

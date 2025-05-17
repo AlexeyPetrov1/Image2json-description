@@ -1,0 +1,62 @@
+{
+     "image_name": "574_809829.jpg",
+     "description": "The image shows an ice maker surrounded by various objects. The ice maker is located in the center of the image, with a cup placed to its right and a bottle to its left. Another cup is located at the bottom right corner of the image.",
+     "objects": [
+          {
+               "name": "ice maker",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "center of the image",
+               "purpose": "produces ice",
+               "relationship": "surrounded by various objects"
+          },
+          {
+               "name": "cup",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "right of the ice maker",
+               "purpose": "for drinking",
+               "relationship": "placed next to the ice maker"
+          },
+          {
+               "name": "bottle",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "left of the ice maker",
+               "purpose": "for storing liquid",
+               "relationship": "placed next to the ice maker"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "ice maker",
+               "bbox": [
+                    215,
+                    106,
+                    393,
+                    416
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    67,
+                    216,
+                    141,
+                    293
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    90,
+                    110,
+                    160,
+                    238
+               ]
+          }
+     ]
+}

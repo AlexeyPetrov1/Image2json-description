@@ -1,0 +1,44 @@
+{
+     "image_name": "529_761398.jpg",
+     "description": "The image shows a bathroom scene with a toilet and a towel. The toilet is located on the left side of the image, while the towel is hanging on the right side.",
+     "objects": [
+          {
+               "name": "toilet",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left side of the image",
+               "purpose": "used for personal hygiene",
+               "relationship": "The towel is hanging on the right side of the toilet."
+          },
+          {
+               "name": "towel",
+               "color": "green",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the image",
+               "purpose": "used for drying",
+               "relationship": "The towel is hanging on the right side of the toilet."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "toilet",
+               "bbox": [
+                    153,
+                    18,
+                    442,
+                    478
+               ]
+          },
+          {
+               "object": "towel",
+               "bbox": [
+                    229,
+                    151,
+                    501,
+                    449
+               ]
+          }
+     ]
+}

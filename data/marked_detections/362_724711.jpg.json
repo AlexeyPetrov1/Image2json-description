@@ -1,0 +1,35 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/362_724711.jpg",
+    "objects": [
+        {
+            "label": "bed",
+            "score": 0.43206343054771423,
+            "box": [
+                0,
+                0,
+                574,
+                478
+            ]
+        },
+        {
+            "label": "cloth",
+            "score": 0.3345894515514374,
+            "box": [
+                217,
+                192,
+                380,
+                410
+            ]
+        },
+        {
+            "label": "clothing",
+            "score": 0.4040370583534241,
+            "box": [
+                0,
+                0,
+                80,
+                149
+            ]
+        }
+    ]
+}

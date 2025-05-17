@@ -1,0 +1,25 @@
+{
+    "filename": "/home/alex/PROJECT/data/test_data_1/566_797080.jpg",
+    "objects": [
+        {
+            "label": "snacks",
+            "score": 0.3363310694694519,
+            "box": [
+                165,
+                61,
+                296,
+                237
+            ]
+        },
+        {
+            "label": "snacks",
+            "score": 0.29992473125457764,
+            "box": [
+                245,
+                361,
+                336,
+                479
+            ]
+        }
+    ]
+}

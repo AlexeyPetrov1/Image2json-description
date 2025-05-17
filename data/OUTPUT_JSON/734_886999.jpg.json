@@ -1,0 +1,62 @@
+{
+     "image_name": "734_886999.jpg",
+     "description": "The image shows a room with a window, a wall, and a curtain. The window is located on the left side of the image, while the curtain is on the right side. The wall spans the entire width of the image.",
+     "objects": [
+          {
+               "name": "window",
+               "color": "white",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "left side of the image",
+               "purpose": "allows natural light into the room",
+               "relationship": "adjacent to the curtain"
+          },
+          {
+               "name": "wall",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "large",
+               "location": "spanning the entire width of the image",
+               "purpose": "provides support and structure to the room",
+               "relationship": "adjacent to the window and curtain"
+          },
+          {
+               "name": "curtain",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "right side of the image",
+               "purpose": "provides privacy and decoration to the room",
+               "relationship": "adjacent to the window"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "window",
+               "bbox": [
+                    0,
+                    0,
+                    192,
+                    382
+               ]
+          },
+          {
+               "object": "wall",
+               "bbox": [
+                    398,
+                    0,
+                    639,
+                    478
+               ]
+          },
+          {
+               "object": "curtain",
+               "bbox": [
+                    305,
+                    0,
+                    479,
+                    479
+               ]
+          }
+     ]
+}

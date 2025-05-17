@@ -1,0 +1,26 @@
+{
+     "image_name": "491_714035.jpg",
+     "description": "The image shows a clothing item on a mannequin. The mannequin is positioned in the center of the image, with the clothing item hanging on it.",
+     "objects": [
+          {
+               "name": "clothing",
+               "color": "white",
+               "form": "shirt",
+               "size": "medium",
+               "location": "hanging on the mannequin in the center of the image",
+               "purpose": "displayed for sale or inspection",
+               "relationship": "hanging on the mannequin"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "clothing",
+               "bbox": [
+                    183,
+                    253,
+                    457,
+                    479
+               ]
+          }
+     ]
+}

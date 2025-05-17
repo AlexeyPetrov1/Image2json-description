@@ -1,0 +1,53 @@
+{
+     "image_name": "677_868991.jpg",
+     "description": "The image shows a table with two plugs on it. The table occupies a large portion of the image, and the two plugs are located close to each other on the table.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "occupies a large portion of the image",
+               "purpose": "provides a surface for placing objects",
+               "relationship": "two plugs are located close to each other on the table"
+          },
+          {
+               "name": "plug",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "small",
+               "location": "located close to each other on the table",
+               "purpose": "used for connecting electrical devices",
+               "relationship": "two plugs are located close to each other on the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    78,
+                    143,
+                    539,
+                    474
+               ]
+          },
+          {
+               "object": "plug",
+               "bbox": [
+                    393,
+                    324,
+                    451,
+                    356
+               ]
+          },
+          {
+               "object": "plug",
+               "bbox": [
+                    300,
+                    305,
+                    325,
+                    344
+               ]
+          }
+     ]
+}

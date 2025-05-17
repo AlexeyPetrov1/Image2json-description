@@ -1,0 +1,44 @@
+{
+     "image_name": "398_680040.jpg",
+     "description": "The image shows a conveyor belt with various objects placed on it. There are two bags and two pieces of plastic. The bags are placed on top of the conveyor belt, while the pieces of plastic are underneath the bags.",
+     "objects": [
+          {
+               "name": "bag",
+               "color": "clear",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on top of the conveyor belt",
+               "purpose": "to hold items",
+               "relationship": "The bags are placed on top of the conveyor belt, with one bag slightly overlapping the other."
+          },
+          {
+               "name": "plastic",
+               "color": "clear",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "underneath the bags",
+               "purpose": "to hold items",
+               "relationship": "The pieces of plastic are placed underneath the bags, providing a base for the bags to rest on."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bag",
+               "bbox": [
+                    435,
+                    215,
+                    593,
+                    360
+               ]
+          },
+          {
+               "object": "plastic",
+               "bbox": [
+                    436,
+                    215,
+                    593,
+                    360
+               ]
+          }
+     ]
+}

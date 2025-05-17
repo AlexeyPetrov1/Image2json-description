@@ -1,0 +1,80 @@
+{
+     "image_name": "451_795454.jpg",
+     "description": "The image shows a kitchen counter with various food items. On the left side, there is a bowl containing salad and tomatoes. On the right side, there is a tray with eggs and more tomatoes. The background includes a sink with various kitchen items.",
+     "objects": [
+          {
+               "name": "salad",
+               "color": "green and white",
+               "form": "bowl",
+               "size": "medium",
+               "location": "left side of the image",
+               "purpose": "preparation of a healthy meal",
+               "relationship": "The salad is placed on the left side of the image, next to the tomatoes."
+          },
+          {
+               "name": "tomatoes",
+               "color": "red",
+               "form": "round",
+               "size": "small",
+               "location": "left side of the image, near the salad",
+               "purpose": "ingredient for a salad",
+               "relationship": "The tomatoes are placed next to the salad on the left side of the image."
+          },
+          {
+               "name": "eggs",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "right side of the image",
+               "purpose": "ingredient for a meal",
+               "relationship": "The eggs are placed on the right side of the image, near the tomatoes."
+          },
+          {
+               "name": "tomatoes",
+               "color": "red",
+               "form": "round",
+               "size": "small",
+               "location": "right side of the image, near the eggs",
+               "purpose": "ingredient for a meal",
+               "relationship": "The tomatoes are placed next to the eggs on the right side of the image."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "salad",
+               "bbox": [
+                    200,
+                    325,
+                    288,
+                    420
+               ]
+          },
+          {
+               "object": "tomatoes",
+               "bbox": [
+                    262,
+                    354,
+                    280,
+                    379
+               ]
+          },
+          {
+               "object": "tomatoes",
+               "bbox": [
+                    249,
+                    343,
+                    265,
+                    363
+               ]
+          },
+          {
+               "object": "eggs",
+               "bbox": [
+                    364,
+                    273,
+                    498,
+                    338
+               ]
+          }
+     ]
+}

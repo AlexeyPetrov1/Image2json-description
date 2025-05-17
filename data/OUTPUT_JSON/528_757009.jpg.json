@@ -1,0 +1,80 @@
+{
+     "image_name": "528_757009.jpg",
+     "description": "The image shows a kitchen sink with various objects placed around it. There are two bottles, one on the left side of the sink and the other on the right side. A jug is placed on the left side of the sink, and a sink is visible on the right side of the image.",
+     "objects": [
+          {
+               "name": "bottle",
+               "color": "pink",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the right side of the sink",
+               "purpose": "likely to contain liquid",
+               "relationship": "close to the sink"
+          },
+          {
+               "name": "bottle",
+               "color": "yellow",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the sink",
+               "purpose": "likely to contain liquid",
+               "relationship": "close to the sink"
+          },
+          {
+               "name": "jug",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "large",
+               "location": "on the left side of the sink",
+               "purpose": "used for holding liquid",
+               "relationship": "close to the sink"
+          },
+          {
+               "name": "sink",
+               "color": "silver",
+               "form": "cylindrical",
+               "size": "large",
+               "location": "on the right side of the image",
+               "purpose": "used for washing hands and dishes",
+               "relationship": "close to the bottles and jug"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottle",
+               "bbox": [
+                    356,
+                    95,
+                    399,
+                    224
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    86,
+                    84,
+                    162,
+                    212
+               ]
+          },
+          {
+               "object": "jug",
+               "bbox": [
+                    178,
+                    149,
+                    308,
+                    325
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    338,
+                    227,
+                    573,
+                    304
+               ]
+          }
+     ]
+}

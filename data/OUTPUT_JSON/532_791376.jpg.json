@@ -1,0 +1,44 @@
+{
+     "image_name": "532_791376.jpg",
+     "description": "The image shows a table with several objects on it. The table is located in the center of the image, taking up a significant portion of the frame.",
+     "objects": [
+          {
+               "name": "table",
+               "color": "white",
+               "form": "rectangle",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "providing a surface for other objects",
+               "relationship": "other objects are placed on the table"
+          },
+          {
+               "name": "metal blocks",
+               "color": "brown",
+               "form": "cube",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "likely used for testing or demonstration purposes",
+               "relationship": "metal blocks are placed on the table"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "table",
+               "bbox": [
+                    0,
+                    171,
+                    623,
+                    478
+               ]
+          },
+          {
+               "object": "metal blocks",
+               "bbox": [
+                    250,
+                    300,
+                    500,
+                    450
+               ]
+          }
+     ]
+}

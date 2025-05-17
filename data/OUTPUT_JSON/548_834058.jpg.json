@@ -1,0 +1,107 @@
+{
+     "image_name": "548_834058.jpg",
+     "description": "The image shows a washing machine with its door open. Inside the machine, there is a basket containing several pieces of clothing. The machine and the basket are the main objects in the image.",
+     "objects": [
+          {
+               "name": "washing machine",
+               "color": "gray",
+               "form": "rectangular",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "washing clothes",
+               "relationship": "The washing machine is the main object in the image, with the basket and clothes inside it."
+          },
+          {
+               "name": "basket",
+               "color": "gray",
+               "form": "circular",
+               "size": "medium",
+               "location": "inside the washing machine",
+               "purpose": "holding clothes",
+               "relationship": "The basket is located inside the washing machine, containing several pieces of clothing."
+          },
+          {
+               "name": "clothes",
+               "color": "various colors",
+               "form": "various shapes",
+               "size": "small",
+               "location": "inside the basket",
+               "purpose": "items to be washed",
+               "relationship": "The clothes are inside the basket, which is inside the washing machine."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "washing machine",
+               "bbox": [
+                    175,
+                    0,
+                    639,
+                    331
+               ]
+          },
+          {
+               "object": "basket",
+               "bbox": [
+                    165,
+                    209,
+                    412,
+                    478
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    203,
+                    246,
+                    382,
+                    440
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    232,
+                    272,
+                    318,
+                    437
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    293,
+                    316,
+                    382,
+                    431
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    293,
+                    246,
+                    378,
+                    332
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    292,
+                    246,
+                    383,
+                    431
+               ]
+          },
+          {
+               "object": "clothes",
+               "bbox": [
+                    204,
+                    332,
+                    278,
+                    440
+               ]
+          }
+     ]
+}

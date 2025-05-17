@@ -1,0 +1,80 @@
+{
+     "image_name": "453_707402.jpg",
+     "description": "The image shows a kitchen scene with a toaster, a plate with a sandwich, a bottle, and a basket of bread. The toaster is placed on the right side of the image, while the plate with a sandwich is on the left. The bottle is located between the plate and the basket of bread.",
+     "objects": [
+          {
+               "name": "toaster",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the image",
+               "purpose": "used for toasting bread",
+               "relationship": "next to the plate with a sandwich"
+          },
+          {
+               "name": "plate",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "on the left side of the image",
+               "purpose": "used for serving food",
+               "relationship": "next to the bottle"
+          },
+          {
+               "name": "bottle",
+               "color": "red",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "between the plate and the basket of bread",
+               "purpose": "used for holding liquid",
+               "relationship": "next to the plate"
+          },
+          {
+               "name": "basket of bread",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left side of the image",
+               "purpose": "used for holding bread",
+               "relationship": "next to the toaster"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "toaster",
+               "bbox": [
+                    500,
+                    100,
+                    600,
+                    300
+               ]
+          },
+          {
+               "object": "plate",
+               "bbox": [
+                    200,
+                    300,
+                    400,
+                    500
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    200,
+                    200,
+                    300,
+                    300
+               ]
+          },
+          {
+               "object": "basket of bread",
+               "bbox": [
+                    100,
+                    100,
+                    300,
+                    300
+               ]
+          }
+     ]
+}

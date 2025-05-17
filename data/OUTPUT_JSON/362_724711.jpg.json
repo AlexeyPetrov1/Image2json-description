@@ -1,0 +1,44 @@
+{
+     "image_name": "362_724711.jpg",
+     "description": "The image shows a bed with a blue cloth on it. The cloth is located on the right side of the bed, and the bed occupies the majority of the image.",
+     "objects": [
+          {
+               "name": "bed",
+               "color": "gray",
+               "form": "rectangle",
+               "size": "large",
+               "location": "occupies the majority of the image",
+               "purpose": "provides a surface for resting",
+               "relationship": "The cloth is placed on the bed."
+          },
+          {
+               "name": "cloth",
+               "color": "blue",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "on the right side of the bed",
+               "purpose": "provides comfort and warmth",
+               "relationship": "The cloth is placed on the bed."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bed",
+               "bbox": [
+                    0,
+                    0,
+                    574,
+                    478
+               ]
+          },
+          {
+               "object": "cloth",
+               "bbox": [
+                    217,
+                    192,
+                    380,
+                    410
+               ]
+          }
+     ]
+}

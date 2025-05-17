@@ -1,0 +1,26 @@
+{
+     "image_name": "440_684808.jpg",
+     "description": "The image shows a blouse hanging on a clothes hanger. The blouse is located in the center of the image, taking up a significant portion of the frame.",
+     "objects": [
+          {
+               "name": "blouse",
+               "color": "white with blue stripes",
+               "form": "rectangular",
+               "size": "large",
+               "location": "hanging on a clothes hanger in the center of the image",
+               "purpose": "to be worn",
+               "relationship": "hanging on a clothes hanger"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "blouse",
+               "bbox": [
+                    106,
+                    0,
+                    557,
+                    398
+               ]
+          }
+     ]
+}

@@ -1,0 +1,98 @@
+{
+     "image_name": "599_810876.jpg",
+     "description": "The image shows a room with a table, two chairs, and two shirts. One shirt is on the table, and the other is on the floor.",
+     "objects": [
+          {
+               "name": "shirt",
+               "color": "beige",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the table",
+               "purpose": "clothing",
+               "relationship": "The shirt on the table is closer to the viewer than the shirt on the floor."
+          },
+          {
+               "name": "shirt",
+               "color": "beige",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the floor",
+               "purpose": "clothing",
+               "relationship": "The shirt on the floor is further away from the viewer than the shirt on the table."
+          },
+          {
+               "name": "table",
+               "color": "blue",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the center of the room",
+               "purpose": "furniture",
+               "relationship": "The table is surrounded by chairs and has a shirt on it."
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "circular",
+               "size": "small",
+               "location": "behind the table",
+               "purpose": "furniture",
+               "relationship": "There are two chairs behind the table, one on the left and one on the right."
+          },
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "circular",
+               "size": "small",
+               "location": "in front of the table",
+               "purpose": "furniture",
+               "relationship": "There are two chairs in front of the table, one on the left and one on the right."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "shirt",
+               "bbox": [
+                    233,
+                    155,
+                    463,
+                    369
+               ]
+          },
+          {
+               "object": "shirt",
+               "bbox": [
+                    80,
+                    132,
+                    203,
+                    210
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    1,
+                    136,
+                    607,
+                    478
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    298,
+                    0,
+                    393,
+                    106
+               ]
+          },
+          {
+               "object": "chair",
+               "bbox": [
+                    169,
+                    0,
+                    256,
+                    132
+               ]
+          }
+     ]
+}

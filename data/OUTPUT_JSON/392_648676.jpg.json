@@ -1,0 +1,80 @@
+{
+     "image_name": "392_648676.jpg",
+     "description": "The image shows a kitchen sink area with various objects around it. There is a faucet above the sink, a bottle on the left side of the sink, and a cleaning brush on the right side of the sink.",
+     "objects": [
+          {
+               "name": "faucet",
+               "color": "silver",
+               "form": "curved",
+               "size": "medium",
+               "location": "above the sink",
+               "purpose": "used for washing hands and dishes",
+               "relationship": "above the sink"
+          },
+          {
+               "name": "sink",
+               "color": "silver",
+               "form": "rectangular",
+               "size": "large",
+               "location": "center of the image",
+               "purpose": "used for washing hands and dishes",
+               "relationship": "center of the image"
+          },
+          {
+               "name": "bottle",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "left side of the sink",
+               "purpose": "used for storing liquid",
+               "relationship": "left side of the sink"
+          },
+          {
+               "name": "cleaning brush",
+               "color": "white",
+               "form": "handle with bristles",
+               "size": "small",
+               "location": "right side of the sink",
+               "purpose": "used for cleaning",
+               "relationship": "right side of the sink"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "faucet",
+               "bbox": [
+                    217,
+                    25,
+                    353,
+                    250
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    105,
+                    227,
+                    331,
+                    442
+               ]
+          },
+          {
+               "object": "bottle",
+               "bbox": [
+                    372,
+                    92,
+                    408,
+                    216
+               ]
+          },
+          {
+               "object": "cleaning brush",
+               "bbox": [
+                    415,
+                    81,
+                    455,
+                    208
+               ]
+          }
+     ]
+}

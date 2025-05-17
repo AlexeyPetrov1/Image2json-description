@@ -1,0 +1,80 @@
+{
+     "image_name": "357_648751.jpg",
+     "description": "The image shows a kitchen scene with a window, a sink, a bowl, and chopsticks. The window is located at the top left corner of the image, providing a view of the outside. The sink is positioned to the right of the window, with the bowl and chopsticks placed on the counter next to it.",
+     "objects": [
+          {
+               "name": "window",
+               "color": "clear",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "top left corner of the image",
+               "purpose": "provides a view of the outside",
+               "relationship": "no direct relationship with other objects"
+          },
+          {
+               "name": "sink",
+               "color": "black",
+               "form": "rectangle",
+               "size": "medium",
+               "location": "right of the window",
+               "purpose": "used for washing dishes",
+               "relationship": "no direct relationship with other objects"
+          },
+          {
+               "name": "bowl",
+               "color": "white",
+               "form": "round",
+               "size": "small",
+               "location": "on the counter next to the sink",
+               "purpose": "used for holding food",
+               "relationship": "no direct relationship with other objects"
+          },
+          {
+               "name": "chopsticks",
+               "color": "brown",
+               "form": "pair",
+               "size": "small",
+               "location": "on the counter next to the sink",
+               "purpose": "used for eating",
+               "relationship": "no direct relationship with other objects"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "window",
+               "bbox": [
+                    1,
+                    0,
+                    424,
+                    134
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    370,
+                    208,
+                    639,
+                    479
+               ]
+          },
+          {
+               "object": "bowl",
+               "bbox": [
+                    439,
+                    314,
+                    499,
+                    388
+               ]
+          },
+          {
+               "object": "chopsticks",
+               "bbox": [
+                    449,
+                    283,
+                    490,
+                    434
+               ]
+          }
+     ]
+}

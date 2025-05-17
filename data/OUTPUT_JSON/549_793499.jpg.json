@@ -1,0 +1,62 @@
+{
+     "image_name": "549_793499.jpg",
+     "description": "The image shows a kitchen scene with a kettle, gloves, and a sink. The kettle is located on the right side of the image, near the top. The gloves are on the left side of the image, near the bottom. The sink is in the center of the image, with the faucet above it.",
+     "objects": [
+          {
+               "name": "kettle",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the right side of the image, near the top",
+               "purpose": "boil water",
+               "relationship": "The kettle is placed near the sink, suggesting that it is used for boiling water in the kitchen."
+          },
+          {
+               "name": "gloves",
+               "color": "black",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the left side of the image, near the bottom",
+               "purpose": "protect hands",
+               "relationship": "The gloves are placed near the sink, indicating that they might be used for cleaning or handling hot items."
+          },
+          {
+               "name": "sink",
+               "color": "silver",
+               "form": "rectangular",
+               "size": "large",
+               "location": "in the center of the image",
+               "purpose": "wash dishes",
+               "relationship": "The sink is located near the faucet, suggesting that it is used for washing dishes or other kitchen tasks."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "kettle",
+               "bbox": [
+                    418,
+                    70,
+                    621,
+                    292
+               ]
+          },
+          {
+               "object": "gloves",
+               "bbox": [
+                    389,
+                    268,
+                    639,
+                    471
+               ]
+          },
+          {
+               "object": "sink",
+               "bbox": [
+                    81,
+                    222,
+                    377,
+                    478
+               ]
+          }
+     ]
+}

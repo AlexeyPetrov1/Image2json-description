@@ -1,0 +1,80 @@
+{
+     "image_name": "582_804095.jpg",
+     "description": "The image shows a living room setting with a couch, a table, and various objects on the table.",
+     "objects": [
+          {
+               "name": "couch",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the left side of the image",
+               "purpose": "provides seating",
+               "relationship": "adjacent to the table"
+          },
+          {
+               "name": "table",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "in the center of the image",
+               "purpose": "provides a surface for placing objects",
+               "relationship": "adjacent to the couch"
+          },
+          {
+               "name": "cup",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "for drinking",
+               "relationship": "adjacent to the vase"
+          },
+          {
+               "name": "vase",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the table",
+               "purpose": "for holding flowers",
+               "relationship": "adjacent to the cup"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "couch",
+               "bbox": [
+                    0,
+                    0,
+                    638,
+                    235
+               ]
+          },
+          {
+               "object": "table",
+               "bbox": [
+                    63,
+                    169,
+                    554,
+                    478
+               ]
+          },
+          {
+               "object": "cup",
+               "bbox": [
+                    247,
+                    239,
+                    316,
+                    351
+               ]
+          },
+          {
+               "object": "vase",
+               "bbox": [
+                    235,
+                    167,
+                    265,
+                    204
+               ]
+          }
+     ]
+}

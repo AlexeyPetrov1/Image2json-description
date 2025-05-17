@@ -1,0 +1,26 @@
+{
+     "image_name": "688_868430.jpg",
+     "description": "The image shows a chair located near a window with a white blind. The chair is positioned in the lower left corner of the image.",
+     "objects": [
+          {
+               "name": "chair",
+               "color": "black",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "near a window with a white blind",
+               "purpose": "seating",
+               "relationship": "The chair is positioned in the lower left corner of the image, near a window with a white blind."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "chair",
+               "bbox": [
+                    0,
+                    290,
+                    254,
+                    479
+               ]
+          }
+     ]
+}

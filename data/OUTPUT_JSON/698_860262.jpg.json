@@ -1,0 +1,62 @@
+{
+     "image_name": "698_860262.jpg",
+     "description": "The image shows a table with various objects on it. On the left side, there are bottles and packets, while on the right side, there are boxes.",
+     "objects": [
+          {
+               "name": "bottles",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "used for holding liquid",
+               "relationship": "next to packets"
+          },
+          {
+               "name": "packets",
+               "color": "various colors",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "used for packaging",
+               "relationship": "next to bottles"
+          },
+          {
+               "name": "boxes",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "used for storage",
+               "relationship": "next to packets"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "bottles",
+               "bbox": [
+                    85,
+                    66,
+                    145,
+                    160
+               ]
+          },
+          {
+               "object": "packets",
+               "bbox": [
+                    278,
+                    183,
+                    378,
+                    385
+               ]
+          },
+          {
+               "object": "boxes",
+               "bbox": [
+                    571,
+                    188,
+                    639,
+                    344
+               ]
+          }
+     ]
+}

@@ -1,0 +1,89 @@
+{
+     "image_name": "679_856616.jpg",
+     "description": "The image shows a room with a door on the right side and a wall on the left side. On the wall, there is a thermostat and a pair of gloves. On the door, there is a sign and another pair of gloves.",
+     "objects": [
+          {
+               "name": "thermostat",
+               "color": "white",
+               "form": "rectangular",
+               "size": "small",
+               "location": "on the wall",
+               "purpose": "temperature control",
+               "relationship": "close to the gloves on the wall"
+          },
+          {
+               "name": "gloves",
+               "color": "black",
+               "form": "gloved hand",
+               "size": "medium",
+               "location": "on the wall and on the door",
+               "purpose": "protection",
+               "relationship": "one pair on the wall and another pair on the door"
+          },
+          {
+               "name": "door",
+               "color": "brown",
+               "form": "rectangular",
+               "size": "large",
+               "location": "on the right side of the image",
+               "purpose": "entrance or exit",
+               "relationship": "close to the gloves on the door"
+          },
+          {
+               "name": "sign",
+               "color": "green",
+               "form": "rectangle",
+               "size": "small",
+               "location": "on the door",
+               "purpose": "information",
+               "relationship": "close to the gloves on the door"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "thermostat",
+               "bbox": [
+                    89,
+                    117,
+                    168,
+                    160
+               ]
+          },
+          {
+               "object": "gloves",
+               "bbox": [
+                    0,
+                    200,
+                    210,
+                    392
+               ]
+          },
+          {
+               "object": "gloves",
+               "bbox": [
+                    416,
+                    206,
+                    639,
+                    378
+               ]
+          },
+          {
+               "object": "door",
+               "bbox": [
+                    342,
+                    0,
+                    638,
+                    478
+               ]
+          },
+          {
+               "object": "sign",
+               "bbox": [
+                    422,
+                    21,
+                    517,
+                    72
+               ]
+          }
+     ]
+}

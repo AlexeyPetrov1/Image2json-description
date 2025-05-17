@@ -1,0 +1,80 @@
+{
+     "image_name": "470_696711.jpg",
+     "description": "The image shows a table with various objects on it. There is a white cup on the left side of the table, a black cup on the right side, a glass in the center, and a can near the bottom of the table.",
+     "objects": [
+          {
+               "name": "white cup",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "left side of the table",
+               "purpose": "drink container",
+               "relationship": "close to the black cup"
+          },
+          {
+               "name": "black cup",
+               "color": "black",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "right side of the table",
+               "purpose": "drink container",
+               "relationship": "close to the white cup"
+          },
+          {
+               "name": "glass",
+               "color": "clear",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "center of the table",
+               "purpose": "drink container",
+               "relationship": "between the white and black cups"
+          },
+          {
+               "name": "can",
+               "color": "silver",
+               "form": "cylindrical",
+               "size": "small",
+               "location": "bottom of the table",
+               "purpose": "drink container",
+               "relationship": "near the black cup"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "white cup",
+               "bbox": [
+                    215,
+                    344,
+                    328,
+                    478
+               ]
+          },
+          {
+               "object": "black cup",
+               "bbox": [
+                    384,
+                    43,
+                    445,
+                    183
+               ]
+          },
+          {
+               "object": "glass",
+               "bbox": [
+                    295,
+                    0,
+                    341,
+                    99
+               ]
+          },
+          {
+               "object": "can",
+               "bbox": [
+                    215,
+                    344,
+                    328,
+                    478
+               ]
+          }
+     ]
+}

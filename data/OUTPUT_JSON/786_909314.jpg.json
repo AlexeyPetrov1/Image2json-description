@@ -1,0 +1,80 @@
+{
+     "image_name": "786_909314.jpg",
+     "description": "The image shows a table with various objects on it. There are two boxes, one on the left side and one on the right side of the table. A red cable runs across the table, connecting the two boxes. There is also a small blue object on the left side of the table.",
+     "objects": [
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "to hold items",
+               "relationship": "connected by a red cable to another box on the right side of the table"
+          },
+          {
+               "name": "box",
+               "color": "white",
+               "form": "rectangular",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "to hold items",
+               "relationship": "connected by a red cable to another box on the left side of the table"
+          },
+          {
+               "name": "red cable",
+               "color": "red",
+               "form": "cable",
+               "size": "large",
+               "location": "running across the table",
+               "purpose": "to connect the two boxes",
+               "relationship": "connects the two boxes on the left and right sides of the table"
+          },
+          {
+               "name": "small blue object",
+               "color": "blue",
+               "form": "square",
+               "size": "small",
+               "location": "on the left side of the table",
+               "purpose": "unknown",
+               "relationship": "no relationship with other objects"
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "box",
+               "bbox": [
+                    190,
+                    37,
+                    247,
+                    100
+               ]
+          },
+          {
+               "object": "box",
+               "bbox": [
+                    240,
+                    244,
+                    401,
+                    405
+               ]
+          },
+          {
+               "object": "red cable",
+               "bbox": [
+                    220,
+                    133,
+                    472,
+                    345
+               ]
+          },
+          {
+               "object": "small blue object",
+               "bbox": [
+                    190,
+                    37,
+                    247,
+                    100
+               ]
+          }
+     ]
+}

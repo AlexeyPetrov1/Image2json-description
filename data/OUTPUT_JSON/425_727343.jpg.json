@@ -1,0 +1,62 @@
+{
+     "image_name": "425_727343.jpg",
+     "description": "The image shows a table with a jug, a plate, and a bowl. The jug is placed on the left side of the table, the plate is in the center, and the bowl is on the right side.",
+     "objects": [
+          {
+               "name": "jug",
+               "color": "white",
+               "form": "cylindrical",
+               "size": "medium",
+               "location": "on the left side of the table",
+               "purpose": "to hold liquid",
+               "relationship": "The jug is placed on the left side of the table, near the plate and the bowl."
+          },
+          {
+               "name": "plate",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "in the center of the table",
+               "purpose": "to hold food",
+               "relationship": "The plate is placed in the center of the table, between the jug and the bowl."
+          },
+          {
+               "name": "bowl",
+               "color": "white",
+               "form": "round",
+               "size": "medium",
+               "location": "on the right side of the table",
+               "purpose": "to hold food",
+               "relationship": "The bowl is placed on the right side of the table, near the jug and the plate."
+          }
+     ],
+     "2d_bbox": [
+          {
+               "object": "jug",
+               "bbox": [
+                    180,
+                    166,
+                    282,
+                    317
+               ]
+          },
+          {
+               "object": "plate",
+               "bbox": [
+                    282,
+                    178,
+                    355,
+                    236
+               ]
+          },
+          {
+               "object": "bowl",
+               "bbox": [
+                    281,
+                    319,
+                    359,
+                    412
+               ]
+          }
+     ]
+}
