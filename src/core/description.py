@@ -131,7 +131,15 @@ class ObjectPropertiesPipeline(MultiModalPipeline):
         try:
             output_dict = yaml.safe_load(output_text)
         except:
-            return {"name": label, "color": "unknown", "form": "unknown", "size":"unknown", "location": "unknown", "purpose": "unknown", "relationship":"unknown"}
+            return {
+                "name": label,
+                "color": "unknown",
+                "form": "unknown",
+                "size": "unknown",
+                "location": "unknown",
+                "purpose": "unknown",
+                "relationship": "unknown",
+            }
         return output_dict
 
     def get_objects_properties(
@@ -147,7 +155,7 @@ class ObjectPropertiesPipeline(MultiModalPipeline):
             output_dict = self._get_one_object_properties(
                 image_path, detection, system_prompt
             )
-            
+
             properties_list.append(output_dict)
         return properties_list
 
