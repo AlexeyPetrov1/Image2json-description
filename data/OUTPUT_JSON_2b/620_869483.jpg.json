@@ -1,0 +1,26 @@
+{
+    "image_name": "620_869483.jpg",
+    "description": "\"name: scissors\"\ncolor: \"gray\"\nform: \"scissors\"\nsize: \"medium\"\nlocation: \"The scissors are located on the right side of the image. They are being held by a pair of black gloves.\"\npurpose: \"The scissors are used for cutting paper or other materials.\"\nrelationship: \"The scissors are being held by a pair of black gloves.\"",
+    "objects": [
+        {
+            "name": "scissors",
+            "color": "Black",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The scissors are located in the center of the image. They are being held by two gloved hands.",
+            "purpose": "To cut paper",
+            "relationship": "The scissors are being used to cut paper."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "scissors",
+            "bbox": [
+                460,
+                153,
+                490,
+                204
+            ]
+        }
+    ]
+}

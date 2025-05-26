@@ -1,1 +1,1 @@
-soap bottle . sink . sponge . bowls . tray
+bottle . tray . sink . plate . sponge

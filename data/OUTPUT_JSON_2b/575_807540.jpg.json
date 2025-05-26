@@ -1,0 +1,116 @@
+{
+    "image_name": "575_807540.jpg",
+    "description": "The image contains several objects, including a window, a plant, a toy, a table, and a green container. The window is located on the left side of the image, while the plant is on the right side. The toy is on the table, and the table is located in the center of the image. The green container is on the right side of the table. The objects are arranged in",
+    "objects": [
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "Plants",
+            "size": "medium",
+            "location": "The plant is located in the upper right corner of the image. It is near the window and the table.",
+            "purpose": "The plant is a houseplant.",
+            "relationship": "There is no specific relationship between the plant and other objects."
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in front of the window. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "toy",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The toy is located in the center of the image. It is in front of a green bucket. There are no other objects around it.",
+            "purpose": "To play with",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "window",
+            "color": "White",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The window is located in the upper part of the image. It is rectangular in shape. The bounding box is [101, 0, 311, 127].",
+            "purpose": "The window allows light to enter the room.",
+            "relationship": "The window is the main object in the image."
+        },
+        {
+            "name": "window",
+            "color": "White",
+            "form": "rectangular",
+            "size": "large",
+            "location": "The window is located at the top of the image, covering a significant portion of the background. It has a white frame and is framed by curtains.",
+            "purpose": "The window serves as a source of natural light for the room.",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "toy",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The toy is located in the center of the image. It is in front of a green bucket. There are no other objects around it.",
+            "purpose": "To play with",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "plant",
+            "bbox": [
+                366,
+                0,
+                455,
+                49
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                195,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "toy",
+            "bbox": [
+                0,
+                178,
+                253,
+                473
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                101,
+                0,
+                311,
+                127
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                1,
+                0,
+                561,
+                153
+            ]
+        },
+        {
+            "object": "toy",
+            "bbox": [
+                358,
+                159,
+                639,
+                476
+            ]
+        }
+    ]
+}

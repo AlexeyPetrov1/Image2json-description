@@ -1,0 +1,44 @@
+{
+    "image_name": "497_720218.jpg",
+    "description": "The image shows a box with a snack inside. The box is located in the center of the image, and the snack is inside the box. The box has a red bounding box with coordinates [100, 87, 388, 408]. The snack has a bounding box with coordinates [200, 132, 316, 259].",
+    "objects": [
+        {
+            "name": "box",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's in the middle of the table. There are no objects around",
+            "purpose": "To hold food",
+            "relationship": "The box is inside the table"
+        },
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is inside a cardboard box. The box is open, and the snack is inside.",
+            "purpose": "The snack is a food product.",
+            "relationship": "The snack is inside the cardboard box."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "box",
+            "bbox": [
+                100,
+                87,
+                388,
+                408
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                200,
+                132,
+                316,
+                259
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "image_name": "567_797041.jpg",
+    "description": "The image shows a shopping cart filled with various snacks. The cart is positioned in the middle of the image, and the snacks are neatly arranged in different sections of the cart. The top section of the cart contains snacks such as potato chips, while the bottom section contains snacks like Doritos and Pringles. The snacks are labeled as \"snack\" and their bounding box is [55, 20, 175, 203], [84,",
+    "objects": [
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is placed on a shelf with other snacks. The bounding box is [55, 20, 175, 203].",
+            "purpose": "A snack is a type of food that is typically eaten as a snack. It can be a variety of items such as chips, crackers, nuts, or other snacks.",
+            "relationship": "The snack is a type of food that is typically eaten as a snack. It can be a variety of items such as chips, crackers, nuts, or other snacks. The bounding box is [55, 20, 175, 203]."
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is green in color and appears to be a type of potato chip.",
+            "purpose": "To be consumed as a snack",
+            "relationship": "The snack is inside the shopping cart, which is located in the foreground of the image."
+        },
+        {
+            "name": "chips",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The chips are located in the center of the image. They are in a blue tray. There are no other objects around them.",
+            "purpose": "To eat chips",
+            "relationship": "The chips are inside the blue tray"
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. The bounding box is [297, 331, 399, 479].",
+            "purpose": "The snack is a snack.",
+            "relationship": "The snack is inside the shopping cart. The bounding box is [297, 331, 399, 479]."
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is placed on a shelf with other snacks. The bounding box is [163, 66, 246, 206].",
+            "purpose": "A snack is a type of food that is typically eaten as a snack. It can be a variety of items such as chips, crackers, nuts, or other snacks.",
+            "relationship": "The snack is a type of food that is typically eaten as a snack. It can be a variety of items such as chips, crackers, nuts, or other snacks. The bounding box is [163, 66, 246, 206]."
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is placed on a shelf with other snacks. The bounding box is [478, 37, 578, 188].",
+            "purpose": "A snack is a type of food that is typically eaten as a snack.",
+            "relationship": "The snack is a type of food that is typically eaten as a snack. It is placed on a shelf with other snacks. The bounding box is [478, 37, 578, 188]."
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in front of the shopping cart. There are other snacks around it.",
+            "purpose": "A snack is a type of food that is typically eaten as a quick meal or snack.",
+            "relationship": "The snack is a type of food that is typically eaten as a quick meal or snack."
+        },
+        {
+            "name": "snack",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        },
+        {
+            "name": "meal",
+            "color": "Green",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The meal is located in the center of the image. It's in the shopping cart. There are no other objects around",
+            "purpose": "To eat food",
+            "relationship": "The meal is inside the shopping cart"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "snack",
+            "bbox": [
+                55,
+                20,
+                175,
+                203
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                84,
+                130,
+                175,
+                202
+            ]
+        },
+        {
+            "object": "storage",
+            "bbox": [
+                219,
+                294,
+                483,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                297,
+                331,
+                399,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                163,
+                66,
+                246,
+                206
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                478,
+                37,
+                578,
+                188
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                231,
+                42,
+                339,
+                202
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                325,
+                21,
+                411,
+                202
+            ]
+        },
+        {
+            "object": "meal",
+            "bbox": [
+                55,
+                18,
+                579,
+                207
+            ]
+        }
+    ]
+}

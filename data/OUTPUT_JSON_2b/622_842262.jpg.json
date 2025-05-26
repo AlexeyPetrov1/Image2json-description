@@ -1,0 +1,188 @@
+{
+    "image_name": "622_842262.jpg",
+    "description": "The image depicts a scene on a checkered tablecloth. On the table, there is a stack of plastic containers, a plastic cup, a plastic bag, and a plastic spoon. There are also two pairs of black gloves on the table. The objects are arranged in a way that suggests a meal preparation or dining scenario.",
+    "objects": [
+        {
+            "name": "tablecloth",
+            "color": "Checkered",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The tablecloth is located in the center of the image. It covers the table. There are no other objects around",
+            "purpose": "To cover the table",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The gloves are located on the left side of the image. They are in front of the table. There are no other objects around",
+            "purpose": "To protect hands",
+            "relationship": "The gloves are in front of the table"
+        },
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "approximate size (large)",
+            "location": "The gloves are on the table. They are in front of the food container. They are in front of the chair.",
+            "purpose": "The gloves are used to protect the hands.",
+            "relationship": "The gloves are in front of the food container, and the food container is in front of the chair."
+        },
+        {
+            "name": "egg",
+            "color": "Yellow",
+            "form": "round",
+            "size": "small",
+            "location": "The egg is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The egg is inside the sink"
+        },
+        {
+            "name": "egg",
+            "color": "Red",
+            "form": "round",
+            "size": "small",
+            "location": "The egg is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The egg is inside the sink"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is on the table"
+        },
+        {
+            "name": "egg",
+            "color": "Yellow",
+            "form": "round",
+            "size": "small",
+            "location": "The egg is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The egg is inside the sink"
+        },
+        {
+            "name": "egg",
+            "color": "Red",
+            "form": "round",
+            "size": "medium",
+            "location": "The egg is located in the center of the image. It's in the bowl. There are no other objects around",
+            "purpose": "To eat",
+            "relationship": "The egg is inside the bowl"
+        },
+        {
+            "name": "bag",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bag is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To carry items",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "spoon",
+            "color": "White",
+            "form": "spoon",
+            "size": "small",
+            "location": "The spoon is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The spoon is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "tablecloth",
+            "bbox": [
+                56,
+                110,
+                582,
+                478
+            ]
+        },
+        {
+            "object": "gloves",
+            "bbox": [
+                436,
+                260,
+                639,
+                475
+            ]
+        },
+        {
+            "object": "gloves",
+            "bbox": [
+                0,
+                293,
+                226,
+                478
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                330,
+                281,
+                350,
+                312
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                348,
+                288,
+                368,
+                320
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                404,
+                106,
+                452,
+                182
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                308,
+                281,
+                327,
+                312
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                336,
+                319,
+                363,
+                343
+            ]
+        },
+        {
+            "object": "bag",
+            "bbox": [
+                457,
+                127,
+                555,
+                211
+            ]
+        },
+        {
+            "object": "spoon",
+            "bbox": [
+                427,
+                44,
+                516,
+                140
+            ]
+        }
+    ]
+}

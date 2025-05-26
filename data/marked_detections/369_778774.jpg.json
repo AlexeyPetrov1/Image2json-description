@@ -1,14 +1,14 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/369_778774.jpg",
+    "filename": "369_778774.jpg",
     "objects": [
         {
             "label": "machine",
-            "score": 0.5120216012001038,
+            "score": 0.5068659782409668,
             "box": [
                 162,
                 0,
-                625,
-                472
+                624,
+                473
             ]
         }
     ]

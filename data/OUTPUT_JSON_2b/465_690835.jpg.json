@@ -1,0 +1,26 @@
+{
+    "image_name": "465_690835.jpg",
+    "description": "input:\n\"\"\"\nname: \"machine\"\ncolor: \"black\"\nform: \"rectangular\"\nsize: \"medium\"\nlocation: \"The machine is located in the center of the image. It is a washing machine.\"\npurpose: \"To wash clothes.\"\nrelationship: \"The machine is a part of the washing machine\"\n---\nname: \"person\"\ncolor: \"white\"\nform: \"human\"\nsize: \"medium\"\nlocation: \"The person is located in the bottom right corner of the image. They are holding a white bucket.\"\npurpose: \"To clean clothes",
+    "objects": [
+        {
+            "name": "washing machine",
+            "color": "Black",
+            "form": "round",
+            "size": "big",
+            "location": "The washing machine is located in the center of the image. This is the main object in the photo",
+            "purpose": "to wash clothing",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "machine",
+            "bbox": [
+                57,
+                0,
+                506,
+                327
+            ]
+        }
+    ]
+}

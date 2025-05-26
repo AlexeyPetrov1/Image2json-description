@@ -1,0 +1,170 @@
+{
+    "image_name": "587_804438.jpg",
+    "description": "The image depicts a table with various objects placed on it. The objects include a box, a book, a cup, a marker, and a pen. The box is located on the left side of the table, the book is on the right side, the cup is in the center, the marker is on the right side of the cup, and the pen is on the right side of the marker.",
+    "objects": [
+        {
+            "name": "cup",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is on the table"
+        },
+        {
+            "name": "box",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold items",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "box",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To store items",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "marker",
+            "color": "White",
+            "form": "rectangle",
+            "size": "small",
+            "location": "The marker is located in the center of the image. It is white and rectangular in shape.",
+            "purpose": "To indicate the position of the objects on the table.",
+            "relationship": "The marker is used to mark the position of the objects on the table."
+        },
+        {
+            "name": "pen",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": ": The pen is located on the table between the two robotic arms. It is in front of a cup and a book.",
+            "purpose": "To write",
+            "relationship": "The pen is used to write on the book and the cup."
+        },
+        {
+            "name": "marker",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "small",
+            "location": "The marker is located in the center of the image. It is placed on the table between the two robotic arms. The bounding box is [271, 288, 315, 376].",
+            "purpose": "The marker is used to track the position of the robotic arms.",
+            "relationship": "The marker is used to track the position of the robotic arms relative to each other."
+        },
+        {
+            "name": "box",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To store items",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "box",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's in the middle of the table. There are no objects around",
+            "purpose": "To store items",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cup",
+            "bbox": [
+                309,
+                197,
+                356,
+                282
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                157,
+                99,
+                252,
+                223
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                249,
+                135,
+                313,
+                223
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                364,
+                115,
+                451,
+                161
+            ]
+        },
+        {
+            "object": "marker",
+            "bbox": [
+                358,
+                281,
+                392,
+                375
+            ]
+        },
+        {
+            "object": "pen",
+            "bbox": [
+                325,
+                125,
+                344,
+                196
+            ]
+        },
+        {
+            "object": "marker",
+            "bbox": [
+                271,
+                288,
+                315,
+                376
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                0,
+                161,
+                50,
+                312
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                570,
+                165,
+                639,
+                314
+            ]
+        }
+    ]
+}

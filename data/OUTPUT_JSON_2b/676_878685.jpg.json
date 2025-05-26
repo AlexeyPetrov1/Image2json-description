@@ -1,0 +1,44 @@
+{
+    "image_name": "676_878685.jpg",
+    "description": "The image shows two robotic arms on a table, each holding a different object. The left arm is holding a book, while the right arm is holding a stapler. The book is located in the center of the table, while the stapler is to the right of the book. The robotic arms appear to be in the process of interacting with the objects on the table.",
+    "objects": [
+        {
+            "name": "book",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "stapler",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "small",
+            "location": "The stapler is located on the table in the middle of the image. It is in front of a white umbrella and behind a black device.",
+            "purpose": "To staple papers together.",
+            "relationship": "The stapler is being used to staple papers together."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "book",
+            "bbox": [
+                214,
+                107,
+                331,
+                206
+            ]
+        },
+        {
+            "object": "stapler",
+            "bbox": [
+                176,
+                159,
+                221,
+                191
+            ]
+        }
+    ]
+}

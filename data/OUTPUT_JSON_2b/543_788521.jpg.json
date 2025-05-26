@@ -1,0 +1,62 @@
+{
+    "image_name": "543_788521.jpg",
+    "description": "\"\"\"\nname: \"box\"\ncolor: \"Brown\"\nform: \"Rectangular\"\nsize: \"Medium\"\nlocation: \"The box is located in the center of the image, near the hands of the robot.\"\npurpose: \"The box is a container for storing items.\"\nrelationship: \"The box is being held by the robot's hands.\"\n---\nlabel: \"box\"\nscore: \"0.3674972355365753\"\nbox: \"[178, 301, 399, 479]\"\n---\nlabel: \"box\"\nscore: \"",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "red rectangle around him",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        },
+        {
+            "name": "box",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's in front of the conveyor belt. There are no other objects around",
+            "purpose": "To transport goods",
+            "relationship": "The box is on the conveyor belt"
+        },
+        {
+            "name": "clothing",
+            "color": "red",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. The bounding box is [297, 0, 330, 48].",
+            "purpose": "The clothing is a piece of red fabric.",
+            "relationship": "The clothing is a piece of red fabric that is located in the center of the image. The bounding box is [297, 0, 330, 48]."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                232,
+                0,
+                292,
+                95
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                178,
+                301,
+                399,
+                479
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                297,
+                0,
+                330,
+                48
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "image_name": "596_814647.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a coral toaster, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                5,
+                197,
+                638,
+                478
+            ]
+        }
+    ]
+}

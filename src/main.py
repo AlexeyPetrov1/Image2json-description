@@ -9,7 +9,7 @@ from src.config.params import (
 )
 from src.models.langsam import LangSAMWrapper
 from src.core.detection import DetectionPipeline, ImageInfoGetter
-from src.core.description import DescriptionPipelines
+from src.core.description import ObjectPropertiesPipeline, GenerateClassesPipeline
 from src.services.io import ImageDataset
 
 
@@ -33,10 +33,11 @@ if __name__ == "__main__":
         image_names = image_dataset.get_images_names_list()
         image_files = image_dataset.get_images_list()
         # Получение классов изображений
-        pipeline = DescriptionPipelines(model_name)
+        classes_pipeline = GenerateClassesPipeline(model_name)
         os.makedirs(CLASSES_DIR, exist_ok=True)
         for image_file in tqdm(image_names):
-            pipeline.get_image_classes(image_file, image_dataset.folder_path)
+            classes_pipeline.run(image_file, image_dataset.folder_path)
+        del classes_pipeline
         print(
             f"Getting the classes in the photo is completed! Classes saved in the {CLASSES_DIR} folder"
         )
@@ -59,10 +60,12 @@ if __name__ == "__main__":
         print(f"Object detection is complete! Saved in the {DETECTIONS_DIR} folder")
         # Наносим bboxs and labels на изображения для подачи в VLM
         detection_pipe.mark_pictures()
+        del detection_pipe
         print(
             f"The annotation of the images is complete! Saved in the {DETECTIONS_PICTURES_DIR} folder"
         )
         # Получаем финальные son
+        properties_pipeline = ObjectPropertiesPipeline(model_name)
         os.makedirs(ANNOTATIONS_DIR, exist_ok=True)
-        for image_file in tqdm(image_names):
-            pipeline.get_final_json(image_file)
+        for image_file in tqdm(image_files):
+            properties_pipeline.run(image_file)

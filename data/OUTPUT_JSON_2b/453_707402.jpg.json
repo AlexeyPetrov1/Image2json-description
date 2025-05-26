@@ -1,0 +1,134 @@
+{
+    "image_name": "453_707402.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a red toaster, and there is a sink with a plate located in the center. There is a white plate inside the sink.",
+    "objects": [
+        {
+            "name": "toaster",
+            "color": "Coral",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "This toaster is located on the table on the right side of the image. To his left is a pink plate. There is a sink in front of it. There is a socket behind it",
+            "purpose": "To toast bread.",
+            "relationship": "There is a bread inside toaster"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the table. There is a plate in front of it and a toaster behind it.",
+            "purpose": "To hold a liquid",
+            "relationship": "The bottle is inside the toaster"
+        },
+        {
+            "name": "plate",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in front of the toaster. There are no other objects around",
+            "purpose": "To hold food",
+            "relationship": "The plate is on the table"
+        },
+        {
+            "name": "plate",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The plate is on the table"
+        },
+        {
+            "name": "bread",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bread is located in the toaster, which is on the table. The bread is inside the toaster.",
+            "purpose": "The bread is being toasted.",
+            "relationship": "The bread is inside the toaster, which is on the table."
+        },
+        {
+            "name": "bread",
+            "color": "Brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bread is located in the red rectangle around it. It is on the table in front of the toaster. It is next to a bottle of ketchup and a white plate with food on it.",
+            "purpose": "To be toasted in the toaster.",
+            "relationship": "The bread is inside the toaster."
+        },
+        {
+            "name": "toaster",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The toaster is located on the table on the right side of the image. To his left is a pink plate. There is a sink in front of it. There is a socket behind it",
+            "purpose": "To toast bread.",
+            "relationship": "There is a bread inside toaster"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "toaster",
+            "bbox": [
+                363,
+                126,
+                509,
+                269
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                217,
+                236,
+                274,
+                342
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                406,
+                299,
+                548,
+                477
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                274,
+                302,
+                405,
+                476
+            ]
+        },
+        {
+            "object": "bread",
+            "bbox": [
+                408,
+                109,
+                480,
+                177
+            ]
+        },
+        {
+            "object": "bread",
+            "bbox": [
+                249,
+                148,
+                309,
+                221
+            ]
+        },
+        {
+            "object": "bread",
+            "bbox": [
+                402,
+                93,
+                464,
+                157
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "image_name": "694_881816.jpg",
+    "description": "The image shows a table with three objects: a bottle, a cup, and a table. The bottle is located on the left side of the table, the cup is on the right side of the table, and the table spans the entire width of the image.",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangular",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "cup",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the table. It is in front of the bottle. The bottle is to the left of the cup.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is in front of the bottle, and the bottle is to the left of the cup."
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the table. It is in the center of the image. The bounding box is [229, 196, 277, 304].",
+            "purpose": "The bottle is a container for holding liquid.",
+            "relationship": "The bottle is on the table, which is a flat surface. The bounding box is [229, 196, 277, 304]."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                96,
+                528,
+                474
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                287,
+                121,
+                322,
+                184
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                229,
+                196,
+                277,
+                304
+            ]
+        }
+    ]
+}

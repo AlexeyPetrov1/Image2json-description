@@ -1,1 +1,1 @@
-table . flowers . vase . drawer
+table . flowerpot . vase

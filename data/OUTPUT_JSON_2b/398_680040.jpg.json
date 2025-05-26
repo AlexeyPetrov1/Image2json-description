@@ -1,0 +1,62 @@
+{
+    "image_name": "398_680040.jpg",
+    "description": "The image depicts a warehouse or storage area with a large container. Inside the container, there are two bags. One bag is labeled \"bag\" with a score of 0.31742626428604126, while the other bag is labeled \"bag\" with a score of 0.36206647753715515. Both bags are located in the center of the container",
+    "objects": [
+        {
+            "name": "bag",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bag is located in the center of the image. It is placed on top of a pile of other items. The bounding box for the bag is [271, 180, 474, 352].",
+            "purpose": "The bag contains items that are not clearly visible in the bounding box.",
+            "relationship": "The bag is not related to any other objects in the image."
+        },
+        {
+            "name": "bag",
+            "color": "Blue",
+            "form": "plastic bag",
+            "size": "medium",
+            "location": "The bag is located in the center of the image. It is placed on top of a pile of other items.",
+            "purpose": "To carry items",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bag",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bag is located in the center of the image. It is placed on top of a pile of clothes. The bounding box is [300, 182, 465, 339].",
+            "purpose": "The bag is used to carry items.",
+            "relationship": "The bag is placed on top of the pile of clothes."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bag",
+            "bbox": [
+                271,
+                180,
+                474,
+                352
+            ]
+        },
+        {
+            "object": "bag",
+            "bbox": [
+                436,
+                215,
+                593,
+                360
+            ]
+        },
+        {
+            "object": "bag",
+            "bbox": [
+                300,
+                182,
+                465,
+                339
+            ]
+        }
+    ]
+}

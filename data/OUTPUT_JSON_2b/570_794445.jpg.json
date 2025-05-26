@@ -1,0 +1,80 @@
+{
+    "image_name": "570_794445.jpg",
+    "description": "\"\"\"\nname: \"bed\"\ncolor: \"Gray\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The bed is located on the left side of the image, covering the entire width of the image.\"\npurpose: \"To sleep on.\"\nrelationship: \"The bed is the main object in the image.\"\n---\nlabel: \"clothing\"\nscore: \"0.47767600417137146\"\nbox: \"[160, 78, 463, 391]\"\n---\nlabel: \"clothing\"\nscore: \"0.",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "Blue",
+            "form": "T-shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It is a light blue T-shirt.",
+            "purpose": "The clothing is a T-shirt.",
+            "relationship": "The clothing is the main object in the image."
+        },
+        {
+            "name": "clothing",
+            "color": "White",
+            "form": "shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It is a light blue shirt.",
+            "purpose": "The clothing is a shirt.",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bed",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The bed is located in the center of the image. It's on the floor. There are no other objects around",
+            "purpose": "to sleep",
+            "relationship": "The bed is the main object in the photo"
+        },
+        {
+            "name": "bed",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The bed is located in the center of the image. It has a blue sheet on it. There is a black bag and a white cloth on the bed.",
+            "purpose": "To sleep",
+            "relationship": "The bed is the main object in the picture"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                160,
+                78,
+                463,
+                391
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                447,
+                43,
+                555,
+                130
+            ]
+        },
+        {
+            "object": "bed",
+            "bbox": [
+                0,
+                0,
+                638,
+                427
+            ]
+        },
+        {
+            "object": "bed",
+            "bbox": [
+                0,
+                0,
+                639,
+                479
+            ]
+        }
+    ]
+}

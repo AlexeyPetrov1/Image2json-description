@@ -1,0 +1,224 @@
+{
+    "image_name": "744_888740.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a drawer containing apples and bananas. On the right side, there is a drawer containing oranges. The drawer on the left is labeled \"apples,\" while the drawer on the right is labeled \"oranges.\" The apples and bananas are inside the drawer on the left, while the oranges are inside the drawer on the right. The",
+    "objects": [
+        {
+            "name": "grapes",
+            "color": "Red",
+            "form": "round",
+            "size": "medium",
+            "location": "The grapes are located in the top left corner of the image. They are in a box with other fruits.",
+            "purpose": "The grapes are used for consumption.",
+            "relationship": "The grapes are inside the box with other fruits."
+        },
+        {
+            "name": "oranges",
+            "color": "Orange",
+            "form": "geometrical form",
+            "size": "approximate size (small, medium, big)",
+            "location": "The oranges are located in the middle of the image. They are in a wooden box. There are no other objects around them.",
+            "purpose": "The oranges are used for eating.",
+            "relationship": "The oranges are inside the wooden box"
+        },
+        {
+            "name": "oranges",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The oranges are located in the middle of the image. They are in a wooden drawer. There are other fruits in the background.",
+            "purpose": "The oranges are used for eating.",
+            "relationship": "The oranges are inside the wooden drawer, and there are other fruits in the background."
+        },
+        {
+            "name": "orange",
+            "color": "Red",
+            "form": "round",
+            "size": "medium",
+            "location": "The orange is located in the bottom right corner of the image. It is in a plastic bag.",
+            "purpose": "To eat",
+            "relationship": "The orange is inside the plastic bag"
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the drawer on the right side of the image. They are in the middle of the drawer.",
+            "purpose": "The apples are used for eating.",
+            "relationship": "The apples are inside the drawer."
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the middle of the image. They are in the drawer. There are no other objects around them.",
+            "purpose": "To eat",
+            "relationship": "The apples are inside the drawer"
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the middle of the image. They are in a wooden drawer. There are oranges and other fruits around them.",
+            "purpose": "The apples are used for eating.",
+            "relationship": "The apples are inside the wooden drawer, and the oranges and other fruits are outside the drawer."
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the middle of the image. They are in a wooden box. There are other fruits around them.",
+            "purpose": "The apples are used for eating.",
+            "relationship": "The apples are inside the wooden box"
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the middle of the image. They are in a wooden drawer. There are oranges and tomatoes in the background.",
+            "purpose": "The apples are used for eating.",
+            "relationship": "The apples are inside the wooden drawer, and the oranges and tomatoes are in the background."
+        },
+        {
+            "name": "apples",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The apples are located in the middle of the image. They are in a wooden box. There are other fruits around them.",
+            "purpose": "The apples are used for eating.",
+            "relationship": "The apples are inside the wooden box"
+        },
+        {
+            "name": "oranges",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "approximate size (medium)",
+            "location": "The oranges are located in the bottom right corner of the image. They are in a wooden box. There are no other objects around them.",
+            "purpose": "The oranges are used for eating.",
+            "relationship": "The oranges are inside the wooden box"
+        },
+        {
+            "name": "bananas",
+            "color": "Red",
+            "form": "Fruit",
+            "size": "medium",
+            "location": "The bananas are located in the drawer on the right side of the image. They are in the middle of the drawer.",
+            "purpose": "The bananas are used for eating.",
+            "relationship": "The bananas are inside the drawer, and there are no other objects around them."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "grapes",
+            "bbox": [
+                205,
+                0,
+                272,
+                75
+            ]
+        },
+        {
+            "object": "oranges",
+            "bbox": [
+                285,
+                375,
+                350,
+                461
+            ]
+        },
+        {
+            "object": "oranges",
+            "bbox": [
+                313,
+                375,
+                349,
+                426
+            ]
+        },
+        {
+            "object": "oranges",
+            "bbox": [
+                286,
+                406,
+                323,
+                460
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                282,
+                183,
+                309,
+                219
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                91,
+                58,
+                160,
+                125
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                90,
+                0,
+                357,
+                126
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                153,
+                0,
+                210,
+                78
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                101,
+                29,
+                159,
+                75
+            ]
+        },
+        {
+            "object": "apples",
+            "bbox": [
+                264,
+                0,
+                305,
+                28
+            ]
+        },
+        {
+            "object": "oranges",
+            "bbox": [
+                426,
+                114,
+                525,
+                213
+            ]
+        },
+        {
+            "object": "bananas",
+            "bbox": [
+                154,
+                60,
+                200,
+                102
+            ]
+        }
+    ]
+}

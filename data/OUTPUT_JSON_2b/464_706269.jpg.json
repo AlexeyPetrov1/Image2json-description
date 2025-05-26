@@ -1,0 +1,62 @@
+{
+    "image_name": "464_706269.jpg",
+    "description": "The image depicts a bathroom scene. There is a toilet on the left side, a trash can on the right side, and a toilet paper roll on the left side of the trash can. The toilet paper roll is located in the middle of the image, and the trash can is on the right side of the toilet paper roll. The toilet is on the left side of the image,",
+    "objects": [
+        {
+            "name": "trash",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The trash is located in the bottom right corner of the image. It is near the toilet and the toilet paper holder.",
+            "purpose": "The trash is used to dispose of waste.",
+            "relationship": "The trash is near the toilet and the toilet paper holder."
+        },
+        {
+            "name": "toilet paper",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The toilet paper is located in the center of the image. It is hanging on the wall. There is a trash can next to it.",
+            "purpose": "To use as a toilet paper roll.",
+            "relationship": "The toilet paper is hanging on the wall, and it is used as a toilet paper roll."
+        },
+        {
+            "name": "toilet",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The toilet is located in the center of the image. It's in the bathroom. There are no objects around",
+            "purpose": "To use the toilet",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "trash",
+            "bbox": [
+                282,
+                335,
+                423,
+                479
+            ]
+        },
+        {
+            "object": "paper",
+            "bbox": [
+                226,
+                271,
+                314,
+                381
+            ]
+        },
+        {
+            "object": "toilet",
+            "bbox": [
+                374,
+                148,
+                639,
+                478
+            ]
+        }
+    ]
+}

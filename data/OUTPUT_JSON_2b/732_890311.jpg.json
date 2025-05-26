@@ -1,0 +1,152 @@
+{
+    "image_name": "732_890311.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a yellow bottle, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink.",
+    "objects": [
+        {
+            "name": "bowl",
+            "color": "Green",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "plate",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf. There are other objects around, such as a bowl, a plate, and a rolling pin.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the shelf"
+        },
+        {
+            "name": "bowl",
+            "color": "Gold",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is placed on a shelf next to other items.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is not related to any other objects in the image."
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is placed on a shelf next to other items.",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bottle is located on the right side of the image, near the sink. It is yellow in color and has a white label on it.",
+            "purpose": "The bottle is used for cleaning purposes.",
+            "relationship": "The bottle is not related to any other objects in the image."
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is placed on a shelf with other items.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is not related to any other objects in the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bowl",
+            "bbox": [
+                284,
+                176,
+                379,
+                265
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                215,
+                265,
+                421,
+                428
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                143,
+                96,
+                220,
+                256
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                396,
+                206,
+                470,
+                278
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                170,
+                91,
+                216,
+                207
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                227,
+                92,
+                268,
+                208
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                523,
+                73,
+                639,
+                209
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                198,
+                93,
+                244,
+                222
+            ]
+        }
+    ]
+}

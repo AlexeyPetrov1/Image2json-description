@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/466_809369.jpg",
+    "filename": "466_809369.jpg",
     "objects": [
         {
             "label": "clothing",
-            "score": 0.44191381335258484,
+            "score": 0.4433594048023224,
             "box": [
                 256,
                 351,

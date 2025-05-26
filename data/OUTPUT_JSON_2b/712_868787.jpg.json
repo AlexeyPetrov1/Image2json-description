@@ -1,0 +1,224 @@
+{
+    "image_name": "712_868787.jpg",
+    "description": "The image contains several objects, including chairs, bottles, and a table. The chairs are located around the center of the image, with one chair on the left side and two chairs on the right side. The bottles are placed on the table, with one bottle on the left side and two bottles on the right side. The table is located in the center of the image.",
+    "objects": [
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "There is a table in front of the chair"
+        },
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "chair",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a blue box. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the box"
+        },
+        {
+            "name": "chair",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table in the center of the image. It is red in color and has a height of approximately 300 pixels and a width of approximately 200 pixels.",
+            "purpose": "The bottle is used for holding liquid.",
+            "relationship": "The bottle is not related to any other objects in the image."
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table in the center of the image. It is red in color and has a height of approximately 200 pixels and a width of approximately 100 pixels.",
+            "purpose": "The bottle is used for holding liquid.",
+            "relationship": "The bottle is not related to any other objects in the image."
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a table. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in the middle of the floor. There are no other objects around",
+            "purpose": "to place objects",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a table. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chair",
+            "bbox": [
+                8,
+                0,
+                126,
+                136
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                105,
+                0,
+                208,
+                75
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                444,
+                0,
+                516,
+                67
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                349,
+                250,
+                404,
+                383
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                545,
+                0,
+                604,
+                26
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                348,
+                203,
+                391,
+                326
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                189,
+                360,
+                478
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                390,
+                196,
+                436,
+                262
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                362,
+                299,
+                423,
+                429
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                382,
+                0,
+                438,
+                42
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                522,
+                41,
+                639,
+                250
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                396,
+                236,
+                447,
+                302
+            ]
+        }
+    ]
+}

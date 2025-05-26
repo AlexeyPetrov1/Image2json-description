@@ -1,0 +1,98 @@
+{
+    "image_name": "515_781872.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a black microwave, and there is a bowl with a red substance inside it located in the center of the image. The bowl is inside the sink. It seems like you need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "microwave",
+            "color": "Black",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The microwave is located in the center of the image. It's in the kitchen. There are no objects around",
+            "purpose": "To heat food",
+            "relationship": "There is a bowl inside the microwave"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of a black microwave oven. The bounding box is [0, 48, 98, 191].",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the microwave oven"
+        },
+        {
+            "name": "bowl",
+            "color": "Red",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the top left corner of the image. It is placed on a shelf with other items.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is placed on a shelf with other items.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the shelf"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "microwave",
+            "bbox": [
+                147,
+                3,
+                493,
+                290
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                0,
+                48,
+                98,
+                191
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                370,
+                302,
+                496,
+                457
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                75,
+                34,
+                150,
+                186
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                39,
+                38,
+                99,
+                144
+            ]
+        }
+    ]
+}

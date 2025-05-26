@@ -1,0 +1,116 @@
+{
+    "image_name": "504_721851.jpg",
+    "description": "The image depicts a grocery store aisle with a variety of snacks and packaged goods. The objects in the image are:\n\n1. Snacks: There are multiple snack packages scattered throughout the image, with some in the foreground and others in the background.\n2. Snack packages: The snack packages vary in size and shape, with some appearing larger and more prominent than others.\n3",
+    "objects": [
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the center of the image. They are in a box. There are other objects around them.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are inside the box, and there are other objects around them."
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "packaged food",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in a box. There are other snacks in the background.",
+            "purpose": "The snacks are a type of packaged food.",
+            "relationship": "The snacks are in a box, and there are other snacks in the background."
+        },
+        {
+            "name": "snacks",
+            "color": "orange",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the center of the image. They are in front of a red box. There are other snacks in the background.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are in front of a red box, which is a type of packaging."
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in a box. There are other objects around them.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are inside the box."
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in a box. There are other objects around them.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are inside the box."
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in a cardboard box.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are inside the cardboard box."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "snacks",
+            "bbox": [
+                418,
+                65,
+                471,
+                116
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                227,
+                110,
+                275,
+                162
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                331,
+                83,
+                391,
+                148
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                108,
+                94,
+                182,
+                158
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                269,
+                320,
+                413,
+                479
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                283,
+                362,
+                370,
+                428
+            ]
+        }
+    ]
+}

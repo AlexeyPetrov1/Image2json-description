@@ -1,0 +1,26 @@
+{
+    "image_name": "369_778774.jpg",
+    "description": "The image contains a washing machine labeled \"machine\" with a bounding box of [162, 0, 624, 473] and a score of 0.5068659782409668.",
+    "objects": [
+        {
+            "name": "washing machine",
+            "color": "Gray",
+            "form": "round",
+            "size": "big",
+            "location": "The washing machine is located in the center of the image. This is the main object in the photo",
+            "purpose": "to wash clothing",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "machine",
+            "bbox": [
+                162,
+                0,
+                624,
+                473
+            ]
+        }
+    ]
+}

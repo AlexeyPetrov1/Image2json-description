@@ -1,0 +1,26 @@
+{
+    "image_name": "429_684497.jpg",
+    "description": "\"\"\"\nname: \"table\"\ncolor: \"White\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The table is located in the center of the image, covering the entire width and height of the image.\"\npurpose: \"The table is a flat surface for placing objects.\"\nrelationship: \"The table is a flat surface for placing objects.\"\n---\nname: \"table\"\ncolor: \"White\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The table is located in the center of the image, covering the entire width and height of the image.\"\npurpose: \"The table is a flat",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                115,
+                639,
+                478
+            ]
+        }
+    ]
+}

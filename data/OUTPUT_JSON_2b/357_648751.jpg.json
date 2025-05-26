@@ -1,0 +1,116 @@
+{
+    "image_name": "357_648751.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a coral toaster, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "chopsticks",
+            "color": "Red",
+            "form": "stirrer",
+            "size": "medium",
+            "location": "The chopsticks are located in the center of the image. They are inside a brown bowl. The bowl is in the sink. There are no other objects around.",
+            "purpose": "To eat food",
+            "relationship": "The chopsticks are inside the bowl"
+        },
+        {
+            "name": "sticker",
+            "color": "Yellow",
+            "form": "rectangle",
+            "size": "small",
+            "location": "The sticker is located on the left side of the image, near the left arm of the robotic arm. The bounding box for the sticker is [320, 170, 363, 225].",
+            "purpose": "The purpose of the sticker is not clear from the image.",
+            "relationship": "The robotic arm is interacting with the sticker."
+        },
+        {
+            "name": "window",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The window is located in the top left corner of the image. It is rectangular in shape and covers a significant portion of the image.",
+            "purpose": "To let light into the room and provide a view outside.",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "window",
+            "color": "White",
+            "form": "rectangle",
+            "size": "small",
+            "location": "The window is located in the top left corner of the image. It is rectangular in shape and small in size.",
+            "purpose": "To let light into the room",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It's in front of the window. There are no objects around",
+            "purpose": "To wash dishes",
+            "relationship": "The sink is inside the washing machine"
+        },
+        {
+            "name": "bowl",
+            "color": "Gold",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chopsticks",
+            "bbox": [
+                450,
+                284,
+                490,
+                435
+            ]
+        },
+        {
+            "object": "sticker",
+            "bbox": [
+                320,
+                170,
+                363,
+                225
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                0,
+                0,
+                424,
+                134
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                2,
+                0,
+                403,
+                71
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                370,
+                207,
+                639,
+                479
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                439,
+                313,
+                500,
+                388
+            ]
+        }
+    ]
+}

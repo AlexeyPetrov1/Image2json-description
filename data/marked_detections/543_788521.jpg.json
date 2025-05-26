@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/543_788521.jpg",
+    "filename": "543_788521.jpg",
     "objects": [
         {
             "label": "clothing",
-            "score": 0.4493926167488098,
+            "score": 0.4380638897418976,
             "box": [
                 232,
                 0,
@@ -12,8 +12,8 @@
             ]
         },
         {
-            "label": "cardboard box",
-            "score": 0.382602721452713,
+            "label": "box",
+            "score": 0.3674972355365753,
             "box": [
                 178,
                 301,
@@ -23,7 +23,7 @@
         },
         {
             "label": "clothing",
-            "score": 0.4258439540863037,
+            "score": 0.4148988425731659,
             "box": [
                 297,
                 0,

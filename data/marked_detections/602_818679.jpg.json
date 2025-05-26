@@ -1,14 +1,44 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/602_818679.jpg",
+    "filename": "602_818679.jpg",
     "objects": [
         {
             "label": "snacks",
-            "score": 0.30404165387153625,
+            "score": 0.34246158599853516,
             "box": [
                 241,
                 34,
                 351,
                 196
+            ]
+        },
+        {
+            "label": "snacks",
+            "score": 0.2950267493724823,
+            "box": [
+                277,
+                338,
+                391,
+                479
+            ]
+        },
+        {
+            "label": "trolley",
+            "score": 0.3225259780883789,
+            "box": [
+                2,
+                0,
+                638,
+                478
+            ]
+        },
+        {
+            "label": "snacks",
+            "score": 0.3015677034854889,
+            "box": [
+                164,
+                312,
+                285,
+                479
             ]
         }
     ]

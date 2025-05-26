@@ -1,0 +1,134 @@
+{
+    "image_name": "451_795454.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a red rectangular object labeled \"bottle\" with a score of 0.44770172238349915 and a bounding box of [389, 39, 428, 151]. On the right side, there is a red rectangular object labeled \"bowl\" with a score of 0.3665897250175476 and a bounding box of [172, 278,",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is in the sink. There are no other objects around",
+            "purpose": "To add flavor to the salad",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "bowl",
+            "color": "Gold",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the top right corner of the image. It is placed on the counter next to the sink. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "vegetable",
+            "color": "Green",
+            "form": "round",
+            "size": "medium",
+            "location": "The vegetable is located in the center of the image. It is in the sink. There are no other objects around",
+            "purpose": "To eat food",
+            "relationship": "The vegetable is inside the sink"
+        },
+        {
+            "name": "vegetable",
+            "color": "Green",
+            "form": "round",
+            "size": "medium",
+            "location": "The vegetable is located in the center of the image. It's in the bowl. There are no other objects around",
+            "purpose": "To eat food",
+            "relationship": "The vegetable is inside the bowl"
+        },
+        {
+            "name": "vegetable",
+            "color": "Green",
+            "form": "round",
+            "size": "medium",
+            "location": "The vegetable is located in the center of the image. It's in the bowl. There are no other objects around",
+            "purpose": "To eat food",
+            "relationship": "The vegetable is inside the bowl"
+        },
+        {
+            "name": "egg",
+            "color": "White",
+            "form": "round",
+            "size": "medium",
+            "location": "The egg is located in the center of the image. It is in the bowl. There are no other objects around",
+            "purpose": "To eat",
+            "relationship": "The egg is inside the bowl"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                389,
+                39,
+                428,
+                151
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                172,
+                278,
+                300,
+                437
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                310,
+                53,
+                347,
+                154
+            ]
+        },
+        {
+            "object": "vegetable",
+            "bbox": [
+                314,
+                289,
+                341,
+                329
+            ]
+        },
+        {
+            "object": "vegetable",
+            "bbox": [
+                209,
+                357,
+                248,
+                402
+            ]
+        },
+        {
+            "object": "vegetable",
+            "bbox": [
+                208,
+                329,
+                281,
+                404
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                364,
+                274,
+                497,
+                338
+            ]
+        }
+    ]
+}

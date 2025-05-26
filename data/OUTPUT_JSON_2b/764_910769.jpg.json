@@ -1,0 +1,44 @@
+{
+    "image_name": "764_910769.jpg",
+    "description": "The image shows a bed with a black clothing item on it. The bed is located in the center of the image, and the clothing item is placed on top of the bed. The bounding box for the bed is [87, 0, 637, 476], and the bounding box for the clothing item is [210, 124, 460, 337].",
+    "objects": [
+        {
+            "name": "bed",
+            "color": "White",
+            "form": "rectangle",
+            "size": "big",
+            "location": "The bed is located in the center of the image. It's on a mattress. There are no objects around",
+            "purpose": "To sleep",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "clothing",
+            "color": "black",
+            "form": "garment",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It is black in color and appears to be a jacket or coat. The bounding box is [210, 124, 460, 337].",
+            "purpose": "The clothing is a piece of clothing.",
+            "relationship": "The clothing is the main object in the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bed",
+            "bbox": [
+                87,
+                0,
+                637,
+                476
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                210,
+                124,
+                460,
+                337
+            ]
+        }
+    ]
+}

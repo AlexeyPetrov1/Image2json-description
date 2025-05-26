@@ -1,0 +1,44 @@
+{
+    "image_name": "445_778511.jpg",
+    "description": "The image shows a robot with a door and a bottle. The door is located on the left side of the robot, and the bottle is located on the right side of the robot. The robot appears to be in a room with a marble wall.",
+    "objects": [
+        {
+            "name": "door",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The door is located in the center of the image. It is closed. There is a red line on the left side of the door.",
+            "purpose": "To enter or exit the room",
+            "relationship": "The door is the main entrance to the room"
+        },
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "conical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of a white wall. The bounding box is [96, 206, 149, 302].",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "door",
+            "bbox": [
+                248,
+                0,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                96,
+                206,
+                149,
+                302
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "image_name": "578_855382.jpg",
+    "description": "The image depicts a grocery store setting with a table in the background. On the table, there are several items including a pair of gloves, a barcode scanner, and some packaged goods. The gloves are being held by a person, and the barcode scanner is being used to scan the items on the table. The bounding box for the table is [14, 51, 611, 478], and the bounding box for",
+    "objects": [
+        {
+            "name": "table",
+            "color": "Brown",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It is made of wood and has a shelf with various items on it.",
+            "purpose": "To hold and display items",
+            "relationship": "The table is the main object in the image"
+        },
+        {
+            "name": "glove",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The glove is located on the left side of the image. It is being held by a hand wearing a black glove. The glove is in front of a red box with the word 'glove' written on it.",
+            "purpose": "The glove is being used to hold a red box with the word 'glove' written on it.",
+            "relationship": "The glove is in front of the red box with the word 'glove' written on it."
+        },
+        {
+            "name": "glove",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The glove is located on the left side of the image. It is being held by a hand wearing a black glove.",
+            "purpose": "To protect the hand from getting dirty or injured.",
+            "relationship": "The glove is being used to protect the hand."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                14,
+                51,
+                611,
+                478
+            ]
+        },
+        {
+            "object": "glove",
+            "bbox": [
+                254,
+                240,
+                357,
+                354
+            ]
+        },
+        {
+            "object": "glove",
+            "bbox": [
+                0,
+                184,
+                179,
+                355
+            ]
+        }
+    ]
+}

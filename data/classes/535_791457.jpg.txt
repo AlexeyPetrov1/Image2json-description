@@ -1,1 +1,1 @@
-shelf . bottle . faucet . sink . cabinet . mug . cup
+bottle . cup . bottle cap . toothbrush . toothpaste . sink

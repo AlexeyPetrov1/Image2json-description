@@ -1,0 +1,26 @@
+{
+    "image_name": "591_858179.jpg",
+    "description": "\"\"\"\nname: \"curtain\"\ncolor: \"beige\"\nform: \"curtain\"\nsize: \"approximate size\"\nlocation: \"The curtain is located in the middle of the image, covering the window.\"\npurpose: \"To cover the window.\"\nrelationship: \"The curtain is a part of the window.\"\n---\nname: \"window\"\ncolor: \"gray\"\nform: \"window\"\nsize: \"approximate size\"\nlocation: \"The window is located in the middle of the image, covering the window.\"\npurpose: \"To let light in.\"\nrelationship: \"The window is a part of the curtain",
+    "objects": [
+        {
+            "name": "curtain",
+            "color": "Beige",
+            "form": "curtain",
+            "size": "medium",
+            "location": "The curtain is located in the middle of the image. It is tied at the top and hangs from the wall to the floor.",
+            "purpose": "To cover the window and provide privacy.",
+            "relationship": "The curtain is the main object in the image, and it is related to the window and the wall."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "curtain",
+            "bbox": [
+                289,
+                0,
+                441,
+                479
+            ]
+        }
+    ]
+}

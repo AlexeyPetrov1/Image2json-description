@@ -1,0 +1,44 @@
+{
+    "image_name": "547_845311.jpg",
+    "description": "There is a washing machine in the image. Inside the washing machine, there is a yellow piece of clothing. The machine is labeled as \"machine\", and the clothing is labeled as \"clothing\". The bounding box for the machine is [1, 0, 639, 478], and the bounding box for the clothing is [227, 353, 421, 479].",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "Brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The clothing is located inside the washing machine. It is in the middle of the washing machine. There are no other objects around it.",
+            "purpose": "The clothing is being washed in the washing machine.",
+            "relationship": "The clothing is inside the washing machine."
+        },
+        {
+            "name": "washing machine",
+            "color": "Gray",
+            "form": "round",
+            "size": "big",
+            "location": "The washing machine is located in the center of the image. This is the main object in the photo",
+            "purpose": "to wash clothing",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                227,
+                353,
+                421,
+                479
+            ]
+        },
+        {
+            "object": "machine",
+            "bbox": [
+                1,
+                0,
+                639,
+                478
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_name": "434_803255.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a black robotic arm holding a bottle. In the center, there is a white coffee machine. On the right side, there is a black robotic arm holding a bottle and a trash can. The objects are arranged in a way that suggests the robotic arms are interacting with the coffee machine and trash can.",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Orange",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the countertop. It is in front of the coffee machine and to the right of the sink. The bounding box is [402, 46, 439, 152].",
+            "purpose": "The bottle is used to store liquid.",
+            "relationship": "The bottle is in front of the coffee machine and to the right of the sink."
+        },
+        {
+            "name": "trash bin",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The trash bin is located on the right side of the image. It is in the sink. There are no other objects around",
+            "purpose": "To dispose of trash",
+            "relationship": "The trash bin is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the countertop. It is in front of the coffee machine and behind the trash can.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is in front of the coffee machine and behind the trash can."
+        },
+        {
+            "name": "bottle",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the countertop. It is in front of the coffee machine and to the right of the sink. The bounding box is [362, 74, 396, 153].",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is in front of the coffee machine and to the right of the sink."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                402,
+                46,
+                439,
+                152
+            ]
+        },
+        {
+            "object": "trash",
+            "bbox": [
+                366,
+                322,
+                492,
+                444
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                227,
+                94,
+                253,
+                160
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                362,
+                74,
+                396,
+                153
+            ]
+        }
+    ]
+}

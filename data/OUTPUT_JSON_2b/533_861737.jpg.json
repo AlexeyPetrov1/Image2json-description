@@ -1,0 +1,26 @@
+{
+    "image_name": "533_861737.jpg",
+    "description": "\"\"\"\nname: \"curtains\"\ncolor: \"White\"\nform: \"Curtains\"\nsize: \"Approximately 639x480 pixels\"\nlocation: \"The curtains are located on the left and right sides of the image, covering the entire width of the image.\"\npurpose: \"The curtains are used to block light and privacy.\"\nrelationship: \"The curtains are the main object in the image, and there are no other objects related to them.\"\n---\nThe curtains are the main object in the image, and there are no other objects related to",
+    "objects": [
+        {
+            "name": "curtains",
+            "color": "White",
+            "form": "curtain",
+            "size": "large",
+            "location": "The curtains are located in the center of the image. They are white and cover the entire width of the image.",
+            "purpose": "To cover the window.",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "curtains",
+            "bbox": [
+                0,
+                0,
+                639,
+                480
+            ]
+        }
+    ]
+}

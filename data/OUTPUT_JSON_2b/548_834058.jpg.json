@@ -1,0 +1,170 @@
+{
+    "image_name": "548_834058.jpg",
+    "description": "There is a washing machine in the image. Inside the washing machine, there are clothes and a basket. The clothes are located in the middle of the washing machine, and the basket is on the left side of the clothes. The washing machine is located on the left side of the image, and the clothes are inside the washing machine.",
+    "objects": [
+        {
+            "name": "clothes",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The clothes are located in the middle of the image. They are inside a laundry basket.",
+            "purpose": "The clothes are being washed in the washing machine.",
+            "relationship": "The clothes are inside the laundry basket, which is inside the washing machine."
+        },
+        {
+            "name": "clothes",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The clothes are located inside the washing machine. They are in the middle of the washing machine. There are no other objects around them.",
+            "purpose": "The clothes are being washed in the washing machine.",
+            "relationship": "The clothes are inside the washing machine."
+        },
+        {
+            "name": "basket",
+            "color": "Blue",
+            "form": "oval",
+            "size": "medium",
+            "location": "The basket is located in the center of the image. It's in the washing machine. There are no objects around",
+            "purpose": "to hold clothes",
+            "relationship": "The basket is inside the washing machine"
+        },
+        {
+            "name": "clothes",
+            "color": "Unknown",
+            "form": "geometrical form",
+            "size": "approximate size (small, medium, big)",
+            "location": "The clothes are in a laundry basket inside a washing machine. The basket is located in the center of the image. The washing machine is on the left side of the image.",
+            "purpose": "The clothes are being washed in the washing machine.",
+            "relationship": "The clothes are inside the laundry basket, which is inside the washing machine."
+        },
+        {
+            "name": "clothes",
+            "color": "Blue and black",
+            "form": "arranged in a pile",
+            "size": "medium",
+            "location": "The clothes are located in the red rectangle around them. They are inside a laundry basket. The basket is in front of a washing machine.",
+            "purpose": "Clothes to be washed",
+            "relationship": "The clothes are inside the laundry basket, which is in front of the washing machine."
+        },
+        {
+            "name": "clothes",
+            "color": "Unknown",
+            "form": "geometrical form",
+            "size": "approximate size (unknown)",
+            "location": "The clothes are located in the middle of the image. They are in a laundry basket. There are no other objects around them.",
+            "purpose": "The clothes are being washed in the washing machine.",
+            "relationship": "The clothes are inside the laundry basket, which is inside the washing machine."
+        },
+        {
+            "name": "clothes",
+            "color": "Blue and brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The clothes are in a basket inside the washing machine. The basket is located in the center of the washing machine. The clothes are in the middle of the basket.",
+            "purpose": "The clothes are being washed in the washing machine.",
+            "relationship": "The clothes are inside the washing machine."
+        },
+        {
+            "name": "washing machine",
+            "color": "Black",
+            "form": "round",
+            "size": "big",
+            "location": "The washing machine is located in the center of the image. This is the main object in the photo",
+            "purpose": "to wash clothing",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "clothes",
+            "color": "Unknown",
+            "form": "geometrical form",
+            "size": "approximate size (small, medium, big)",
+            "location": "The clothes are located in the red rectangle around them. They are inside a laundry basket. The basket is in front of a washing machine.",
+            "purpose": "The clothes are being washed.",
+            "relationship": "The clothes are inside the laundry basket, which is in front of the washing machine."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothes",
+            "bbox": [
+                204,
+                272,
+                318,
+                440
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                232,
+                272,
+                318,
+                437
+            ]
+        },
+        {
+            "object": "basket",
+            "bbox": [
+                166,
+                209,
+                410,
+                478
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                293,
+                316,
+                382,
+                431
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                203,
+                246,
+                382,
+                440
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                293,
+                246,
+                377,
+                332
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                204,
+                332,
+                278,
+                440
+            ]
+        },
+        {
+            "object": "machine",
+            "bbox": [
+                176,
+                0,
+                639,
+                331
+            ]
+        },
+        {
+            "object": "clothes",
+            "bbox": [
+                292,
+                246,
+                382,
+                431
+            ]
+        }
+    ]
+}

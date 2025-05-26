@@ -1,0 +1,116 @@
+{
+    "image_name": "358_655108.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a coral toaster, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.\n---\nlabel: \"toaster\"\nscore: \"0.8386797308921814\"\nbox: \"[254, 209, 419, 372]\"\n---\nlabel: \"basket\"\nscore: \"0",
+    "objects": [
+        {
+            "name": "toaster",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "This toaster is located on the table on the right side of the image. To his left is a pink plate. There is a sink in front of it. There is a socket behind it",
+            "purpose": "To toast bread.",
+            "relationship": "There is a bread inside toaster"
+        },
+        {
+            "name": "basket",
+            "color": "Brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The basket is located in the center of the image. It's in front of the toaster. There is bread inside the basket.",
+            "purpose": "To hold bread",
+            "relationship": "The bread is inside the basket"
+        },
+        {
+            "name": "milk carton",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The milk carton is located on the left side of the image. It is in front of the toaster and to the left of the bread basket.",
+            "purpose": "The milk carton is used for storing milk.",
+            "relationship": "The milk carton is in front of the toaster and to the left of the bread basket."
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is next to a toaster and a carton of milk.",
+            "purpose": "The bottle is used for storing liquid.",
+            "relationship": "The bottle is next to the toaster and the carton of milk."
+        },
+        {
+            "name": "bread",
+            "color": "Brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bread is located in the basket on the left side of the image. It is in front of the toaster.",
+            "purpose": "To be toasted",
+            "relationship": "The bread is inside the toaster"
+        },
+        {
+            "name": "bread",
+            "color": "Brown",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bread is located in the basket on the left side of the image. It is in front of the toaster.",
+            "purpose": "The bread is used to make toast.",
+            "relationship": "The bread is inside the toaster"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "toaster",
+            "bbox": [
+                254,
+                209,
+                419,
+                372
+            ]
+        },
+        {
+            "object": "basket",
+            "bbox": [
+                153,
+                342,
+                280,
+                478
+            ]
+        },
+        {
+            "object": "carton",
+            "bbox": [
+                128,
+                134,
+                215,
+                288
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                233,
+                156,
+                265,
+                267
+            ]
+        },
+        {
+            "object": "bread",
+            "bbox": [
+                155,
+                425,
+                261,
+                467
+            ]
+        },
+        {
+            "object": "bread",
+            "bbox": [
+                176,
+                341,
+                263,
+                425
+            ]
+        }
+    ]
+}

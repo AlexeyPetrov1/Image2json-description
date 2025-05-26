@@ -1,0 +1,188 @@
+{
+    "image_name": "582_804095.jpg",
+    "description": "The image depicts a living room setting with a sofa, a coffee table, and various objects on it. The sofa is located in the background, while the coffee table is in the foreground. On the coffee table, there is a vase with flowers, a glass, and a white object that could be a remote control or a piece of paper. The objects are arranged in a way that suggests a",
+    "objects": [
+        {
+            "name": "sofa",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sofa is located in the center of the image. It's in the living room. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's in the living room. There is a couch behind it. There is a vase with flowers on the table.",
+            "purpose": "To place objects on it",
+            "relationship": "The table is the main object in the photo"
+        },
+        {
+            "name": "flowers",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flowers are located in the center of the image. They are on a table. There is a cup and a tissue paper next to them.",
+            "purpose": "The flowers are a decorative element in the room.",
+            "relationship": "The flowers are not related to any other objects in the image."
+        },
+        {
+            "name": "bowl",
+            "color": "White",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the table in the center of the image. It is white in color.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is on the table"
+        },
+        {
+            "name": "flowers",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flowers are located on the table in the center of the image. They are surrounded by a white tablecloth and a vase.",
+            "purpose": "The flowers are used for decoration.",
+            "relationship": "The flowers are not related to any other objects in the image."
+        },
+        {
+            "name": "flowers",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flowers are located on the table. They are in a vase. There are no other objects around them.",
+            "purpose": "The flowers are used for decoration.",
+            "relationship": "The flowers are not related to any other objects."
+        },
+        {
+            "name": "flowers",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flowers are located on the table in the center of the image. They are surrounded by a white vase and a white tissue paper.",
+            "purpose": "The flowers are used as a decoration for the table.",
+            "relationship": "The flowers are not related to any other objects in the image."
+        },
+        {
+            "name": "glass",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The glass is located on the table in the center of the image. It is positioned between the two robotic arms.",
+            "purpose": "To hold a drink",
+            "relationship": "The glass is being held by the robotic arms"
+        },
+        {
+            "name": "vase",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The vase is located on the table in the center of the image. It is next to a cup and a tissue paper.",
+            "purpose": "To hold flowers",
+            "relationship": "The vase is holding flowers"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "sofa",
+            "bbox": [
+                0,
+                0,
+                639,
+                236
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                64,
+                168,
+                554,
+                478
+            ]
+        },
+        {
+            "object": "flowers",
+            "bbox": [
+                185,
+                103,
+                293,
+                218
+            ]
+        },
+        {
+            "object": "vase",
+            "bbox": [
+                235,
+                167,
+                265,
+                204
+            ]
+        },
+        {
+            "object": "glass",
+            "bbox": [
+                247,
+                239,
+                316,
+                351
+            ]
+        },
+        {
+            "object": "flowers",
+            "bbox": [
+                221,
+                120,
+                252,
+                160
+            ]
+        },
+        {
+            "object": "flowers",
+            "bbox": [
+                258,
+                127,
+                287,
+                157
+            ]
+        },
+        {
+            "object": "flowers",
+            "bbox": [
+                204,
+                141,
+                230,
+                178
+            ]
+        },
+        {
+            "object": "glass",
+            "bbox": [
+                333,
+                362,
+                364,
+                428
+            ]
+        },
+        {
+            "object": "vase",
+            "bbox": [
+                247,
+                239,
+                316,
+                351
+            ]
+        }
+    ]
+}

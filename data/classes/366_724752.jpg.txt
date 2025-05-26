@@ -1,1 +1,1 @@
-boxes . bottles . bags
+bottles . boxes . plastic bags . plastic crates

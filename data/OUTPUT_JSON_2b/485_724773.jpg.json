@@ -1,0 +1,44 @@
+{
+    "image_name": "485_724773.jpg",
+    "description": "The image shows a table with two objects: a book and a cup. The book is located on the left side of the table, and the cup is located on the right side of the table. The bounding box for the book is [152, 78, 239, 133], and the bounding box for the cup is [378, 44, 417, 116]. The book is labeled as \"book\" with a score of 0.5585678219795227,",
+    "objects": [
+        {
+            "name": "cup",
+            "color": "Gray",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the table. It is in the center of the image. The bounding box for the cup is [378, 44, 417, 116].",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is on the table"
+        },
+        {
+            "name": "book",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": ": The book is located on the table. It is in the center of the image. The bounding box is [152, 78, 239, 133]",
+            "purpose": "To read",
+            "relationship": "The book is on top of the table"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cup",
+            "bbox": [
+                378,
+                44,
+                417,
+                116
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                152,
+                78,
+                239,
+                133
+            ]
+        }
+    ]
+}

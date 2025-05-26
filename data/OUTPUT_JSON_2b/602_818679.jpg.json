@@ -1,0 +1,80 @@
+{
+    "image_name": "602_818679.jpg",
+    "description": "The image depicts a shopping cart filled with various snacks. The cart is positioned on a trolley, which is labeled as \"trolley\" in the bounding box. The snacks are arranged in a grid-like pattern, with each row containing three snacks. The top row of snacks is labeled as \"snacks\" in the bounding box, and the bottom row is labeled as \"trolley\" in the bounding box. The snacks in the top",
+    "objects": [
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in a shopping cart. There are other snacks around them.",
+            "purpose": "The snacks are used for snacking.",
+            "relationship": "The snacks are inside the shopping cart."
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in the shopping cart. There are other snacks around them.",
+            "purpose": "The snacks are used for snacking.",
+            "relationship": "The snacks are inside the shopping cart."
+        },
+        {
+            "name": "trolley",
+            "color": "Blue",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The trolley is located in the center of the image. It's in the shopping cart. There are no objects around",
+            "purpose": "To transport items",
+            "relationship": "The trolley is inside the shopping cart"
+        },
+        {
+            "name": "snacks",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snacks are located in the middle of the image. They are in the shopping cart. There are no other objects around them.",
+            "purpose": "The snacks are a type of food.",
+            "relationship": "The snacks are inside the shopping cart."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "snacks",
+            "bbox": [
+                241,
+                34,
+                351,
+                196
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                277,
+                338,
+                391,
+                479
+            ]
+        },
+        {
+            "object": "trolley",
+            "bbox": [
+                2,
+                0,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "snacks",
+            "bbox": [
+                164,
+                312,
+                285,
+                479
+            ]
+        }
+    ]
+}

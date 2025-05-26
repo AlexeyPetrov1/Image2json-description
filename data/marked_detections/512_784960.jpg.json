@@ -1,34 +1,24 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/512_784960.jpg",
+    "filename": "512_784960.jpg",
     "objects": [
         {
-            "label": "eraser",
-            "score": 0.6206215620040894,
+            "label": "toy",
+            "score": 0.34687307476997375,
             "box": [
                 390,
-                352,
-                443,
-                387
+                245,
+                639,
+                434
             ]
         },
         {
-            "label": "text",
-            "score": 0.6706082820892334,
+            "label": "word",
+            "score": 0.3090237081050873,
             "box": [
                 264,
                 70,
                 477,
-                163
-            ]
-        },
-        {
-            "label": "whiteboard",
-            "score": 0.6442251205444336,
-            "box": [
-                26,
-                0,
-                610,
-                346
+                162
             ]
         }
     ]

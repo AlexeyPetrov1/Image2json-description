@@ -1,1 +1,1 @@
-flowers . table . couch . vase . tissue . cup
+cup . tissue . sofa . flowers . vase . glass . table

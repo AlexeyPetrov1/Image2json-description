@@ -1,0 +1,62 @@
+{
+    "image_name": "748_893216.jpg",
+    "description": "\"\"\"\nname: \"person\"\ncolor: \"Gray\"\nform: \"Human\"\nsize: \"Approximately 150x150\"\nlocation: \"Center of the image\"\npurpose: \"Person standing in front of a machine\"\nrelationship: \"Person standing in front of a machine\"\n---\nlabel: \"shirt\"\ncolor: \"Gray\"\nform: \"Shirt\"\nsize: \"Approximately 150x150\"\nlocation: \"Center of the image\"\npurpose: \"Person wearing a shirt\"\nrelationship: \"Person wearing a shirt\"\n---\nlabel: \"clothing\"\ncolor: \"Gray\"\nform",
+    "objects": [
+        {
+            "name": "person",
+            "color": "Brown",
+            "form": "human",
+            "size": "medium",
+            "location": "The person is located in the center of the image. He is wearing a plaid shirt and blue jeans.",
+            "purpose": "The person is a human.",
+            "relationship": "The person is the main subject of the image."
+        },
+        {
+            "name": "shirt",
+            "color": "Brown",
+            "form": "shirt",
+            "size": "medium",
+            "location": "The shirt is located in the center of the image. It covers the upper body of the person.",
+            "purpose": "The shirt is being worn by the person.",
+            "relationship": "The person is wearing the shirt."
+        },
+        {
+            "name": "clothing",
+            "color": "Brown",
+            "form": "shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It is a plaid shirt.",
+            "purpose": "The clothing is being worn by the person in the picture.",
+            "relationship": "The clothing is being worn by the person in the picture."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "person",
+            "bbox": [
+                11,
+                0,
+                188,
+                357
+            ]
+        },
+        {
+            "object": "shirt",
+            "bbox": [
+                12,
+                3,
+                173,
+                230
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                12,
+                2,
+                185,
+                353
+            ]
+        }
+    ]
+}

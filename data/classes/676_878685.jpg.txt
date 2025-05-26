@@ -1,1 +1,1 @@
-calendar . cable . charger . stapler
+keyboard . pen . book . stapler

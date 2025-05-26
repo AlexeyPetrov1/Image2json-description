@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/532_791376.jpg",
+    "filename": "532_791376.jpg",
     "objects": [
         {
             "label": "table",
-            "score": 0.6252092719078064,
+            "score": 0.6085940003395081,
             "box": [
                 0,
                 171,

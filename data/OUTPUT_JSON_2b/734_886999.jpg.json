@@ -1,0 +1,44 @@
+{
+    "image_name": "734_886999.jpg",
+    "description": "The image shows a robot arm interacting with a curtain. The robot arm is positioned near a window, and the curtain is hanging in front of the window. The robot arm appears to be in the process of cleaning or adjusting the curtain. The bounding box for the window is [0, 0, 187, 378], and the bounding box for the curtain is [305, 0, 479, 479]. The robot arm is",
+    "objects": [
+        {
+            "name": "curtains",
+            "color": "Gray",
+            "form": "curtains",
+            "size": "approximate size",
+            "location": "The curtains are located on the left side of the image. They are hanging from a rod and cover the window.",
+            "purpose": "To cover the window.",
+            "relationship": "The curtains are in front of the window."
+        },
+        {
+            "name": "window",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The window is located on the left side of the image. It's in the room. There are no objects around",
+            "purpose": "To let light in the room",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "curtains",
+            "bbox": [
+                305,
+                0,
+                479,
+                479
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                0,
+                0,
+                187,
+                378
+            ]
+        }
+    ]
+}

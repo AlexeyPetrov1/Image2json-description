@@ -1,0 +1,44 @@
+{
+    "image_name": "440_684808.jpg",
+    "description": "The image contains a shirt and a blouse. The shirt is located on the left side of the image, while the blouse is on the right side. The shirt is in the foreground, while the blouse is in the background. The bounding box for the shirt is [107, 0, 557, 398], and the bounding box for the blouse is [106, 0, 557, 398]. The score for the shirt is 0.47025004029273987,",
+    "objects": [
+        {
+            "name": "shirt",
+            "color": "Gray",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The shirt is located in the center of the image. It is hanging on a hanger. There are no other objects around",
+            "purpose": "To wear",
+            "relationship": "The shirt is hanging on a hanger"
+        },
+        {
+            "name": "blouse",
+            "color": "Gray",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The blouse is located in the center of the image. It is hanging on a hanger. The hanger is on the left side of the image.",
+            "purpose": "The blouse is a piece of clothing.",
+            "relationship": "The blouse is hanging on a hanger, which is located on the left side of the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "shirt",
+            "bbox": [
+                107,
+                0,
+                557,
+                398
+            ]
+        },
+        {
+            "object": "blouse",
+            "bbox": [
+                106,
+                0,
+                557,
+                398
+            ]
+        }
+    ]
+}

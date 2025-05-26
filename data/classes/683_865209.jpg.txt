@@ -1,1 +1,1 @@
-cup . wooden sticks . tray
+cup . chopsticks . tray . container . table

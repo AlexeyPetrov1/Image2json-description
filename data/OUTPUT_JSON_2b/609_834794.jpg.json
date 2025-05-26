@@ -1,0 +1,80 @@
+{
+    "image_name": "609_834794.jpg",
+    "description": "The image depicts a shopping cart filled with snacks. The snacks are arranged in a grid-like pattern, with each row containing three snacks. The cart is positioned in a grocery store aisle, and the snacks appear to be of various types, including potato chips and cookies. The objects in the image are described as follows:\n\n- **Cart**: A shopping cart filled with snacks.\n- **Snacks**: Various types of snacks, including potato chips",
+    "objects": [
+        {
+            "name": "snack",
+            "color": "Pink",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is in the shopping cart. The bounding box is [190, 23, 320, 181].",
+            "purpose": "The snack is a snack.",
+            "relationship": "The snack is inside the shopping cart."
+        },
+        {
+            "name": "snack",
+            "color": "Blue",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. There are other snacks around it.",
+            "purpose": "To eat",
+            "relationship": "The snack is inside the shopping cart"
+        },
+        {
+            "name": "snack",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. The bounding box is [395, 34, 509, 190].",
+            "purpose": "A snack",
+            "relationship": "The snack is inside the shopping cart."
+        },
+        {
+            "name": "snack",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. There are other snacks around it.",
+            "purpose": "A snack is a type of food that is typically eaten as a snack.",
+            "relationship": "The snack is inside the shopping cart, and there are other snacks around it."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "snack",
+            "bbox": [
+                190,
+                23,
+                320,
+                181
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                286,
+                377,
+                335,
+                443
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                395,
+                34,
+                509,
+                190
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                186,
+                0,
+                639,
+                207
+            ]
+        }
+    ]
+}

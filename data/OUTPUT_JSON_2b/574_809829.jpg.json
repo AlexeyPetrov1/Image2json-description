@@ -1,0 +1,116 @@
+{
+    "image_name": "574_809829.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a blender labeled \"maker\" and a bottle labeled \"bottle\". On the right side, there is a blender labeled \"maker\" and a cup labeled \"cup\". The blender labeled \"maker\" is located in the center of the image, while the blender labeled \"maker\" is on the right side. The bottle labeled \"bottle\" is on the left side,",
+    "objects": [
+        {
+            "name": "ice maker",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The ice maker is located in the center of the image. It is white and rectangular in shape. The bounding box is [215, 106, 393, 416].",
+            "purpose": "To make ice cubes.",
+            "relationship": "The ice maker is the main object in the image. It is the focus of the picture."
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is in front of the ice maker. The bounding box is [90, 110, 160, 238].",
+            "purpose": "The bottle is a container for liquid.",
+            "relationship": "The bottle is in front of the ice maker, and the ice maker is in front of the sink. The bounding box is [90, 110, 160, 238]."
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To drink water",
+            "relationship": "The cup is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is white in color and has a rectangular shape.",
+            "purpose": "The bottle is used for storing liquid.",
+            "relationship": "The bottle is not related to any other objects in the image."
+        },
+        {
+            "name": "ice maker",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The ice maker is located on the left side of the image. It is in front of the sink. There are no other objects around it.",
+            "purpose": "To make ice cubes.",
+            "relationship": "The ice maker is the main object in the image, and it is used to make ice cubes."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "maker",
+            "bbox": [
+                215,
+                106,
+                393,
+                416
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                67,
+                216,
+                141,
+                293
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                90,
+                110,
+                160,
+                238
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                386,
+                203,
+                480,
+                359
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                139,
+                108,
+                224,
+                248
+            ]
+        },
+        {
+            "object": "maker",
+            "bbox": [
+                374,
+                192,
+                639,
+                478
+            ]
+        }
+    ]
+}

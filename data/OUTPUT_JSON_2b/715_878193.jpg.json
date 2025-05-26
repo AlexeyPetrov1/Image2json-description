@@ -1,0 +1,26 @@
+{
+    "image_name": "715_878193.jpg",
+    "description": "input:\n\"\"\"\nname: \"robot arm\"\ncolor: \"black\"\nform: \"arm\"\nsize: \"medium\"\nlocation: \"The robot arm is located on the left side of the image. It is in front of a wooden door.\"\npurpose: \"The robot arm is used for tasks such as opening and closing doors.\"\nrelationship: \"The robot arm is connected to the door\"\n---\nname: \"door\"\ncolor: \"wooden\"\nform: \"door\"\nsize: \"large\"\nlocation: \"The door is located in the center of the image. It is made of wood.\"\npurpose: \"The door is used",
+    "objects": [
+        {
+            "name": "cable",
+            "color": "Gray",
+            "form": "Cable",
+            "size": "medium",
+            "location": "The cable is located on the right side of the image. It is connected to the robot's arm and extends towards the door.",
+            "purpose": "The cable is used to connect the robot's arm to the door.",
+            "relationship": "The cable is connected to the robot's arm and extends towards the door."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cable",
+            "bbox": [
+                475,
+                384,
+                639,
+                479
+            ]
+        }
+    ]
+}

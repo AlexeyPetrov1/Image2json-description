@@ -52,9 +52,9 @@ class ObjectDetector:
                     "box": list(box.astype(int).tolist()),
                 }
             )
-        one_file_result = {"filename": filename, "objects": objects}
+        one_file_result = {"filename": str(filename.name), "objects": objects}
         with open(
-            os.path.join(DETECTIONS_DIR, f'{filename.split("/")[-1]}' + ".json"),
+            os.path.join(DETECTIONS_DIR, f"{filename.name}" + ".json"),
             "w",
             encoding="utf-8",
         ) as f:
@@ -130,10 +130,10 @@ class DetectionPipeline:
         fig, ax = plt.subplots()
         ax.imshow(image)
         result = json.load(
-            open(os.path.join(DETECTIONS_DIR, f'{filename.split("/")[-1]}' + ".json"))
+            open(os.path.join(DETECTIONS_DIR, f"{filename.name}" + ".json"))
         )["objects"]
         for dictionary in result:
-            label, _, box = dictionary.values()
+            label, box = dictionary["label"], dictionary["box"]
             if label not in classes_of_picture:
                 label = label.split(" ")
                 label = " ".join(label[round(len(label) / 2) :])
@@ -156,7 +156,7 @@ class DetectionPipeline:
                 fontsize=10,
                 bbox=dict(facecolor="white", alpha=0.5),
             )
-        marked_image_path = DETECTIONS_PICTURES_DIR / f'{filename.split("/")[-1]}.png'
+        marked_image_path = DETECTIONS_PICTURES_DIR / f"{filename.name}.png"
         fig.savefig(marked_image_path)
         plt.close()
 

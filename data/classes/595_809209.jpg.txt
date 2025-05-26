@@ -1,1 +1,1 @@
-chair . glass . table . floor . jar . plant . man . phone
+cup . book . pitcher . plant . light switch . chair . vase . wall . phone . table

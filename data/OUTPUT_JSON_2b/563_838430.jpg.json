@@ -1,0 +1,188 @@
+{
+    "image_name": "563_838430.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a coral toaster, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "plate",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the top left corner of the image. It is placed on a table next to a toaster and a bowl.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the toaster"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of a toaster and a plate. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the toaster"
+        },
+        {
+            "name": "oven",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The oven is located on the left side of the image. It's in front of the sink. There are no other objects around",
+            "purpose": "To cook food",
+            "relationship": "The oven is used to cook food"
+        },
+        {
+            "name": "plate",
+            "color": "White",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "jar",
+            "color": "Yellow",
+            "form": "Round",
+            "size": "medium",
+            "location": "The jar is located on the left side of the image. It is in front of a microwave oven. There is a bowl and a bottle behind it.",
+            "purpose": "To hold liquid",
+            "relationship": "The jar is inside the microwave oven"
+        },
+        {
+            "name": "jar",
+            "color": "Orange",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The jar is located on the left side of the image. It is in front of the toaster. There are no other objects around it.",
+            "purpose": "To store food",
+            "relationship": "There is a bread inside the jar"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of the toaster.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the toaster"
+        },
+        {
+            "name": "jar",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The jar is located on the left side of the image. It is in front of the toaster. There are no other objects around",
+            "purpose": "To store food",
+            "relationship": "The jar is inside the toaster"
+        },
+        {
+            "name": "bowl",
+            "color": "White",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "plate",
+            "bbox": [
+                308,
+                276,
+                459,
+                463
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                101,
+                20,
+                153,
+                132
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                44,
+                39,
+                109,
+                159
+            ]
+        },
+        {
+            "object": "oven",
+            "bbox": [
+                122,
+                55,
+                346,
+                261
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                394,
+                189,
+                503,
+                283
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                101,
+                20,
+                153,
+                131
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                96,
+                101,
+                131,
+                167
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                96,
+                101,
+                131,
+                167
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                44,
+                39,
+                109,
+                159
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                394,
+                189,
+                503,
+                283
+            ]
+        }
+    ]
+}

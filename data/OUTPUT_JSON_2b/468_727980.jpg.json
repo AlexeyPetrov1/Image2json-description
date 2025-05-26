@@ -1,0 +1,44 @@
+{
+    "image_name": "468_727980.jpg",
+    "description": "The image shows a clothes rack with two jackets hanging on it. The jackets are located in the center of the rack, with one jacket on the left and the other on the right. The bounding box for the jacket on the left is [388, 101, 560, 477], and the bounding box for the jacket on the right is [286, 109, 403, 468]. Both jackets are labeled as \"jacket\" with",
+    "objects": [
+        {
+            "name": "jacket",
+            "color": "Brown",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The jacket is located in the center of the image. It is hanging on a hanger. There are no other objects around.",
+            "purpose": "The jacket is a piece of clothing.",
+            "relationship": "The jacket is hanging on a hanger"
+        },
+        {
+            "name": "jacket",
+            "color": "Gray",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The jacket is located in the center of the image. It is hanging on a rack with other clothes. The bounding box is [286, 109, 403, 468].",
+            "purpose": "The jacket is a piece of clothing.",
+            "relationship": "The jacket is hanging on a rack with other clothes."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "jacket",
+            "bbox": [
+                388,
+                101,
+                560,
+                477
+            ]
+        },
+        {
+            "object": "jacket",
+            "bbox": [
+                286,
+                109,
+                403,
+                468
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "image_name": "682_858693.jpg",
+    "description": "\"\"\"\nname: \"table\"\ncolor: \"Gray\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The table is located in the center of the image. It's on the floor.\"\npurpose: \"To place objects on it.\"\nrelationship: \"The table is a flat surface for placing objects.\"\n---\nlabel: \"clothing\"\nscore: \"0.34334173798561096\"\nbox: \"[199, 44, 280, 156]\"\n---\nlabel: \"clothing\"\nscore: \"0",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "Unknown",
+            "form": "Unknown",
+            "size": "Unknown",
+            "location": "The clothing is located in the upper left part of the image. It is a pair of pants. The bounding box is [199, 44, 280, 156].",
+            "purpose": "Unknown",
+            "relationship": "Unknown"
+        },
+        {
+            "name": "clothing",
+            "color": "Unknown",
+            "form": "Unknown",
+            "size": "Unknown",
+            "location": "The clothing is located in the center of the image. The bounding box is [199, 0, 281, 156].",
+            "purpose": "Unknown",
+            "relationship": "Unknown"
+        },
+        {
+            "name": "glass",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The glass is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To drink water",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It is the main object in the photo",
+            "purpose": "to place objects",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "table",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                199,
+                44,
+                280,
+                156
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                199,
+                0,
+                281,
+                156
+            ]
+        },
+        {
+            "object": "glass",
+            "bbox": [
+                100,
+                216,
+                249,
+                443
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                152,
+                639,
+                478
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                44,
+                0,
+                174,
+                141
+            ]
+        }
+    ]
+}

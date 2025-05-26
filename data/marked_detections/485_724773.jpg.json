@@ -1,19 +1,19 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/485_724773.jpg",
+    "filename": "485_724773.jpg",
     "objects": [
         {
-            "label": "table",
-            "score": 0.5259775519371033,
+            "label": "cup",
+            "score": 0.671470582485199,
             "box": [
-                87,
-                75,
-                585,
-                435
+                378,
+                44,
+                417,
+                116
             ]
         },
         {
             "label": "book",
-            "score": 0.40969306230545044,
+            "score": 0.5585678219795227,
             "box": [
                 152,
                 78,

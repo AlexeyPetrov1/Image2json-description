@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/497_720218.jpg",
+    "filename": "497_720218.jpg",
     "objects": [
         {
-            "label": "storage",
-            "score": 0.3656831681728363,
+            "label": "box",
+            "score": 0.3942009508609772,
             "box": [
                 100,
                 87,
@@ -13,7 +13,7 @@
         },
         {
             "label": "snack",
-            "score": 0.3711366057395935,
+            "score": 0.35398629307746887,
             "box": [
                 200,
                 132,

@@ -1,0 +1,116 @@
+{
+    "image_name": "470_696711.jpg",
+    "description": "The image shows a table with various objects on it. There is a white bottle on the left side of the table, a glass on the right side of the table, and a cloth on the right side of the table. The bottle and glass are close to each other, and the cloth is on the right side of the table. The bottle and glass are both on the table,",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "round",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in the middle of the table. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table. It is white in color. The bounding box is [168, 22, 243, 172].",
+            "purpose": "The bottle is used to hold liquid.",
+            "relationship": "The bottle is on the table, and the table is on the floor. There is no relationship with other objects."
+        },
+        {
+            "name": "cloth",
+            "color": "Yellow",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The cloth is located on the right side of the table. It is being held by the robot's hand. The bounding box is [366, 174, 473, 302].",
+            "purpose": "The cloth is being used to wipe the table.",
+            "relationship": "The cloth is being used to clean the table."
+        },
+        {
+            "name": "flower",
+            "color": "Red",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located on the table. It is in the center of the image. The bounding box is [297, 2, 338, 54].",
+            "purpose": "The flower is a decorative element on the table.",
+            "relationship": "The flower is part of the table's decoration."
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the table. It is on the left side of the table. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is on the table"
+        },
+        {
+            "name": "bottle",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table. It is in the middle of the table. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                157,
+                15,
+                497,
+                406
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                168,
+                22,
+                243,
+                172
+            ]
+        },
+        {
+            "object": "cloth",
+            "bbox": [
+                366,
+                174,
+                473,
+                302
+            ]
+        },
+        {
+            "object": "flower",
+            "bbox": [
+                297,
+                2,
+                338,
+                54
+            ]
+        },
+        {
+            "object": "glass",
+            "bbox": [
+                294,
+                0,
+                341,
+                98
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                383,
+                42,
+                445,
+                184
+            ]
+        }
+    ]
+}

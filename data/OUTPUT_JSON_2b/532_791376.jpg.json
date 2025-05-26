@@ -1,0 +1,26 @@
+{
+    "image_name": "532_791376.jpg",
+    "description": "\"name: table\"\ncolor: \"white\"\nform: \"rectangle\"\nsize: \"approximate size (large)\"\nlocation: \"The table is located in the center of the image. It's on the floor.\"\npurpose: \"The table is a flat surface for placing objects.\"\nrelationship: \"The table is a flat surface for placing objects.\"\n\n\"name: table\"\ncolor: \"white\"\nform: \"rectangle\"\nsize: \"approximate size (large)\"\nlocation: \"The table is located in the center of the image. It's on the floor",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                171,
+                623,
+                478
+            ]
+        }
+    ]
+}

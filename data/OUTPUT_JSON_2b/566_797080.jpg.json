@@ -1,0 +1,80 @@
+{
+    "image_name": "566_797080.jpg",
+    "description": "The image depicts a shopping cart filled with various snacks and chips. The cart is positioned in a grocery store aisle. The objects in the image include:\n\n1. **Chips**: There are several bags of chips visible in the image. The chips are of different brands and colors, including yellow, red, and blue.\n2",
+    "objects": [
+        {
+            "name": "chips",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chips are located in the middle of the image. They are stacked on top of each other.",
+            "purpose": "The chips are used as a snack.",
+            "relationship": "The chips are inside the shopping cart."
+        },
+        {
+            "name": "snack",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. There are other snacks around it.",
+            "purpose": "A snack to eat",
+            "relationship": "The snack is inside the shopping cart"
+        },
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. The bounding box is [245, 361, 336, 479].",
+            "purpose": "The snack is a potato chip.",
+            "relationship": "The snack is inside the shopping cart."
+        },
+        {
+            "name": "snack",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in front of the shopping cart. There are other snacks around it.",
+            "purpose": "A snack is a type of food that is typically eaten as a meal or snack.",
+            "relationship": "The snack is a type of food that is typically eaten as a meal or snack, and it is located in the center of the image. It is in front of the shopping cart. There are other snacks around it."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chips",
+            "bbox": [
+                166,
+                62,
+                297,
+                236
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                351,
+                228,
+                418,
+                334
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                245,
+                361,
+                336,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                464,
+                70,
+                605,
+                236
+            ]
+        }
+    ]
+}

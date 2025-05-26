@@ -1,0 +1,80 @@
+{
+    "image_name": "431_778882.jpg",
+    "description": "The image depicts a kitchen scene. On the left side, there is a toaster with a red label and bounding box coordinates [402, 134, 439, 256]. On the right side, there are two bottles with bounding box coordinates [373, 204, 400, 262] and [429, 143, 466, 261].",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the countertop. It is red in color and has a label on it. The bounding box is [402, 134, 439, 256].",
+            "purpose": "It is a bottle of hot sauce.",
+            "relationship": "The bottle is on the countertop, and there are other objects around it."
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the right side of the image. It is in front of a white machine. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the right side of the image. It is placed on a shelf with other items. The bounding box is [429, 143, 466, 253].",
+            "purpose": "The bottle is a container for storing liquid.",
+            "relationship": "The bottle is a container for storing liquid."
+        },
+        {
+            "name": "bottle",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                402,
+                134,
+                439,
+                256
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                373,
+                204,
+                400,
+                262
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                429,
+                143,
+                466,
+                253
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                451,
+                137,
+                496,
+                261
+            ]
+        }
+    ]
+}

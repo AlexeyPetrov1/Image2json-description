@@ -1,0 +1,44 @@
+{
+    "image_name": "725_873816.jpg",
+    "description": "\"\"\"\nname: \"window\"\ncolor: \"White\"\nform: \"Rectangular\"\nsize: \"approximate size (small, medium, big)\"\nlocation: \"The window is located on the left side of the image. It's in the wall.\"\npurpose: \"To let light in the room\"\nrelationship: \"The window is part of the wall\"\n---\nname: \"clothing\"\ncolor: \"Gray\"\nform: \"T-shirt\"\nsize: \"approximate size (small, medium, big)\"\nlocation: \"The person is wearing a gray t-shirt.\"\npurpose: \"To cover the torso\"\nrelationship: \"The clothing",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "Gray",
+            "form": "T-shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image, covering the upper body of the person. The person is wearing a gray T-shirt with some text on it.",
+            "purpose": "The clothing is part of the person's attire.",
+            "relationship": "The person is wearing the clothing, which covers their upper body."
+        },
+        {
+            "name": "man",
+            "color": "Gray",
+            "form": "Human",
+            "size": "medium",
+            "location": "The man is standing in the center of the image. He is wearing a gray t-shirt and jeans.",
+            "purpose": "The man is a human being.",
+            "relationship": "The man is the subject of the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                283,
+                19,
+                365,
+                249
+            ]
+        },
+        {
+            "object": "window",
+            "bbox": [
+                83,
+                0,
+                190,
+                85
+            ]
+        }
+    ]
+}

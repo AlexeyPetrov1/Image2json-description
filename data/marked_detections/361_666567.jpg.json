@@ -1,19 +1,39 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/361_666567.jpg",
+    "filename": "361_666567.jpg",
     "objects": [
         {
-            "label": "clothing",
-            "score": 0.47073665261268616,
+            "label": "bed",
+            "score": 0.6584175229072571,
             "box": [
-                211,
-                170,
-                364,
-                321
+                1,
+                2,
+                638,
+                478
             ]
         },
         {
-            "label": "bed",
-            "score": 0.4854776859283447,
+            "label": "pillow",
+            "score": 0.3250918686389923,
+            "box": [
+                212,
+                172,
+                364,
+                320
+            ]
+        },
+        {
+            "label": "pillow",
+            "score": 0.3363310694694519,
+            "box": [
+                581,
+                55,
+                639,
+                179
+            ]
+        },
+        {
+            "label": "blanket",
+            "score": 0.4330222010612488,
             "box": [
                 1,
                 2,

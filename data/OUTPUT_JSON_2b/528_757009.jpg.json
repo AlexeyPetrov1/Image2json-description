@@ -1,0 +1,134 @@
+{
+    "image_name": "528_757009.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a red liquid bottle, and on the right side, there is a pink liquid bottle. In the center of the image, there is a kettle and a sink. The kettle is on the left side of the sink, and the sink is on the right side of the kettle. The objects are arranged in a",
+    "objects": [
+        {
+            "name": "kettle",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The kettle is located on the left side of the image. It's in the sink. There are no objects around",
+            "purpose": "To heat water",
+            "relationship": "The kettle is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on the countertop next to the sink. There are no other objects around it.",
+            "purpose": "The bottle is used for cleaning purposes.",
+            "relationship": "The bottle is inside the sink."
+        },
+        {
+            "name": "bottle",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on the countertop next to the sink. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of a white jug. There is a pink bottle on the right side of the jug.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the jug"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It's in front of the sink. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "liquid",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The liquid bottle is located in the center of the image. It is on the countertop near the sink. There are no other objects around it.",
+            "purpose": "The liquid bottle is used for cleaning purposes.",
+            "relationship": "The liquid bottle is in close proximity to the sink, which is used for washing dishes."
+        },
+        {
+            "name": "bottle",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the sink. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "kettle",
+            "bbox": [
+                177,
+                148,
+                309,
+                325
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                356,
+                95,
+                400,
+                225
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                62,
+                101,
+                130,
+                209
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                86,
+                83,
+                163,
+                212
+            ]
+        },
+        {
+            "object": "liquid",
+            "bbox": [
+                86,
+                83,
+                162,
+                212
+            ]
+        },
+        {
+            "object": "liquid",
+            "bbox": [
+                356,
+                95,
+                399,
+                225
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                62,
+                101,
+                113,
+                191
+            ]
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/440_684808.jpg",
+    "filename": "440_684808.jpg",
     "objects": [
         {
             "label": "shirt",
-            "score": 0.46368712186813354,
+            "score": 0.47025004029273987,
             "box": [
                 107,
                 0,
@@ -13,7 +13,7 @@
         },
         {
             "label": "blouse",
-            "score": 0.3988746404647827,
+            "score": 0.4063906967639923,
             "box": [
                 106,
                 0,

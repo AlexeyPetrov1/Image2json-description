@@ -1,45 +1,4 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/692_902577.jpg",
-    "objects": [
-        {
-            "label": "window",
-            "score": 0.5167173743247986,
-            "box": [
-                0,
-                14,
-                310,
-                453
-            ]
-        },
-        {
-            "label": "floor",
-            "score": 0.41584742069244385,
-            "box": [
-                0,
-                379,
-                638,
-                479
-            ]
-        },
-        {
-            "label": "wall",
-            "score": 0.5162296295166016,
-            "box": [
-                331,
-                0,
-                638,
-                351
-            ]
-        },
-        {
-            "label": "floor",
-            "score": 0.34246158599853516,
-            "box": [
-                1,
-                410,
-                638,
-                479
-            ]
-        }
-    ]
+    "filename": "692_902577.jpg",
+    "objects": []
 }

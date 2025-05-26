@@ -1,0 +1,80 @@
+{
+    "image_name": "708_862463.jpg",
+    "description": "The image depicts a workspace with a table and a sign. The table is located in the center of the image, and the sign is attached to it. The table has a label \"table\" with a score of 0.30985841155052185, and the sign has a label \"word\" with a score of 0.332852303981781. The sign also has a label \"sign\" with a score of 0",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in the room. There are no other objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "whiteboard",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "large",
+            "location": "The whiteboard is located in the center of the image. It is placed on a table. There are no other objects around it.",
+            "purpose": "To write and display information",
+            "relationship": "The whiteboard is used for writing and displaying information"
+        },
+        {
+            "name": "sign",
+            "color": "Blue",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The sign is located in the center of the image. It is rectangular and has the text 'Alonso' on it. The bounding box is [160, 344, 302, 457].",
+            "purpose": "The sign is used to indicate the name of the person.",
+            "relationship": "The sign is related to the person 'Alonso'."
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in the room. There are no objects around",
+            "purpose": "To place objects",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                449,
+                20,
+                639,
+                228
+            ]
+        },
+        {
+            "object": "word",
+            "bbox": [
+                317,
+                242,
+                457,
+                286
+            ]
+        },
+        {
+            "object": "sign",
+            "bbox": [
+                160,
+                344,
+                302,
+                457
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                431,
+                0,
+                639,
+                231
+            ]
+        }
+    ]
+}

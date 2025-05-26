@@ -1,0 +1,116 @@
+{
+    "image_name": "597_809509.jpg",
+    "description": "The image shows a grocery store shelf with various snack items. There are four red rectangles around different snack items, indicating their bounding boxes. The objects are labeled as \"snack\" and their bounding boxes are [422, 95, 572, 251], [208, 380, 303, 479], [207, 376, 392, 479], and [164, 154, 285, 278]. The purpose of these objects is to",
+    "objects": [
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in front of the shopping cart. The shopping cart is on the left side of the image.",
+            "purpose": "The snack is a potato chip.",
+            "relationship": "The snack is in front of the shopping cart. The shopping cart is on the left side of the image."
+        },
+        {
+            "name": "snack",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. The bounding box is [208, 380, 303, 479].",
+            "purpose": "The snack is a potato chip.",
+            "relationship": "The snack is inside the shopping cart. The bounding box is [208, 380, 303, 479]."
+        },
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": ": The snack is located in the bottom right corner of the image. It is in the shopping cart. There are other snacks around it.",
+            "purpose": "A snack is a type of food that can be eaten as a meal, snack, or dessert.",
+            "relationship": "The snack is inside the shopping cart, and there are other snacks around it."
+        },
+        {
+            "name": "snack",
+            "color": "Yellow",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in front of the shopping cart. There are other snacks around it.",
+            "purpose": "A snack to eat",
+            "relationship": "The snack is in front of the shopping cart and there are other snacks around it."
+        },
+        {
+            "name": "snack",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The snack is located in the middle of the image. It is in the shopping cart. The bounding box is [298, 378, 392, 479].",
+            "purpose": "The snack is a snack.",
+            "relationship": "The snack is inside the shopping cart."
+        },
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is in the shopping cart. There are no other objects around",
+            "purpose": "To eat",
+            "relationship": "The snack is inside the shopping cart"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "snack",
+            "bbox": [
+                422,
+                95,
+                572,
+                251
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                208,
+                380,
+                303,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                207,
+                376,
+                392,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                164,
+                154,
+                285,
+                278
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                298,
+                378,
+                392,
+                479
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                352,
+                0,
+                490,
+                76
+            ]
+        }
+    ]
+}

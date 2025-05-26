@@ -1,1 +1,1 @@
-toaster . apple . plate . bread . banana
+toaster . apple . banana . plate

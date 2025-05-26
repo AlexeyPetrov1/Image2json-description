@@ -1,0 +1,80 @@
+{
+    "image_name": "392_648676.jpg",
+    "description": "The image depicts a kitchen scene with a sink in the center. On the left side of the sink, there is a bottle labeled \"bottle\" with a score of 0.5636181831359863 and a bounding box of [371, 92, 408, 216]. On the right side of the sink, there is another bottle labeled \"bottle\" with a score of 0.6160122752189636 and a bounding box of [7, 18",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image, near the sink. It is green in color.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It's in the sink. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "sink",
+            "color": "Silver",
+            "form": "circular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It is the main object in the photo. There are no other objects around it.",
+            "purpose": "To wash dishes",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "sink",
+            "color": "Silver",
+            "form": "circular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It is the main object in the photo",
+            "purpose": "To wash dishes",
+            "relationship": "The sink is inside the kitchen"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                371,
+                92,
+                408,
+                216
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                7,
+                184,
+                108,
+                317
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                106,
+                227,
+                331,
+                441
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                49,
+                215,
+                566,
+                466
+            ]
+        }
+    ]
+}

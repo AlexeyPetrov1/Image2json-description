@@ -1,0 +1,26 @@
+{
+    "image_name": "711_876870.jpg",
+    "description": "\"\"\"\nname: \"robot\"\ncolor: \"black\"\nform: \"cylindrical\"\nsize: \"medium\"\nlocation: \"The robot is located in the center of the image. It has a cable attached to it.\"\npurpose: \"The robot is a robotic arm used for tasks such as picking up and moving objects.\"\nrelationship: \"The cable is connected to the robot arm, allowing it to move and manipulate objects.\"\n---\nname: \"robot arm\"\ncolor: \"black\"\nform: \"cylindrical\"\nsize: \"medium\"\nlocation: \"The robot arm is located on the right side of the image,",
+    "objects": [
+        {
+            "name": "cable",
+            "color": "Black",
+            "form": "Cable",
+            "size": "medium",
+            "location": "The cable is located in the middle of the image. It runs from the left side of the robot to the right side of the robot.",
+            "purpose": "The cable is used to power the robot.",
+            "relationship": "The cable is connected to the robot's power source."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cable",
+            "bbox": [
+                0,
+                122,
+                64,
+                262
+            ]
+        }
+    ]
+}

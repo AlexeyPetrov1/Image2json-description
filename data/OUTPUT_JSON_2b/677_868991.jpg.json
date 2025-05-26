@@ -1,0 +1,44 @@
+{
+    "image_name": "677_868991.jpg",
+    "description": "The image shows two robotic arms, each with a label \"plug\" and a score of 0.35398629307746887. The bounding box for one arm is [393, 325, 451, 357], and for the other arm, it is [300, 305, 326, 344]. Both arms are positioned on a table, with the \"plug\" label pointing towards the center of the table.",
+    "objects": [
+        {
+            "name": "plug",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The plug is located in the center of the image. It is connected to a white cable. There is a socket behind it.",
+            "purpose": "To plug in devices.",
+            "relationship": "The plug is connected to the socket"
+        },
+        {
+            "name": "plug",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The plug is located in the center of the image. It's on the table. There is a socket behind it.",
+            "purpose": "To plug in electrical devices",
+            "relationship": "The plug is connected to the socket"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "plug",
+            "bbox": [
+                393,
+                325,
+                451,
+                357
+            ]
+        },
+        {
+            "object": "plug",
+            "bbox": [
+                300,
+                305,
+                326,
+                344
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_name": "786_909314.jpg",
+    "description": "The image depicts a table with various objects placed on it. On the left side of the table, there is a red cable that appears to be connected to a device. On the right side of the table, there is a white box with an image on it. There are also two mirrors on the table, one on the left and one on the right. Additionally, there is a blue",
+    "objects": [
+        {
+            "name": "red cable",
+            "color": "Red",
+            "form": "Cable",
+            "size": "medium",
+            "location": "The red cable is located in the center of the image. It is connected to a device on the left side of the image and to a device on the right side of the image.",
+            "purpose": "The red cable is used to connect devices.",
+            "relationship": "The red cable is connected to a device on the left side of the image and to a device on the right side of the image."
+        },
+        {
+            "name": "mirror",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The mirror is located in the center of the image. It reflects the image of the table and the objects on it.",
+            "purpose": "To reflect the image of the table and the objects on it.",
+            "relationship": "The mirror reflects the image of the table and the objects on it."
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "mirror",
+            "color": "White",
+            "form": "rectangular",
+            "size": "small",
+            "location": "The mirror is located in the center of the image. It is placed on the table. There are no other objects around it.",
+            "purpose": "To reflect objects in the image",
+            "relationship": "There is no relationship between the mirror and other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cable",
+            "bbox": [
+                219,
+                133,
+                471,
+                345
+            ]
+        },
+        {
+            "object": "mirror",
+            "bbox": [
+                208,
+                0,
+                306,
+                48
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                43,
+                639,
+                478
+            ]
+        },
+        {
+            "object": "mirror",
+            "bbox": [
+                357,
+                0,
+                457,
+                54
+            ]
+        }
+    ]
+}

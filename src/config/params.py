@@ -7,8 +7,9 @@ MAX_IMAGES_PER_PREDICT = 2
 DEFAULT_DEVICE = "cuda"
 LANGSAM_DEFAULT_MODEL_SAM = "sam2.1_hiera_large"
 LANGSAM_BOX_THRESHOLD = 0.29
+
 DATA_DIR = ROOT_DIR / "data"
-DETECTIONS_DIR = DATA_DIR / "marked_detections"
-DETECTIONS_PICTURES_DIR = DATA_DIR / "marked_detections_pictures"
-ANNOTATIONS_DIR = DATA_DIR / "OUTPUT_JSON"
-CLASSES_DIR = DATA_DIR / "classes"
+DETECTIONS_DIR = DATA_DIR / "marked_detections_debug"
+DETECTIONS_PICTURES_DIR = DATA_DIR / "marked_detections_pictures_debug"
+ANNOTATIONS_DIR = DATA_DIR / "OUTPUT_JSON_debug"
+CLASSES_DIR = DATA_DIR / "classes_debug"

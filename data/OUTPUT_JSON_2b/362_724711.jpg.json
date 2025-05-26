@@ -1,0 +1,62 @@
+{
+    "image_name": "362_724711.jpg",
+    "description": "\"\"\"\nname: \"bed\"\ncolor: \"Gray\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The bed is located in the center of the image, covering the entire width and height of the image.\"\npurpose: \"The bed is used for sleeping and resting.\"\nrelationship: \"The bed is the main object in the image.\"\n---\nlabel: \"cloth\"\nscore: \"0.3363310694694519\"\nbox: \"[217, 192, 380, 410]\"\n---\nlabel: \"clothing\"\n",
+    "objects": [
+        {
+            "name": "bed",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The bed is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To sleep",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "cloth",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The cloth is located in the center of the image. It's on the bed. There are no other objects around",
+            "purpose": "To cover the bed",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "mask",
+            "color": "Blue",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The mask is located on the bed. It covers the upper part of the face.",
+            "purpose": "To cover the upper part of the face.",
+            "relationship": "The mask is on the bed, and the bed is on the floor."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bed",
+            "bbox": [
+                0,
+                0,
+                574,
+                478
+            ]
+        },
+        {
+            "object": "cloth",
+            "bbox": [
+                217,
+                192,
+                380,
+                410
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                0,
+                0,
+                80,
+                149
+            ]
+        }
+    ]
+}

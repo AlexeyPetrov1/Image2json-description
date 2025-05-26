@@ -1,0 +1,62 @@
+{
+    "image_name": "477_701967.jpg",
+    "description": "The image depicts a room with a table, a rug, a chair, and a projector. The table is located in the center of the image, and the rug is placed on top of it. The chair is positioned behind the table, and the projector is placed on the floor to the left of the table.",
+    "objects": [
+        {
+            "name": "rug",
+            "color": "Multicolored",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The rug is located on the table in the center of the image. It covers a large portion of the table's surface.",
+            "purpose": "To sit on",
+            "relationship": "The rug is on top of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "rug",
+            "bbox": [
+                108,
+                201,
+                407,
+                367
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                357,
+                0,
+                440,
+                97
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                155,
+                533,
+                478
+            ]
+        }
+    ]
+}

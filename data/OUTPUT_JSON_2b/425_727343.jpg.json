@@ -1,0 +1,188 @@
+{
+    "image_name": "425_727343.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a white jug, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "spoon",
+            "color": "Gray",
+            "form": "spoon",
+            "size": "medium",
+            "location": "The spoon is located in the center of the image. It is inside a pink bowl.",
+            "purpose": "To eat food",
+            "relationship": "The spoon is inside the bowl"
+        },
+        {
+            "name": "plate",
+            "color": "Red",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "curtain",
+            "color": "White",
+            "form": "rectangle",
+            "size": "small",
+            "location": "The curtain is located in the top left corner of the image. It covers the top half of the image.",
+            "purpose": "To cover the window.",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bowl",
+            "color": "Pink",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "jar",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The jar is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The jar is inside the table"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It is placed on the table between the bowl and the pitcher. The pitcher is to the left of the cup, and the bowl is to the right of the cup.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the table"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It is placed on the table between the bowl and the pitcher. The pitcher is to the left of the cup, and the bowl is to the right of the cup.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is not related to any other objects in the image."
+        },
+        {
+            "name": "curtain",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The curtain is located on the left side of the image. It covers the window. There are no other objects near it",
+            "purpose": "To cover the window",
+            "relationship": "The curtain is in front of the window"
+        },
+        {
+            "name": "jar",
+            "color": "Gray",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The jar is located in the center of the image. It's on the table. There is a bowl and a spoon nearby.",
+            "purpose": "To hold cereals",
+            "relationship": "The jar is inside the bowl"
+        },
+        {
+            "name": "jar",
+            "color": "Gray",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The jar is located on the table in the center of the image. It is next to a pink bowl and a white pitcher. There is a spoon inside the jar.",
+            "purpose": "To hold liquid",
+            "relationship": "The jar is inside the bowl"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "spoon",
+            "bbox": [
+                298,
+                319,
+                367,
+                397
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                282,
+                178,
+                356,
+                237
+            ]
+        },
+        {
+            "object": "curtain",
+            "bbox": [
+                0,
+                0,
+                176,
+                308
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                281,
+                319,
+                359,
+                412
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                180,
+                166,
+                282,
+                317
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                400,
+                239,
+                449,
+                329
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                366,
+                233,
+                406,
+                271
+            ]
+        },
+        {
+            "object": "curtain",
+            "bbox": [
+                0,
+                0,
+                176,
+                478
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                400,
+                239,
+                450,
+                329
+            ]
+        },
+        {
+            "object": "jar",
+            "bbox": [
+                366,
+                233,
+                406,
+                271
+            ]
+        }
+    ]
+}

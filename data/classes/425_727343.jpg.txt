@@ -1,1 +1,1 @@
-jug . plate . spoon . bowl
+cup . spoon . jar . bowl . plate . curtain

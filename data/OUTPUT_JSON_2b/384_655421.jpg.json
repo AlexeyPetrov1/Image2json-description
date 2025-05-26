@@ -1,0 +1,296 @@
+{
+    "image_name": "384_655421.jpg",
+    "description": "The image depicts a bookshelf filled with various books and a toy car. The books are arranged in a row, with some overlapping each other. The toy car is located on the left side of the shelf, partially obscured by the books.",
+    "objects": [
+        {
+            "name": "toy",
+            "color": "Red",
+            "form": "truck",
+            "size": "small",
+            "location": "The toy is located in the bottom left corner of the image. It is a small red toy truck.",
+            "purpose": "It is a toy truck.",
+            "relationship": "The toy truck is in front of the books on the shelf."
+        },
+        {
+            "name": "toy",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "small",
+            "location": "The toy is located in the bottom left corner of the image. It is a small red toy truck.",
+            "purpose": "To play with",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books. There is a red toy car in front of it.",
+            "purpose": "A book for reading",
+            "relationship": "The book is on a shelf with other books, and there is a red toy car in front of it."
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books. There is a toy car in front of it.",
+            "purpose": "To read and learn",
+            "relationship": "The book is on a shelf with other books, and there is a toy car in front of it."
+        },
+        {
+            "name": "toy",
+            "color": "Red and black",
+            "form": "truck",
+            "size": "small",
+            "location": "The toy is located in the bottom left corner of the image. It is a red and black toy truck.",
+            "purpose": "It is a toy truck.",
+            "relationship": "The toy truck is in front of the books on the shelf."
+        },
+        {
+            "name": "book",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the middle of the image. It is on a shelf with other books and a toy car.",
+            "purpose": "To read",
+            "relationship": "The book is on the shelf, and the toy car is in front of it."
+        },
+        {
+            "name": "book",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books and a toy car.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It's in the shelf. There are no objects around",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the middle of the shelf. It is on the left side of the shelf. There are other books on the right side of the shelf.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books. There is a toy car in front of it.",
+            "purpose": "To read",
+            "relationship": "The book is on a shelf with other books, and there is a toy car in front of it."
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books and a toy car.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books. There is a toy car in front of it.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books and toys.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "book",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The book is located in the center of the image. It is on a shelf with other books.",
+            "purpose": "To read",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "toys",
+            "color": "Red",
+            "form": "geometrical form",
+            "size": "small",
+            "location": "The toys are located in the bottom left corner of the image. They are a toy truck and a toy car.",
+            "purpose": "To play with",
+            "relationship": "The toys are not related to other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "toy",
+            "bbox": [
+                148,
+                292,
+                271,
+                393
+            ]
+        },
+        {
+            "object": "toy",
+            "bbox": [
+                0,
+                186,
+                151,
+                391
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                490,
+                2,
+                617,
+                207
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                283,
+                366,
+                430,
+                478
+            ]
+        },
+        {
+            "object": "toy",
+            "bbox": [
+                393,
+                161,
+                639,
+                386
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                403,
+                10,
+                446,
+                207
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                338,
+                9,
+                372,
+                209
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                1,
+                6,
+                446,
+                225
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                236,
+                11,
+                275,
+                210
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                305,
+                9,
+                338,
+                210
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                273,
+                11,
+                307,
+                210
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                340,
+                263,
+                389,
+                370
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                369,
+                11,
+                415,
+                208
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                339,
+                262,
+                418,
+                372
+            ]
+        },
+        {
+            "object": "book",
+            "bbox": [
+                215,
+                12,
+                250,
+                212
+            ]
+        },
+        {
+            "object": "furniture",
+            "bbox": [
+                0,
+                0,
+                639,
+                479
+            ]
+        }
+    ]
+}

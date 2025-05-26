@@ -1,0 +1,134 @@
+{
+    "image_name": "698_860262.jpg",
+    "description": "The image depicts two robotic arms, each holding a box. The boxes are labeled as \"boxes\" and have bounding boxes with coordinates [209, 0, 370, 195], [571, 188, 639, 344], and [219, 24, 286, 109], [278, 184, 378, 385], respectively. The boxes appear to be of different sizes and colors, with the one on the left being transparent and the one",
+    "objects": [
+        {
+            "name": "bottles",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottles are located on the left side of the image. They are in a red box. There are no other objects around them.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottles are inside the red box"
+        },
+        {
+            "name": "bottles",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottles are located in the middle of the image. They are on a table. There are no other objects around them.",
+            "purpose": "The bottles contain water.",
+            "relationship": "The bottles are inside the table"
+        },
+        {
+            "name": "bottles",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bottles are located on the left side of the image. They are in a red box. There are no other objects around them.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottles are inside the red box"
+        },
+        {
+            "name": "boxes",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The boxes are located in the center of the image. They are placed on a table. There are no other objects around them.",
+            "purpose": "The boxes are used to store items.",
+            "relationship": "The boxes are related to the items inside them."
+        },
+        {
+            "name": "boxes",
+            "color": "Red",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The boxes are located in the middle of the image. They are in front of the water bottles and behind the packets of snacks.",
+            "purpose": "The boxes are used to store items.",
+            "relationship": "The boxes are in front of the water bottles and behind the packets of snacks."
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a box. There are no other objects around them.",
+            "purpose": "To carry items",
+            "relationship": "The bags are inside the box"
+        },
+        {
+            "name": "bags",
+            "color": "Pink",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in front of a box of tea bags. There are no other objects around them.",
+            "purpose": "The bags contain tea bags.",
+            "relationship": "There is a box of tea bags behind the bags."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottles",
+            "bbox": [
+                85,
+                66,
+                145,
+                160
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                85,
+                62,
+                179,
+                161
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                125,
+                63,
+                179,
+                159
+            ]
+        },
+        {
+            "object": "boxes",
+            "bbox": [
+                209,
+                0,
+                370,
+                195
+            ]
+        },
+        {
+            "object": "boxes",
+            "bbox": [
+                571,
+                188,
+                639,
+                344
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                219,
+                24,
+                286,
+                109
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                278,
+                184,
+                378,
+                385
+            ]
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "image_name": "367_652673.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a coral toaster, and there is a sink with a bowl located in the center. There is a gold bowl inside the sink. Probably, i need to clean the bowl or make toasts.",
+    "objects": [
+        {
+            "name": "banana",
+            "color": "Yellow",
+            "form": "Curved",
+            "size": "medium",
+            "location": "The banana is located in the center of the image. It is next to an apple and a toaster.",
+            "purpose": "To eat",
+            "relationship": "The banana is next to the apple and the toaster"
+        },
+        {
+            "name": "apple",
+            "color": "Red",
+            "form": "round",
+            "size": "medium",
+            "location": "The apple is located on the left side of the image. It is next to a banana and a toaster.",
+            "purpose": "To eat",
+            "relationship": "The apple is next to the banana and the toaster"
+        },
+        {
+            "name": "toaster",
+            "color": "Coral",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "This toaster is located on the table on the right side of the image. To his left is a pink plate. There is a sink in front of it. There is a socket behind it",
+            "purpose": "To toast bread.",
+            "relationship": "There is a bread inside toaster"
+        },
+        {
+            "name": "plate",
+            "color": "Blue",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in front of the toaster. There are no other objects around",
+            "purpose": "To hold food",
+            "relationship": "The plate is on the table"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "banana",
+            "bbox": [
+                258,
+                171,
+                311,
+                248
+            ]
+        },
+        {
+            "object": "apple",
+            "bbox": [
+                299,
+                183,
+                338,
+                229
+            ]
+        },
+        {
+            "object": "toaster",
+            "bbox": [
+                367,
+                212,
+                517,
+                350
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                227,
+                253,
+                347,
+                392
+            ]
+        }
+    ]
+}

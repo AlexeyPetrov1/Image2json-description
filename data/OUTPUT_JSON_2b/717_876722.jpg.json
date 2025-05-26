@@ -1,0 +1,152 @@
+{
+    "image_name": "717_876722.jpg",
+    "description": "The image shows two robotic arms interacting with a table. On the table, there is a white paper bag containing various items, including a purple bag of chips and a green bag of snacks. The robotic arms are positioned around the table, with one arm reaching towards the purple bag of chips and the other arm reaching towards the green bag of snacks. The table is located in the center",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It is made of wood. There is a white bag on top of it. There is a red line on the table.",
+            "purpose": "The table is used as a surface for placing objects.",
+            "relationship": "There is a white bag on top of the table"
+        },
+        {
+            "name": "box",
+            "color": "Purple",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The box is located in the middle of the image. It is placed on the table. There are no other objects around it.",
+            "purpose": "To hold items",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "flower",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located in the top right corner of the image. It is a white rose with green leaves.",
+            "purpose": "The flower is a white rose with green leaves.",
+            "relationship": "The flower is inside the shopping bag."
+        },
+        {
+            "name": "clothing",
+            "color": "Purple",
+            "form": "bag",
+            "size": "medium",
+            "location": "The clothing bag is located in the center of the image. It contains a purple bag and some other items.",
+            "purpose": "The clothing bag is used to carry clothes.",
+            "relationship": "The clothing bag is inside the shopping bag."
+        },
+        {
+            "name": "flower",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located in the top right corner of the image. It is a white flower with green leaves.",
+            "purpose": "The flower is a decorative element in the image.",
+            "relationship": "The flower is not related to any other objects in the image."
+        },
+        {
+            "name": "flower",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located in the top right corner of the image. It is a white rose with green leaves.",
+            "purpose": "The flower is a decorative element in the scene.",
+            "relationship": "The flower is in the same plane as the table and the shopping bag."
+        },
+        {
+            "name": "flower",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located in the left part of the image. It is in front of a white bag with purple and green items inside.",
+            "purpose": "The flower is a decorative element in the scene.",
+            "relationship": "The flower is in front of the white bag with purple and green items inside."
+        },
+        {
+            "name": "flower",
+            "color": "White",
+            "form": "bouquet",
+            "size": "medium",
+            "location": "The flower is located in the red rectangle around him. It is in the middle of the table. There are no other objects around it.",
+            "purpose": "The flower is used as a decoration for the table.",
+            "relationship": "The flower is in the middle of the table, and there are no other objects around it."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                33,
+                209,
+                639,
+                479
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                261,
+                194,
+                407,
+                464
+            ]
+        },
+        {
+            "object": "flower",
+            "bbox": [
+                473,
+                145,
+                486,
+                160
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                98,
+                0,
+                228,
+                214
+            ]
+        },
+        {
+            "object": "flower",
+            "bbox": [
+                450,
+                190,
+                478,
+                231
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                440,
+                138,
+                505,
+                205
+            ]
+        },
+        {
+            "object": "flower",
+            "bbox": [
+                80,
+                254,
+                114,
+                283
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                56,
+                169,
+                158,
+                282
+            ]
+        }
+    ]
+}

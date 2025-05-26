@@ -1,11 +1,11 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/589_817884.jpg",
+    "filename": "589_817884.jpg",
     "objects": [
         {
             "label": "bottle",
-            "score": 0.2925952970981598,
+            "score": 0.308190256357193,
             "box": [
-                575,
+                576,
                 96,
                 621,
                 169
@@ -13,7 +13,7 @@
         },
         {
             "label": "egg",
-            "score": 0.2901756167411804,
+            "score": 0.308190256357193,
             "box": [
                 402,
                 326,

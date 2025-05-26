@@ -1,0 +1,152 @@
+{
+    "image_name": "535_791457.jpg",
+    "description": "The image depicts a bathroom scene with various objects. On the left side, there is a toothbrush holder with a toothbrush inside. In the center, there is a cup and a sink. On the right side, there is a bottle of toothpaste and a cap. The objects are arranged in a way that suggests they are part of a bathroom routine, such as brushing teeth and using toothpaste.",
+    "objects": [
+        {
+            "name": "cup",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To hold liquid",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It's in the sink. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "toothpaste",
+            "color": "Yellow",
+            "form": "Rectangular",
+            "size": "small",
+            "location": "The toothpaste is located in the red rectangle on the left side of the image. It is in front of the sink. There are no other objects nearby.",
+            "purpose": "The toothpaste is used for brushing teeth.",
+            "relationship": "The toothpaste is inside the red rectangle on the left side of the image. It is in front of the sink. There are no other objects nearby."
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To wash dishes",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "toothpaste",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The toothpaste is located on the left side of the image, near the sink. It is in front of the toothbrush holder.",
+            "purpose": "Toothpaste is used to clean teeth.",
+            "relationship": "The toothpaste is inside the toothbrush holder"
+        },
+        {
+            "name": "cap",
+            "color": "Green",
+            "form": "cylinder",
+            "size": "medium",
+            "location": "The cap is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To hold a liquid",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "cap",
+            "color": "Black",
+            "form": "round",
+            "size": "medium",
+            "location": "The cap is located on the left side of the image. It is in front of the sink. The bounding box is [282, 283, 302, 335].",
+            "purpose": "The cap is used to cover the sink.",
+            "relationship": "The cap is in front of the sink."
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To wash dishes",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cup",
+            "bbox": [
+                278,
+                86,
+                324,
+                174
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                282,
+                283,
+                302,
+                335
+            ]
+        },
+        {
+            "object": "toothpaste",
+            "bbox": [
+                279,
+                12,
+                316,
+                90
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                68,
+                248,
+                502,
+                478
+            ]
+        },
+        {
+            "object": "toothpaste",
+            "bbox": [
+                299,
+                30,
+                319,
+                89
+            ]
+        },
+        {
+            "object": "cap",
+            "bbox": [
+                381,
+                295,
+                439,
+                363
+            ]
+        },
+        {
+            "object": "cap",
+            "bbox": [
+                282,
+                283,
+                302,
+                335
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                68,
+                312,
+                501,
+                478
+            ]
+        }
+    ]
+}

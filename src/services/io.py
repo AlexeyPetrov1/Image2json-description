@@ -36,7 +36,7 @@ class ImageDataset:
     ):
         return sorted(
             [
-                os.path.join(self.folder_path, f)
+                Path(self.folder_path / f)
                 for f in os.listdir(self.folder_path)
                 if f.lower().endswith(available_formats)
             ]
@@ -52,7 +52,7 @@ class ImageDataset:
     ):
         temp = sorted(
             [
-                (os.path.join(self.folder_path, f), f)
+                (Path(os.path.join(self.folder_path, f)), Path(f))
                 for f in os.listdir(self.folder_path)
                 if f.lower().endswith(available_formats)
             ]

@@ -1,0 +1,134 @@
+{
+    "image_name": "492_717075.jpg",
+    "description": "The image depicts a cluttered indoor space with various objects. There is a table in the center, with a bottle on it. To the left of the table, there is a box, and to the right of the table, there are two bottles. There is also a red object on the left side of the table, and a green object on the right side of the table. Additionally, there is",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the table. There are other objects around.",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table in the center of the image. It is yellow in color and appears to be a spray bottle.",
+            "purpose": "The bottle is used for spraying.",
+            "relationship": "The bottle is in front of the other objects."
+        },
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the table. There are other objects around.",
+            "purpose": "To hold liquid",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table in the center of the image. It is yellow in color and appears to be a spray bottle.",
+            "purpose": "The bottle is used for spraying.",
+            "relationship": "The bottle is in front of the other objects."
+        },
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the table. There is a yellow bottle next to it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is in front of the yellow bottle"
+        },
+        {
+            "name": "table",
+            "color": "Black",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "furniture",
+            "color": "Unknown",
+            "form": "Unknown",
+            "size": "Unknown",
+            "location": ": The furniture is located on the left side of the image. It is a piece of furniture, but its exact form and size are unknown.",
+            "purpose": "Unknown",
+            "relationship": "Unknown"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                338,
+                231,
+                381,
+                349
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                301,
+                313,
+                350,
+                462
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                338,
+                231,
+                380,
+                349
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                301,
+                313,
+                350,
+                462
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                287,
+                210,
+                313,
+                309
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                2,
+                234,
+                638,
+                479
+            ]
+        },
+        {
+            "object": "furniture",
+            "bbox": [
+                0,
+                0,
+                150,
+                86
+            ]
+        }
+    ]
+}

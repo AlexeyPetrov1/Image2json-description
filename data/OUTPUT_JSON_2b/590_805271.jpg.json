@@ -1,0 +1,260 @@
+{
+    "image_name": "590_805271.jpg",
+    "description": "The image contains several objects, including chairs, tables, a plant, a bag, a cup, and a bottle. The chairs are positioned around the table, and the plant is located near the table. The bag is placed on the table, and the cup and bottle are on the table as well. The chair on the left side of the image is close to the table, and the chair on the right",
+    "objects": [
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "bush",
+            "size": "small",
+            "location": "The plant is located in the center of the image. It is a small tree with green leaves.",
+            "purpose": "The plant is used for decoration.",
+            "relationship": "The plant is not related to any other objects in the image."
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "bush",
+            "size": "medium",
+            "location": ": The plant is located in the center of the image. It is a small tree with green leaves. There are no other objects around it.",
+            "purpose": "The plant is a decorative element in the room.",
+            "relationship": "There is no specific relationship between the plant and other objects."
+        },
+        {
+            "name": "cup",
+            "color": "Pink",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It is on the table. There is a red box around it.",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the red box"
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no objects around",
+            "purpose": "To sit",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "Plants",
+            "size": "small",
+            "location": "The plant is located in the center of the image. It is a small green plant in a pot.",
+            "purpose": "The plant is used for decoration.",
+            "relationship": "The plant is not related to any other objects in the image."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on the table. There is a cup next to it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the cup"
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in front of the chairs. There are no objects around",
+            "purpose": "To sit and eat",
+            "relationship": "The table is the main object in the photo"
+        },
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "Plants",
+            "size": "small",
+            "location": "The plant is located in the center of the image. It is a small green plant in a pot.",
+            "purpose": "The plant is used for decoration.",
+            "relationship": "The plant is not related to any other objects in the image."
+        },
+        {
+            "name": "bag",
+            "color": "Gray",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The bag is located in the center of the image. It is on the table. There are no other objects around",
+            "purpose": "To carry items",
+            "relationship": "The bag is inside the table"
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "bottle",
+            "color": "Red",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the table. There is a glass next to it.",
+            "purpose": "To drink",
+            "relationship": "The bottle is inside the glass"
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit",
+            "relationship": "The chair is in front of the table"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "plant",
+            "bbox": [
+                233,
+                0,
+                293,
+                123
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                425,
+                0,
+                508,
+                128
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                119,
+                0,
+                224,
+                153
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                311,
+                65,
+                362,
+                115
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                395,
+                338,
+                445,
+                416
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                456,
+                107,
+                587,
+                251
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                343,
+                71,
+                361,
+                114
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                435,
+                275,
+                469,
+                323
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                124,
+                0,
+                544,
+                479
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                312,
+                66,
+                332,
+                114
+            ]
+        },
+        {
+            "object": "bag",
+            "bbox": [
+                192,
+                98,
+                404,
+                365
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                41,
+                121,
+                193,
+                257
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                421,
+                275,
+                469,
+                345
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                40,
+                120,
+                193,
+                309
+            ]
+        }
+    ]
+}

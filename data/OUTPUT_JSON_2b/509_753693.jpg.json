@@ -1,0 +1,134 @@
+{
+    "image_name": "509_753693.jpg",
+    "description": "\"\"\"\nname: \"robot\"\ncolor: \"Black\"\nform: \"Humanoid\"\nsize: \"Large\"\nlocation: \"The robot is located in the center of the image, facing the camera.\"\npurpose: \"The robot is performing a task, possibly cleaning the sink.\"\nrelationship: \"The robot is interacting with the sink and the faucet.\"\n---\nlabel: \"bottle\"\nscore: \"0.33111974596977234\"\nbox: \"[339, 285, 371, 366]\"\n---\nlabel: \"sink\"\nscore",
+    "objects": [
+        {
+            "name": "faucet",
+            "color": "Gray",
+            "form": "round",
+            "size": "medium",
+            "location": "The faucet is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To turn on and off the water",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "sink",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It's in front of the toilet. There are no objects around",
+            "purpose": "To wash hands",
+            "relationship": "The sink is inside the toilet"
+        },
+        {
+            "name": "clothing",
+            "color": "White",
+            "form": "shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image, covering the torso of the robot. It appears to be a white shirt.",
+            "purpose": "The clothing is part of the robot's attire.",
+            "relationship": "The clothing is not related to any other objects in the image."
+        },
+        {
+            "name": "mirror",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The mirror is located on the left side of the image. It reflects the image of the robot and the sink.",
+            "purpose": "To mirror the image of the robot and the sink.",
+            "relationship": "The mirror reflects the image of the robot and the sink."
+        },
+        {
+            "name": "robot",
+            "color": "White",
+            "form": "humanoid",
+            "size": "medium",
+            "location": "The robot is located in the center of the image. It has two arms and a head. It is in front of a mirror. There is a bottle of shampoo on the left side of the robot. There is a sink in front of the robot.",
+            "purpose": "The robot is used for tasks such as cleaning and washing.",
+            "relationship": "There is a mirror in front of the robot, which reflects the robot's image. There is a bottle of shampoo on the left side of the robot, which is used for cleaning. There is a sink in front of the robot, which is used for washing."
+        },
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the left side of the image. It is in front of the sink. The bounding box is [339, 285, 371, 366].",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "sink",
+            "color": "White",
+            "form": "circular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It is the main object in the photo. There are no other objects around it.",
+            "purpose": "To wash dishes",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "faucet",
+            "bbox": [
+                407,
+                294,
+                458,
+                378
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                233,
+                185,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                286,
+                21,
+                380,
+                188
+            ]
+        },
+        {
+            "object": "mirror",
+            "bbox": [
+                227,
+                0,
+                528,
+                222
+            ]
+        },
+        {
+            "object": "word",
+            "bbox": [
+                308,
+                69,
+                354,
+                80
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                339,
+                285,
+                371,
+                366
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                233,
+                315,
+                458,
+                478
+            ]
+        }
+    ]
+}

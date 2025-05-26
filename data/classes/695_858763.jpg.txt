@@ -1,1 +1,1 @@
-table . fan . fruit
+fruit . chair . fan . bowl . table

@@ -1,0 +1,62 @@
+{
+    "image_name": "599_810876.jpg",
+    "description": "The image depicts a table with various objects placed on it. The objects include a shirt, shorts, and a table. The shirt is located on the left side of the table, while the shorts are on the right side. The table itself is located in the center of the image.",
+    "objects": [
+        {
+            "name": "table",
+            "color": "Blue",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "shorts",
+            "color": "Tan",
+            "form": "shorts",
+            "size": "medium",
+            "location": "The shorts are located in the center of the image. They are on a blue table. There are no other objects around.",
+            "purpose": "Shorts are a type of garment worn by men and women.",
+            "relationship": "There is no relationship between the shorts and other objects in the image."
+        },
+        {
+            "name": "shirt",
+            "color": "White",
+            "form": "square",
+            "size": "medium",
+            "location": "The shirt is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To wear",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                2,
+                136,
+                606,
+                478
+            ]
+        },
+        {
+            "object": "shorts",
+            "bbox": [
+                233,
+                155,
+                463,
+                370
+            ]
+        },
+        {
+            "object": "shirt",
+            "bbox": [
+                80,
+                131,
+                203,
+                210
+            ]
+        }
+    ]
+}

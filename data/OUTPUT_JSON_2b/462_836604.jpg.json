@@ -1,0 +1,98 @@
+{
+    "image_name": "462_836604.jpg",
+    "description": "The image depicts a room with three main objects: a table, a bin, and a trash can. The table is located on the left side of the image, while the bin and trash can are positioned on the right side. The bin is located near the center of the image, and the trash can is slightly to the right of the bin. The table appears to be made of wood,",
+    "objects": [
+        {
+            "name": "trash can",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The trash can is located in the center of the image. It is black in color and has a plastic bag inside.",
+            "purpose": "To dispose of trash",
+            "relationship": "The trash can is in front of the table and bin."
+        },
+        {
+            "name": "garbage bin",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The garbage bin is located in the center of the image. It's on the floor. There are no other objects around",
+            "purpose": "To dispose of trash",
+            "relationship": "The garbage bin is near the table"
+        },
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in front of the two robots. There is a trash can behind it.",
+            "purpose": "The table is used as a workspace for the robots.",
+            "relationship": "The table is in front of the robots, and the trash can is behind it."
+        },
+        {
+            "name": "trash bin",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The trash bin is located in the center of the image. It's in the middle of the table. There are no other objects around",
+            "purpose": "To dispose of waste",
+            "relationship": "The trash bin is inside the table"
+        },
+        {
+            "name": "table",
+            "color": "Brown",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It is made of wood. There are no other objects around it.",
+            "purpose": "To sit and eat",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bin",
+            "bbox": [
+                225,
+                224,
+                365,
+                406
+            ]
+        },
+        {
+            "object": "floor",
+            "bbox": [
+                0,
+                0,
+                639,
+                479
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                29,
+                0,
+                465,
+                158
+            ]
+        },
+        {
+            "object": "bin",
+            "bbox": [
+                534,
+                0,
+                639,
+                147
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                383,
+                0,
+                465,
+                160
+            ]
+        }
+    ]
+}

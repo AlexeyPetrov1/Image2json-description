@@ -1,0 +1,80 @@
+{
+    "image_name": "616_843929.jpg",
+    "description": "The image shows a table with a blouse on it. The table is located in the center of the image, and the blouse is positioned on the left side of the table. The bounding box for the table is [0, 0, 639, 476], and the bounding box for the blouse is [214, 50, 499, 462].",
+    "objects": [
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It is the main object in the photo",
+            "purpose": "to place objects",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "shirt",
+            "color": "Striped",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The shirt is located in the center of the image. It covers a large area from the top left to the bottom right.",
+            "purpose": "The shirt is a piece of clothing.",
+            "relationship": "The shirt is the main object in the image."
+        },
+        {
+            "name": "cloth",
+            "color": "Striped",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The cloth is located in the center of the image. It covers a large area from top to bottom and from left to right.",
+            "purpose": "The cloth is a piece of clothing.",
+            "relationship": "The cloth is the main object in the image."
+        },
+        {
+            "name": "blouse",
+            "color": "Striped",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The blouse is located in the center of the image. It covers a large portion of the image, from the top left to the bottom right.",
+            "purpose": "The blouse is a piece of clothing.",
+            "relationship": "The blouse is the main object in the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                0,
+                639,
+                476
+            ]
+        },
+        {
+            "object": "shirt",
+            "bbox": [
+                215,
+                51,
+                499,
+                463
+            ]
+        },
+        {
+            "object": "cloth",
+            "bbox": [
+                214,
+                52,
+                499,
+                464
+            ]
+        },
+        {
+            "object": "blouse",
+            "bbox": [
+                214,
+                50,
+                499,
+                462
+            ]
+        }
+    ]
+}

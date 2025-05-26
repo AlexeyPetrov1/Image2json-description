@@ -1,0 +1,80 @@
+{
+    "image_name": "529_761398.jpg",
+    "description": "The image depicts a bathroom scene with a toilet, a brush, a tissue, and a towel. The toilet is located in the center of the image, with the brush and tissue on either side of it. The towel is hanging on the side of the toilet, and the tissue is placed on the floor next to the toilet. The brush is located on the left side of the toilet, and",
+    "objects": [
+        {
+            "name": "tissue",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The tissue is located on the left side of the toilet. It is hanging from the handle of the toilet.",
+            "purpose": "To dry hands after using the toilet.",
+            "relationship": "The tissue is used to dry hands after using the toilet."
+        },
+        {
+            "name": "toilet",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The toilet is located in the center of the image. It is the main object in the photo",
+            "purpose": "To use the toilet",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "toilet seat",
+            "color": "Green",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The toilet seat is located in the center of the image. It is the main object in the photo",
+            "purpose": "To sit on the toilet",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "brush",
+            "color": "Green",
+            "form": "round",
+            "size": "medium",
+            "location": "The brush is located on the left side of the image, near the toilet. It is held by a person.",
+            "purpose": "To clean the toilet",
+            "relationship": "The brush is used to clean the toilet."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "tissue",
+            "bbox": [
+                556,
+                149,
+                639,
+                293
+            ]
+        },
+        {
+            "object": "toilet",
+            "bbox": [
+                152,
+                16,
+                442,
+                478
+            ]
+        },
+        {
+            "object": "seat",
+            "bbox": [
+                241,
+                197,
+                441,
+                479
+            ]
+        },
+        {
+            "object": "brush",
+            "bbox": [
+                373,
+                0,
+                439,
+                215
+            ]
+        }
+    ]
+}

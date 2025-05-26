@@ -1,0 +1,116 @@
+{
+    "image_name": "380_648703.jpg",
+    "description": "The image depicts a room with multiple chairs and a box. The chairs are arranged in a row, and the box is placed on a table. The chairs are labeled as \"chair\" and have bounding boxes with coordinates [118, 0, 231, 94], [269, 0, 357, 104], [0, 0, 70, 94], [406, 0, 496, 74], and [50, 157, 583, 478",
+    "objects": [
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It is in front of the table. There are other chairs in the background.",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It is in front of the table. There are other chairs in the background.",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It is in front of a table with a box on it. There are other chairs in the background.",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table with the box on it, and there are other chairs in the background."
+        },
+        {
+            "name": "chair",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "box",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's on a table. There are no other objects around",
+            "purpose": "To hold items",
+            "relationship": "The box is inside the table"
+        },
+        {
+            "name": "box",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The box is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To hold items",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chair",
+            "bbox": [
+                118,
+                0,
+                231,
+                94
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                269,
+                0,
+                357,
+                104
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                0,
+                0,
+                70,
+                94
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                406,
+                0,
+                496,
+                74
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                66,
+                166,
+                443,
+                478
+            ]
+        },
+        {
+            "object": "box",
+            "bbox": [
+                50,
+                157,
+                583,
+                478
+            ]
+        }
+    ]
+}

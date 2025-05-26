@@ -1,0 +1,134 @@
+{
+    "image_name": "544_809282.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a sink with a sponge and a bottle of dish soap. On the right side, there is a tray with a plate and a bowl. The objects are arranged in a way that suggests they are part of a dishwashing routine. The bottle of dish soap is positioned above the sink, and the plate and",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To clean dishes",
+            "relationship": "The bottle is inside the sink"
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It is the main object in the photo. There are no other objects around it.",
+            "purpose": "To wash dishes",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "plate",
+            "color": "Orange",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "sponge",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The sponge is located on the left side of the image. It is in the sink. There is a bottle of soap behind it.",
+            "purpose": "To clean dishes",
+            "relationship": "The sponge is being used to clean dishes"
+        },
+        {
+            "name": "plate",
+            "color": "Orange",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The plate is inside the sink"
+        },
+        {
+            "name": "tray",
+            "color": "Orange",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The tray is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To hold dishes",
+            "relationship": "The tray is inside the sink"
+        },
+        {
+            "name": "plate",
+            "color": "Orange",
+            "form": "Circular",
+            "size": "medium",
+            "location": "The plate is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To eat food",
+            "relationship": "The plate is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                241,
+                70,
+                286,
+                181
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                73,
+                188,
+                378,
+                478
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                429,
+                136,
+                525,
+                243
+            ]
+        },
+        {
+            "object": "sponge",
+            "bbox": [
+                124,
+                152,
+                191,
+                199
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                392,
+                141,
+                444,
+                183
+            ]
+        },
+        {
+            "object": "tray",
+            "bbox": [
+                429,
+                136,
+                525,
+                244
+            ]
+        },
+        {
+            "object": "plate",
+            "bbox": [
+                398,
+                147,
+                490,
+                259
+            ]
+        }
+    ]
+}

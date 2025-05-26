@@ -1,0 +1,44 @@
+{
+    "image_name": "438_684856.jpg",
+    "description": "\"\"\"\nname: \"table\"\ncolor: \"White\"\nform: \"Rectangular\"\nsize: \"Large\"\nlocation: \"The table is located in the center of the image. It's on the floor.\"\npurpose: \"The table is a surface for placing objects.\"\nrelationship: \"The table is a part of the furniture in the room.\"\n---\nlabel: \"clothing\"\nscore: \"0.3584653437137604\"\nbox: \"[161, 0, 195, 47]\"\n---\nlabel: \"clothing\"\nscore: \"0",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "clothing",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "The clothing is located on the table in the center of the image.",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                55,
+                145,
+                591,
+                478
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                161,
+                0,
+                195,
+                47
+            ]
+        }
+    ]
+}

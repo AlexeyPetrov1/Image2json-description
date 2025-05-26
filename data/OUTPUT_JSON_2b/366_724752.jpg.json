@@ -1,0 +1,278 @@
+{
+    "image_name": "366_724752.jpg",
+    "description": "The image depicts a workspace with various objects. There are two robots, one on the left and one on the right, both equipped with cameras. The left robot has a bounding box of [217, 191, 299, 336], and the right robot has a bounding box of [435, 143, 501, 255]. The left robot has a bounding box of [220, 328, 258, 387], and the right robot has a bounding box",
+    "objects": [
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue plastic container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue plastic container"
+        },
+        {
+            "name": "bottles",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottles are located in the center of the image. They are in a blue plastic container. There are no other objects around them.",
+            "purpose": "The bottles are used for storing liquids.",
+            "relationship": "The bottles are inside the blue plastic container"
+        },
+        {
+            "name": "bottles",
+            "color": "Blue",
+            "form": "rectangular",
+            "size": "medium",
+            "location": ": The bottles are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bottles are used for drinking.",
+            "relationship": "The bottles are inside the blue container"
+        },
+        {
+            "name": "bottles",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bottles are located in the center of the image. They are in a blue plastic container. There are no other objects around them.",
+            "purpose": "The bottles contain milk.",
+            "relationship": "The bottles are inside the blue plastic container"
+        },
+        {
+            "name": "boxes",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The boxes are located in the center of the image. They are blue and have a white label on them.",
+            "purpose": "To hold items",
+            "relationship": "The boxes are holding items"
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        },
+        {
+            "name": "bags",
+            "color": "Green and white",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        },
+        {
+            "name": "boxes",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The boxes are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "To hold items",
+            "relationship": "The boxes are inside the blue container"
+        },
+        {
+            "name": "crates",
+            "color": "Blue",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The crates are located in the center of the image. They are blue in color. There are no other objects around them.",
+            "purpose": "To transport goods",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottles",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bottles are located in the center of the image. They are in a blue plastic container. There are no other objects around them.",
+            "purpose": "The bottles are used for drinking.",
+            "relationship": "The bottles are inside the blue plastic container"
+        },
+        {
+            "name": "boxes",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The boxes are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "To store items",
+            "relationship": "The boxes are inside the container"
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        },
+        {
+            "name": "bags",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The bags are located in the center of the image. They are in a blue container. There are no other objects around them.",
+            "purpose": "The bags contain food items.",
+            "relationship": "The bags are inside the blue container"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bags",
+            "bbox": [
+                217,
+                191,
+                299,
+                336
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                435,
+                143,
+                501,
+                255
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                220,
+                328,
+                258,
+                387
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                266,
+                323,
+                301,
+                388
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                210,
+                380,
+                247,
+                411
+            ]
+        },
+        {
+            "object": "boxes",
+            "bbox": [
+                584,
+                200,
+                639,
+                356
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                321,
+                143,
+                501,
+                300
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                321,
+                144,
+                378,
+                297
+            ]
+        },
+        {
+            "object": "boxes",
+            "bbox": [
+                167,
+                202,
+                342,
+                464
+            ]
+        },
+        {
+            "object": "crates",
+            "bbox": [
+                333,
+                165,
+                572,
+                479
+            ]
+        },
+        {
+            "object": "bottles",
+            "bbox": [
+                247,
+                379,
+                283,
+                421
+            ]
+        },
+        {
+            "object": "boxes",
+            "bbox": [
+                95,
+                203,
+                343,
+                464
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                352,
+                145,
+                386,
+                261
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                423,
+                143,
+                501,
+                304
+            ]
+        },
+        {
+            "object": "bags",
+            "bbox": [
+                352,
+                144,
+                405,
+                295
+            ]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "image_name": "695_858763.jpg",
+    "description": "The image shows a room with a table, a fan, a chair, and a bowl. The table is located in the center of the image, and the fan is to the right of the table. The chair is to the left of the table, and the bowl is to the right of the chair. The fan is in front of the table, and the chair is in front of the",
+    "objects": [
+        {
+            "name": "chair",
+            "color": "White",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the fan. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the fan"
+        },
+        {
+            "name": "fan",
+            "color": "White",
+            "form": "box",
+            "size": "medium",
+            "location": "The fan is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To cool the room",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It is the main object in the photo",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "fruit",
+            "color": "Red, yellow, green",
+            "form": "bowl",
+            "size": "medium",
+            "location": "The fruit bowl is located in the center of the image. It contains bananas, apples, and oranges.",
+            "purpose": "The fruit bowl is used to store fruits.",
+            "relationship": "There is no specific relationship between the fruit bowl and other objects."
+        },
+        {
+            "name": "bowl",
+            "color": "Yellow",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "bowl",
+            "color": "Yellow",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        },
+        {
+            "name": "fruit",
+            "color": "Yellow",
+            "form": "round",
+            "size": "medium",
+            "location": ": The fruit is located on the left side of the image, near the fan. It is in the sink. There are no other objects around.",
+            "purpose": "To eat food",
+            "relationship": "The fruit is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chair",
+            "bbox": [
+                136,
+                23,
+                262,
+                113
+            ]
+        },
+        {
+            "object": "fan",
+            "bbox": [
+                262,
+                63,
+                628,
+                392
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                261,
+                39,
+                402,
+                112
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                91,
+                636,
+                478
+            ]
+        },
+        {
+            "object": "fruit",
+            "bbox": [
+                66,
+                97,
+                166,
+                184
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                68,
+                129,
+                168,
+                192
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                66,
+                97,
+                168,
+                191
+            ]
+        },
+        {
+            "object": "fruit",
+            "bbox": [
+                124,
+                97,
+                156,
+                131
+            ]
+        }
+    ]
+}

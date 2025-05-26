@@ -1,0 +1,80 @@
+{
+    "image_name": "722_894695.jpg",
+    "description": "The image shows a table with two objects: a bottle and a cup. The bottle is located on the left side of the table, and the cup is located on the right side of the table. The bottle has a bounding box with coordinates [192, 254, 247, 349] and a score of 0.8449215292930603. The cup has a bounding box with coordinates [371, 201, 410, 262] and a score of 0.7",
+    "objects": [
+        {
+            "name": "cup",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the table. It is in the center of the image. The bounding box is [371, 201, 410, 262].",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the table"
+        },
+        {
+            "name": "bottle",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        },
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the table. It's in front of the cup. There are no other objects around",
+            "purpose": "To drink",
+            "relationship": "The bottle is on the table"
+        },
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's in the room. There are no objects around",
+            "purpose": "To place objects",
+            "relationship": "No relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "cup",
+            "bbox": [
+                371,
+                201,
+                410,
+                262
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                192,
+                254,
+                247,
+                349
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                97,
+                562,
+                462
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                477,
+                129,
+                639,
+                409
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "image_name": "494_715280.jpg",
+    "description": "The image shows two robotic arms, each holding a bottle. The bottles are labeled as \"bottle\" and have bounding boxes with coordinates [299, 237, 341, 392] and [299, 237, 341, 391] respectively. The bounding boxes indicate that the bottles are located in the center of the image, with the left arm holding a bottle and the right arm holding another bottle.",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's in front of a shelf. There are no other objects around",
+            "purpose": "To store liquid",
+            "relationship": "The bottle is inside the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "Black",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's in front of the shelf. There are no other objects around",
+            "purpose": "To store liquid",
+            "relationship": "The bottle is inside the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's in front of the shelf. There are no other objects around",
+            "purpose": "To store liquid",
+            "relationship": "The bottle is in front of the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is in front of the shelf. There are no other objects around it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is in front of the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's in front of the shelf. There are no other objects around",
+            "purpose": "To store liquid",
+            "relationship": "The bottle is in front of the shelf"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                299,
+                237,
+                341,
+                392
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                299,
+                237,
+                341,
+                391
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                225,
+                148,
+                272,
+                288
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                229,
+                180,
+                272,
+                287
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                225,
+                148,
+                272,
+                287
+            ]
+        }
+    ]
+}

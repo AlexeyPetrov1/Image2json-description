@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/362_724711.jpg",
+    "filename": "362_724711.jpg",
     "objects": [
         {
             "label": "bed",
-            "score": 0.43206343054771423,
+            "score": 0.4287116527557373,
             "box": [
                 0,
                 0,
@@ -13,7 +13,7 @@
         },
         {
             "label": "cloth",
-            "score": 0.3345894515514374,
+            "score": 0.3363310694694519,
             "box": [
                 217,
                 192,
@@ -23,7 +23,7 @@
         },
         {
             "label": "clothing",
-            "score": 0.4040370583534241,
+            "score": 0.4002804160118103,
             "box": [
                 0,
                 0,

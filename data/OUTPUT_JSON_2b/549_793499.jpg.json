@@ -1,0 +1,134 @@
+{
+    "image_name": "549_793499.jpg",
+    "description": "There is a kitchen on the image. On the right you can find a white kettle, and there is a sink with a green sponge located in the left part of the image. There is a pair of black gloves on the left side of the sink, and there is a pair of black gloves on the right side of the sink. The kettle is placed on top of the",
+    "objects": [
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The gloves are located on the left side of the image, near the sink. They are black in color.",
+            "purpose": "To protect hands while washing dishes.",
+            "relationship": "The gloves are in close proximity to the sink and the soap dispenser."
+        },
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The gloves are located on the right side of the sink. They are in front of the kettle and to the left of the sponge.",
+            "purpose": "To wash hands",
+            "relationship": "The gloves are being used to wash hands."
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It is the main object in the photo",
+            "purpose": "To wash dishes",
+            "relationship": "The sink is inside the kitchen"
+        },
+        {
+            "name": "kettle",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The kettle is located on the right side of the image. It's in the sink. There are no objects around",
+            "purpose": "To heat water",
+            "relationship": "The kettle is inside the sink"
+        },
+        {
+            "name": "gloves",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        },
+        {
+            "name": "sink",
+            "color": "Gray",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The sink is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To wash dishes",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "kettle",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The kettle is located on the right side of the image. It's in the sink. There are no objects around",
+            "purpose": "To heat water",
+            "relationship": "The kettle is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "gloves",
+            "bbox": [
+                389,
+                268,
+                639,
+                471
+            ]
+        },
+        {
+            "object": "gloves",
+            "bbox": [
+                0,
+                314,
+                196,
+                435
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                79,
+                223,
+                378,
+                478
+            ]
+        },
+        {
+            "object": "kettle",
+            "bbox": [
+                419,
+                70,
+                621,
+                293
+            ]
+        },
+        {
+            "object": "gloves",
+            "bbox": [
+                0,
+                314,
+                195,
+                478
+            ]
+        },
+        {
+            "object": "sink",
+            "bbox": [
+                81,
+                269,
+                342,
+                478
+            ]
+        },
+        {
+            "object": "kettle",
+            "bbox": [
+                398,
+                70,
+                623,
+                359
+            ]
+        }
+    ]
+}

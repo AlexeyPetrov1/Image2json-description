@@ -1,0 +1,368 @@
+{
+    "image_name": "389_655660.jpg",
+    "description": "The image shows a grocery store shelf with various products. There are multiple bottles of milk, sugar, and yogurt. The milk bottles are arranged in a row, while the sugar and yogurt bottles are stacked on top of each other. The bottles of milk and sugar are located on the left side of the shelf, while the bottles of yogurt are on the right side. The shelf appears to be",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [334, 8, 364, 110].",
+            "purpose": "A bottle of milk.",
+            "relationship": "The bottle is on the shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on the shelf. There are other bottles around it.",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on the shelf, and there are other bottles around it."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [192, 11, 233, 110].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [237, 0, 274, 112].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [278, 0, 313, 111].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "Round",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [265, 178, 294, 241].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "Round",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [264, 222, 293, 295].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [491, 10, 549, 108].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the shelf. There are no other objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the shelf"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on the shelf. There are no other objects around",
+            "purpose": "To drink",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [69, 184, 118, 236].",
+            "purpose": "It is a bottle of milk.",
+            "relationship": "The bottle is on the shelf with other products."
+        },
+        {
+            "name": "bottle",
+            "color": "Green",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [303, 181, 342, 291].",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is on a shelf with other products"
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [350, 189, 373, 221].",
+            "purpose": "A bottle of milk.",
+            "relationship": "The bottle is on a shelf with other products, and the bounding box is [350, 189, 373, 221]."
+        },
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [524, 28, 578, 108].",
+            "purpose": "A bottle of milk",
+            "relationship": "The bottle is on a shelf with other products, and the bounding box is [524, 28, 578, 108]."
+        },
+        {
+            "name": "bottle",
+            "color": "Blue",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [555, 0, 635, 107].",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is on a shelf with other products"
+        },
+        {
+            "name": "dairy",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The dairy is located in the center of the image. It is on a shelf with other products. The bounding box is [334, 8, 364, 109].",
+            "purpose": "Contains dairy products such as milk, yogurt, and cheese.",
+            "relationship": "The dairy is part of the dairy section of the store."
+        },
+        {
+            "name": "dairy",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The dairy is located in the center of the image. It is on a shelf with other products. The bounding box is [237, 0, 274, 112].",
+            "purpose": "Contains dairy products such as milk, yogurt, and cheese.",
+            "relationship": "The dairy is part of the dairy section of the store. The bounding box is [237, 0, 274, 112]."
+        },
+        {
+            "name": "sugar",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The sugar bottle is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "To sweeten drinks",
+            "relationship": "There is no specific relationship between the sugar bottle and other objects."
+        },
+        {
+            "name": "dairy",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The dairy is located in the center of the image. It is on a shelf with other products. The bounding box is [192, 11, 233, 110].",
+            "purpose": "Contains milk, yogurt, and other dairy products.",
+            "relationship": "The dairy is part of the dairy section of the store."
+        },
+        {
+            "name": "dairy",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The dairy is located on the top shelf of the refrigerator. It is in front of a row of other dairy products.",
+            "purpose": "Contains milk, yogurt, and other dairy products.",
+            "relationship": "There is no specific relationship between the dairy and other objects in the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                334,
+                8,
+                364,
+                110
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                385,
+                11,
+                424,
+                109
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                192,
+                11,
+                233,
+                110
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                237,
+                0,
+                274,
+                112
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                278,
+                0,
+                313,
+                111
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                265,
+                178,
+                294,
+                241
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                264,
+                222,
+                293,
+                295
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                491,
+                10,
+                549,
+                108
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                429,
+                3,
+                478,
+                108
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                460,
+                11,
+                511,
+                109
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                69,
+                184,
+                118,
+                236
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                303,
+                181,
+                342,
+                291
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                350,
+                189,
+                373,
+                221
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                524,
+                28,
+                578,
+                108
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                555,
+                0,
+                635,
+                107
+            ]
+        },
+        {
+            "object": "dairy",
+            "bbox": [
+                334,
+                8,
+                364,
+                109
+            ]
+        },
+        {
+            "object": "dairy",
+            "bbox": [
+                237,
+                0,
+                274,
+                112
+            ]
+        },
+        {
+            "object": "sugar",
+            "bbox": [
+                385,
+                11,
+                423,
+                109
+            ]
+        },
+        {
+            "object": "dairy",
+            "bbox": [
+                192,
+                11,
+                233,
+                110
+            ]
+        },
+        {
+            "object": "dairy",
+            "bbox": [
+                278,
+                0,
+                313,
+                111
+            ]
+        }
+    ]
+}

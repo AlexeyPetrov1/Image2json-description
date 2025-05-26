@@ -1,0 +1,242 @@
+{
+    "image_name": "595_809209.jpg",
+    "description": "The image shows a person standing in a room. The person is holding a phone and appears to be taking a photo. There are several objects in the room, including a chair, a table, a vase, a plant, a switch, and a wall. The chair is located to the left of the person, the table is in front of the person, the vase is on the table, the plant is",
+    "objects": [
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "plant",
+            "color": "Green",
+            "form": "Plants",
+            "size": "medium",
+            "location": "The plant is located on the left side of the image. It is a large plant with green leaves and stems.",
+            "purpose": "The plant serves as a decorative element in the room.",
+            "relationship": "There is no specific relationship between the plant and other objects in the image."
+        },
+        {
+            "name": "table",
+            "color": "Brown",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in the room. There are no objects around",
+            "purpose": "To sit and eat",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "laptop",
+            "color": "Black",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The laptop is located in the center of the image. It is being held by two hands.",
+            "purpose": "To use the laptop for work or entertainment.",
+            "relationship": "The person is using the laptop."
+        },
+        {
+            "name": "man",
+            "color": "Black",
+            "form": "human",
+            "size": "medium",
+            "location": "The man is sitting at the table. He is wearing a black hoodie and glasses. He is holding a black laptop in his hands.",
+            "purpose": "The man is using the laptop.",
+            "relationship": "The man is interacting with the laptop."
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "to sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "table",
+            "color": "Brown",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's in front of the person. There are no other objects around",
+            "purpose": "To sit and eat",
+            "relationship": "The person is sitting at the table"
+        },
+        {
+            "name": "vase",
+            "color": "Gray",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The vase is located on the table in the center of the image. It is in front of the person and behind the laptop.",
+            "purpose": "The vase is used to hold flowers or other decorative items.",
+            "relationship": "The vase is not related to any other objects in the image."
+        },
+        {
+            "name": "man",
+            "color": "Black",
+            "form": "human",
+            "size": "medium",
+            "location": "The man is sitting at a table in the center of the image. He is wearing a black hoodie and glasses. He is holding a black laptop in his left hand and a phone in his right hand.",
+            "purpose": "The man is using a laptop and a phone.",
+            "relationship": "The man is sitting at a table with a laptop and a phone."
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "The chair is in front of the table"
+        },
+        {
+            "name": "chair",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the table. There are no other objects around",
+            "purpose": "To sit on",
+            "relationship": "The chair is in front of the table"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chair",
+            "bbox": [
+                511,
+                95,
+                615,
+                284
+            ]
+        },
+        {
+            "object": "plant",
+            "bbox": [
+                80,
+                0,
+                268,
+                210
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                363,
+                84,
+                559,
+                356
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                464,
+                199,
+                639,
+                478
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                184,
+                121,
+                224,
+                243
+            ]
+        },
+        {
+            "object": "switch",
+            "bbox": [
+                79,
+                167,
+                114,
+                207
+            ]
+        },
+        {
+            "object": "wall",
+            "bbox": [
+                0,
+                14,
+                176,
+                374
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                589,
+                198,
+                639,
+                400
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                360,
+                83,
+                560,
+                411
+            ]
+        },
+        {
+            "object": "vase",
+            "bbox": [
+                168,
+                197,
+                212,
+                271
+            ]
+        },
+        {
+            "object": "wall",
+            "bbox": [
+                0,
+                0,
+                640,
+                377
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                183,
+                121,
+                225,
+                275
+            ]
+        },
+        {
+            "object": "chair",
+            "bbox": [
+                183,
+                121,
+                308,
+                396
+            ]
+        }
+    ]
+}

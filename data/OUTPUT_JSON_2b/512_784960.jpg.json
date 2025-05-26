@@ -1,0 +1,44 @@
+{
+    "image_name": "512_784960.jpg",
+    "description": "The image shows two robotic arms, one on the left and one on the right. The left arm is labeled as \"toy\" and has a bounding box of [390, 245, 639, 434]. The right arm is labeled as \"word\" and has a bounding box of [264, 70, 477, 162]. Both arms are positioned in front of a glass wall, with the word \"野猪\" (wild boar) written on it. The bounding",
+    "objects": [
+        {
+            "name": "robot",
+            "color": "Black",
+            "form": "articulated",
+            "size": "medium",
+            "location": "The robot is located in the center of the image. It has two arms and two legs. It is in front of a glass wall with Chinese characters written on it.",
+            "purpose": "To interact with the glass wall",
+            "relationship": "The robot is interacting with the glass wall"
+        },
+        {
+            "name": "hand",
+            "color": "Black",
+            "form": "arm",
+            "size": "medium",
+            "location": "The hand is located on the right side of the image. It is holding a red object.",
+            "purpose": "The hand is holding a red object.",
+            "relationship": "The hand is holding a red object, which is located on the right side of the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "toy",
+            "bbox": [
+                390,
+                245,
+                639,
+                434
+            ]
+        },
+        {
+            "object": "word",
+            "bbox": [
+                264,
+                70,
+                477,
+                162
+            ]
+        }
+    ]
+}

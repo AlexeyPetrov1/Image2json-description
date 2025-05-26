@@ -1,0 +1,134 @@
+{
+    "image_name": "679_856616.jpg",
+    "description": "The image shows a room with a door, a thermostat, gloves, and a sign. The door is open, and the thermostat is on the wall to the left of the door. The gloves are on the door, and the sign is above the door.",
+    "objects": [
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "medium",
+            "location": "The gloves are located on the right side of the image. They are in front of a door. The bounding box is [0, 200, 210, 392].",
+            "purpose": "The gloves are used for protection.",
+            "relationship": "The gloves are not related to other objects."
+        },
+        {
+            "name": "gloves",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "approximate size (large)",
+            "location": "The gloves are located on the left and right side of the image. They are in front of the door. The left glove is slightly larger than the right one.",
+            "purpose": "to protect hands",
+            "relationship": "The gloves are not related to any other objects in the image."
+        },
+        {
+            "name": "door",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The door is located on the right side of the image. It is closed and has a handle on it.",
+            "purpose": "To enter or exit the room",
+            "relationship": "The door is the main entrance to the room"
+        },
+        {
+            "name": "glove",
+            "color": "Black",
+            "form": "geometrical form",
+            "size": "large",
+            "location": "The glove is located on the left side of the image. It covers a significant portion of the wall.",
+            "purpose": "To protect hands from contamination.",
+            "relationship": "The glove is in front of the thermostat."
+        },
+        {
+            "name": "door",
+            "color": "Brown",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The door is located on the right side of the image. It is closed and has a sign on it that says 'Meeting Room'.",
+            "purpose": "The door is used to enter and exit the room.",
+            "relationship": "The door is the main entrance to the room."
+        },
+        {
+            "name": "thermostat",
+            "color": "White",
+            "form": "rectangular",
+            "size": "small",
+            "location": "The thermostat is located on the left side of the image, near the wall.",
+            "purpose": "To control the temperature in the room.",
+            "relationship": "There is no relationship with other objects."
+        },
+        {
+            "name": "thermostat",
+            "color": "White",
+            "form": "rectangular",
+            "size": "small",
+            "location": "The thermostat is located on the left side of the image. It is mounted on the wall. The bounding box is [0, 118, 29, 154].",
+            "purpose": "To control the temperature in the room.",
+            "relationship": "There is no relationship with other objects."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "gloves",
+            "bbox": [
+                0,
+                200,
+                210,
+                392
+            ]
+        },
+        {
+            "object": "gloves",
+            "bbox": [
+                416,
+                206,
+                639,
+                378
+            ]
+        },
+        {
+            "object": "door",
+            "bbox": [
+                342,
+                0,
+                639,
+                478
+            ]
+        },
+        {
+            "object": "sign",
+            "bbox": [
+                422,
+                21,
+                517,
+                71
+            ]
+        },
+        {
+            "object": "door",
+            "bbox": [
+                0,
+                0,
+                319,
+                479
+            ]
+        },
+        {
+            "object": "thermostat",
+            "bbox": [
+                89,
+                117,
+                168,
+                160
+            ]
+        },
+        {
+            "object": "thermostat",
+            "bbox": [
+                0,
+                118,
+                29,
+                154
+            ]
+        }
+    ]
+}

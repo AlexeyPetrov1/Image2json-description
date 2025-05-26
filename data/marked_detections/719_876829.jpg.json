@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/719_876829.jpg",
+    "filename": "719_876829.jpg",
     "objects": [
         {
             "label": "table",
-            "score": 0.35756751894950867,
+            "score": 0.37022536993026733,
             "box": [
                 0,
                 243,
@@ -13,22 +13,22 @@
         },
         {
             "label": "clothing",
-            "score": 0.3988746404647827,
+            "score": 0.38029852509498596,
             "box": [
                 145,
                 0,
                 268,
-                237
+                239
             ]
         },
         {
-            "label": "snack",
-            "score": 0.3015677034854889,
+            "label": "furniture",
+            "score": 0.3065270483493805,
             "box": [
-                294,
-                287,
-                349,
-                332
+                536,
+                0,
+                639,
+                205
             ]
         }
     ]

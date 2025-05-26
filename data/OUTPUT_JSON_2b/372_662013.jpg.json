@@ -1,0 +1,98 @@
+{
+    "image_name": "372_662013.jpg",
+    "description": "The image shows a table with various objects on it. There is a bottle on the left side of the table, a snack on the right side of the table, and another snack on the right side of the table. There is also a red bag on the left side of the table. The table is located in the center of the image, and the objects are arranged in a",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It's on a table with other objects around.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is on top of the table"
+        },
+        {
+            "name": "table",
+            "color": "unknown",
+            "form": "unknown",
+            "size": "unknown",
+            "location": "unknown",
+            "purpose": "unknown",
+            "relationship": "unknown"
+        },
+        {
+            "name": "snack",
+            "color": "Green",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The snack is located in the lower right corner of the image. It is placed on a red bag. The bounding box for the snack is [393, 329, 569, 442].",
+            "purpose": "A snack",
+            "relationship": "The snack is placed on the table next to other objects."
+        },
+        {
+            "name": "snack",
+            "color": "Red",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The snack is located in the center of the image. It is placed on the table next to a red bag and a yellow container.",
+            "purpose": "A snack",
+            "relationship": "The snack is next to the red bag and the yellow container"
+        },
+        {
+            "name": "snack",
+            "color": "Yellow",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The snack is located on the right side of the image. It is next to a red bag and a yellow box.",
+            "purpose": "A snack, possibly a candy or a small food item.",
+            "relationship": "The snack is next to the red bag and the yellow box."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                246,
+                46,
+                304,
+                232
+            ]
+        },
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                153,
+                639,
+                478
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                393,
+                329,
+                569,
+                442
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                353,
+                196,
+                486,
+                331
+            ]
+        },
+        {
+            "object": "snack",
+            "bbox": [
+                317,
+                138,
+                379,
+                215
+            ]
+        }
+    ]
+}

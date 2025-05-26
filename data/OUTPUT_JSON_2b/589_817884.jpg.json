@@ -1,0 +1,44 @@
+{
+    "image_name": "589_817884.jpg",
+    "description": "The image depicts a kitchen scene. On the left side, there is a black toaster with a red label. On the right side, there is a white bottle with a red label. Both objects are placed on a white countertop with a black grid pattern. There is a green bowl in the center of the countertop, and a white sink is visible in the background. The objects appear to be",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Yellow",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located in the upper right corner of the image. It is placed on the countertop next to a white container with various items in it.",
+            "purpose": "To hold liquid",
+            "relationship": "The bottle is inside the white container"
+        },
+        {
+            "name": "egg",
+            "color": "Green",
+            "form": "round",
+            "size": "medium",
+            "location": "The egg is located in the center of the image. It's in the bowl. There are no other objects around",
+            "purpose": "To eat",
+            "relationship": "The egg is inside the bowl"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                576,
+                96,
+                621,
+                169
+            ]
+        },
+        {
+            "object": "egg",
+            "bbox": [
+                402,
+                326,
+                443,
+                385
+            ]
+        }
+    ]
+}

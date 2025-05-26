@@ -1,0 +1,98 @@
+{
+    "image_name": "573_795558.jpg",
+    "description": "The image shows two robotic arms interacting with a table. The arms are labeled as \"table\" and \"flowerpot\". The \"table\" arm is positioned on the left side of the image, while the \"flowerpot\" arm is on the right side. The \"flowerpot\" arm is holding a flowerpot, which is labeled as \"flowerpot\". The \"table\" arm is holding a vase, which is labeled as \"vase\". The \"vase\" arm is holding a vase,",
+    "objects": [
+        {
+            "name": "table",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "vase",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The vase is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold flowers",
+            "relationship": "The vase is inside the table"
+        },
+        {
+            "name": "flowerpot",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The flowerpot is located in the center of the image. It is placed on a table. There are no other objects around it.",
+            "purpose": "The flowerpot is used to hold flowers.",
+            "relationship": "The flowerpot is the main object in the image."
+        },
+        {
+            "name": "vase",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The vase is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold flowers",
+            "relationship": "The vase is inside the table"
+        },
+        {
+            "name": "flowerpot",
+            "color": "Brown",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The flowerpot is located in the center of the image. It's on the table. There are no other objects around",
+            "purpose": "To hold flowers",
+            "relationship": "The flowerpot is inside the table"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                11,
+                570,
+                399
+            ]
+        },
+        {
+            "object": "vase",
+            "bbox": [
+                262,
+                86,
+                324,
+                202
+            ]
+        },
+        {
+            "object": "flowerpot",
+            "bbox": [
+                262,
+                86,
+                324,
+                201
+            ]
+        },
+        {
+            "object": "vase",
+            "bbox": [
+                315,
+                90,
+                349,
+                150
+            ]
+        },
+        {
+            "object": "flowerpot",
+            "bbox": [
+                315,
+                90,
+                349,
+                149
+            ]
+        }
+    ]
+}

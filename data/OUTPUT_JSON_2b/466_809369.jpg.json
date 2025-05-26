@@ -1,0 +1,26 @@
+{
+    "image_name": "466_809369.jpg",
+    "description": "input:\n\"\"\"\nname: \"clothing\"\ncolor: \"black\"\nform: \"garment\"\nsize: \"medium\"\nlocation: \"The clothing is in a laundry basket located in the bottom right corner of the image\",\npurpose: \"Clothing is being washed\",\nrelationship: \"Clothing is inside the laundry basket\"\n---\nname: \"laundry basket\"\ncolor: \"white\"\nform: \"basket\"\nsize: \"medium\"\nlocation: \"The laundry basket is located in the bottom right corner of the image\",\npurpose: \"A container for laundry\",\nrelationship: \"Laundry basket is inside the washing machine\"\n---\nname:",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "Black",
+            "form": "garment",
+            "size": "medium",
+            "location": "The clothing is located in the red rectangle around him. It is inside a laundry basket. The basket is in front of the washing machine.",
+            "purpose": "The clothing is being washed in the washing machine.",
+            "relationship": "The clothing is inside the laundry basket, which is in front of the washing machine."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                256,
+                351,
+                411,
+                479
+            ]
+        }
+    ]
+}

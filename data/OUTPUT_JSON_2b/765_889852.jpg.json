@@ -1,0 +1,368 @@
+{
+    "image_name": "765_889852.jpg",
+    "description": "The image shows a shelf with various products. There are several bottles of lotion, with the most prominent bottle located in the center of the shelf. Additionally, there are two bottles of water, one on the left and one on the right side of the shelf. There are also two bottles of milk, one on the left and one on the right side of the shelf. The shelf appears to",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a shelf with other products. The bounding box is [187, 155, 287, 385].",
+            "purpose": "The bottle is a cosmetic product.",
+            "relationship": "The bottle is on a shelf with other products."
+        },
+        {
+            "name": "lotion",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products. The bounding box is [187, 155, 287, 385].",
+            "purpose": "The lotion is used for skin care.",
+            "relationship": "The lotion is on the shelf, and there are other products around it. The bounding box is [187, 155, 287, 385]."
+        },
+        {
+            "name": "bottle",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The bottle is located in the center of the image. It is on a wooden shelf. There are other bottles around it.",
+            "purpose": "The bottle is a cosmetic product.",
+            "relationship": "The bottle is on the shelf, and there are other bottles around it."
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image, slightly to the right. It is on a wooden shelf with other beauty products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "The lotion is the main object in the image, with other beauty products around it."
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf. There are other lotion bottles around it.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf. There are other products around it.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Blue",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf with other products. The bounding box is [190, 18, 267, 213].",
+            "purpose": "It is used for moisturizing the skin.",
+            "relationship": "The lotion is on the shelf with other products."
+        },
+        {
+            "name": "lotion",
+            "color": "Green",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf. There are other products around it.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Blue",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "The lotion is next to other products on the shelf"
+        },
+        {
+            "name": "lotion",
+            "color": "Blue",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products. The bounding box is [195, 57, 267, 213].",
+            "purpose": "The lotion is used for moisturizing the skin.",
+            "relationship": "The lotion is placed on a shelf with other products."
+        },
+        {
+            "name": "lotion",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "The lotion is next to other products on the shelf"
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "White",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf. There are other products around it.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a wooden shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "lotion",
+            "color": "Pink",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image, slightly to the right. It is on a wooden shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects."
+        },
+        {
+            "name": "lotion",
+            "color": "Blue",
+            "form": "bottle",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "To moisturize the skin",
+            "relationship": "There is no specific relationship between the lotion and other objects."
+        },
+        {
+            "name": "lotion",
+            "color": "Green",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The lotion is located in the center of the image. It is on a shelf with other products.",
+            "purpose": "It is used for moisturizing the skin.",
+            "relationship": "The lotion is placed next to other products on the shelf."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                187,
+                155,
+                287,
+                385
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                187,
+                155,
+                287,
+                385
+            ]
+        },
+        {
+            "object": "bottle",
+            "bbox": [
+                335,
+                23,
+                383,
+                184
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                335,
+                23,
+                383,
+                184
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                533,
+                9,
+                607,
+                131
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                552,
+                31,
+                639,
+                158
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                190,
+                18,
+                267,
+                213
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                426,
+                8,
+                504,
+                134
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                570,
+                57,
+                639,
+                191
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                47,
+                47,
+                136,
+                173
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                358,
+                290,
+                416,
+                354
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                195,
+                57,
+                267,
+                213
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                315,
+                291,
+                345,
+                361
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                0,
+                106,
+                101,
+                247
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                71,
+                22,
+                149,
+                142
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                435,
+                31,
+                516,
+                169
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                15,
+                76,
+                118,
+                211
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                334,
+                0,
+                383,
+                184
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                409,
+                287,
+                462,
+                355
+            ]
+        },
+        {
+            "object": "lotion",
+            "bbox": [
+                454,
+                64,
+                556,
+                209
+            ]
+        }
+    ]
+}

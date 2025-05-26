@@ -1,0 +1,6 @@
+{
+    "image_name": "692_902577.jpg",
+    "description": "\"\"\"\nname: \"robot\"\ncolor: \"black\"\nform: \"arm\"\nsize: \"medium\"\nlocation: \"The robot is located on the right side of the image, near the window. It appears to be a robotic arm.\"\npurpose: \"The robot is likely used for tasks such as picking up objects or moving them.\"\nrelationship: \"The robot is in close proximity to the window, suggesting it may be used for tasks that require visibility outside.\"\n---\nname: \"window\"\ncolor: \"white\"\nform: \"rectangle\"\nsize: \"large\"\nlocation: \"The window is located at",
+    "objects": [],
+    "2d_bbox": []
+}

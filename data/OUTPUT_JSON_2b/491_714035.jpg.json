@@ -1,0 +1,26 @@
+{
+    "image_name": "491_714035.jpg",
+    "description": "\"\"\"\nname: \"shirt\"\ncolor: \"White\"\nform: \"Striped\"\nsize: \"medium\"\nlocation: \"The shirt is located in the center of the image, covering the upper part of the torso.\"\npurpose: \"Clothing\"\nrelationship: \"The shirt is worn by the person in the image.\"\n---\nname: \"shirt\"\ncolor: \"White\"\nform: \"Striped\"\nsize: \"medium\"\nlocation: \"The shirt is located in the center of the image, covering the upper part of the torso.\"\npurpose: \"Clothing\"\nrelationship: \"The shirt is worn by the person in the image.\"\n",
+    "objects": [
+        {
+            "name": "clothing",
+            "color": "White",
+            "form": "Striped",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It covers the upper part of the mannequin's torso.",
+            "purpose": "The clothing is part of the mannequin's outfit.",
+            "relationship": "The clothing is part of the mannequin's attire."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "clothing",
+            "bbox": [
+                183,
+                253,
+                457,
+                479
+            ]
+        }
+    ]
+}

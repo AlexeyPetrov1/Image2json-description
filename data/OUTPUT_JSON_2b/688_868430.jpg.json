@@ -1,0 +1,26 @@
+{
+    "image_name": "688_868430.jpg",
+    "description": "The image depicts a room with a window covered by a white roller blind. On the left side of the window, there is a black chair. On the right side of the window, there is a black robotic arm with a label \"chair\" and a score of 0.37022536993026733. The robotic arm is positioned in front of the chair.",
+    "objects": [
+        {
+            "name": "chair",
+            "color": "Black",
+            "form": "rectangular",
+            "size": "medium",
+            "location": "The chair is located in the center of the image. It's in front of the window. There are no other objects around",
+            "purpose": "To sit",
+            "relationship": "There is no relationship with other objects"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "chair",
+            "bbox": [
+                0,
+                290,
+                254,
+                479
+            ]
+        }
+    ]
+}

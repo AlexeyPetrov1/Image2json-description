@@ -1,0 +1,80 @@
+{
+    "image_name": "361_666567.jpg",
+    "description": "The image depicts a bed with a blanket and a pillow. The blanket is located on the left side of the bed, while the pillow is on the right side. The bed is covered with a floral-patterned sheet.",
+    "objects": [
+        {
+            "name": "bed",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The bed is located in the center of the image. It has a floral pattern on the bedspread. There is a gray pair of shorts on the bed.",
+            "purpose": "To sleep",
+            "relationship": "The bed is the main object in the picture"
+        },
+        {
+            "name": "pillow",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The pillow is located in the center of the image. It's on the bed. There are no objects around",
+            "purpose": "To rest",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "pillow",
+            "color": "Gray",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The pillow is located in the center of the image. It's on the bed. There are no objects around",
+            "purpose": "To rest",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "blanket",
+            "color": "Gray",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The blanket is located in the center of the image. It covers the bed. There are no other objects around",
+            "purpose": "To cover the bed",
+            "relationship": "The blanket is on the bed"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bed",
+            "bbox": [
+                1,
+                2,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "pillow",
+            "bbox": [
+                212,
+                172,
+                364,
+                320
+            ]
+        },
+        {
+            "object": "pillow",
+            "bbox": [
+                581,
+                55,
+                639,
+                179
+            ]
+        },
+        {
+            "object": "blanket",
+            "bbox": [
+                1,
+                2,
+                639,
+                478
+            ]
+        }
+    ]
+}

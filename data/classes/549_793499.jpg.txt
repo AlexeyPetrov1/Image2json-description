@@ -1,1 +1,1 @@
-faucet . sink . gloves . kettle . soap dispenser
+kettle . sink . sponge . gloves

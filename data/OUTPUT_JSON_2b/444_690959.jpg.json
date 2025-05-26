@@ -1,0 +1,44 @@
+{
+    "image_name": "444_690959.jpg",
+    "description": "The image depicts a table with a black cloth on it. Two robotic arms are positioned on either side of the table, with their bounding box coordinates being [1, 114, 638, 478] and [168, 111, 535, 478] respectively. The robotic arms are labeled as \"table\" and \"clothing\". The table is labeled as \"table\" with a score of 0.31742626428604126, and the clothing is labeled as \"clothing\"",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "clothing",
+            "color": "black",
+            "form": "shirt",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image, covering a large area from the top to the bottom and from the left to the right.",
+            "purpose": "The clothing is a black shirt.",
+            "relationship": "The clothing is not related to any other objects in the image."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                1,
+                114,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                168,
+                111,
+                535,
+                478
+            ]
+        }
+    ]
+}

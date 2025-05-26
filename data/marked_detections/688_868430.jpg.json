@@ -1,9 +1,9 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/688_868430.jpg",
+    "filename": "688_868430.jpg",
     "objects": [
         {
             "label": "chair",
-            "score": 0.3656831681728363,
+            "score": 0.37022536993026733,
             "box": [
                 0,
                 290,

@@ -1,0 +1,116 @@
+{
+    "image_name": "683_865209.jpg",
+    "description": "The image depicts a kitchen scene with various objects. On the left side, there is a red rectangular object labeled \"table\". In the center, there is a white rectangular object labeled \"cup\". To the right of the cup, there is a red rectangular object labeled \"chopsticks\". Above the cup, there is a red rectangular object labeled \"tray\". On the right side of the image, there is a red rectangular object",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "large",
+            "location": "The table is located in the center of the image. It's in the kitchen. There are no objects around",
+            "purpose": "To sit and eat",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "tray",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The tray is located in the center of the image. It's on the table. There are no objects around",
+            "purpose": "To hold food",
+            "relationship": "The tray is inside the sink"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located on the right side of the image. It's in the sink. There are no objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the sink"
+        },
+        {
+            "name": "chopsticks",
+            "color": "Brown",
+            "form": "straight",
+            "size": "medium",
+            "location": "The chopsticks are located on the right side of the image. They are in a container with wooden sticks.",
+            "purpose": "To eat food",
+            "relationship": "The chopsticks are inside the container with wooden sticks"
+        },
+        {
+            "name": "cup",
+            "color": "White",
+            "form": "Cylindrical",
+            "size": "medium",
+            "location": "The cup is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose": "To hold liquid",
+            "relationship": "The cup is inside the sink"
+        },
+        {
+            "name": "chopsticks",
+            "color": "Brown",
+            "form": "Wooden",
+            "size": "medium",
+            "location": "The chopsticks are located in the red rectangle around them. They are inside a white cup. The cup is on a white tray. The tray is on a white table.",
+            "purpose": "To eat food",
+            "relationship": "The chopsticks are inside the cup, which is on the tray, which is on the table."
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                72,
+                638,
+                478
+            ]
+        },
+        {
+            "object": "tray",
+            "bbox": [
+                218,
+                116,
+                447,
+                248
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                490,
+                129,
+                622,
+                295
+            ]
+        },
+        {
+            "object": "chopsticks",
+            "bbox": [
+                377,
+                130,
+                439,
+                226
+            ]
+        },
+        {
+            "object": "cup",
+            "bbox": [
+                328,
+                89,
+                379,
+                199
+            ]
+        },
+        {
+            "object": "chopsticks",
+            "bbox": [
+                512,
+                85,
+                639,
+                197
+            ]
+        }
+    ]
+}

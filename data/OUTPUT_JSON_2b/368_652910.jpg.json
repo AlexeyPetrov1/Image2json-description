@@ -1,0 +1,62 @@
+{
+    "image_name": "368_652910.jpg",
+    "description": "The image depicts a kitchen scene. On the left, there is a black microwave oven with a label on its door. To the right of the microwave, there is a brown bottle with a label. In the foreground, there is a red bowl with a green spoon inside it. The bowl is located in the center of the image, and the spoon is inside the bowl. The sink is visible",
+    "objects": [
+        {
+            "name": "bottle",
+            "color": "Brown",
+            "form": "cylindrical",
+            "size": "medium",
+            "location": "The bottle is located on the right side of the image, near the microwave. It is placed on a kitchen counter.",
+            "purpose": "It is a bottle of ketchup.",
+            "relationship": "The bottle is in front of the microwave."
+        },
+        {
+            "name": "microwave",
+            "color": "Black",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The microwave is located in the center of the image. It is on the countertop. There are no other objects around it.",
+            "purpose": "To heat food",
+            "relationship": "There is no relationship with other objects"
+        },
+        {
+            "name": "bowl",
+            "color": "Red",
+            "form": "Circular",
+            "size": "small",
+            "location": "The bowl is located in the center of the image. It's in the sink. There are no objects around",
+            "purpose\"": "To eat food",
+            "relationship": "The bowl is inside the sink"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "bottle",
+            "bbox": [
+                445,
+                142,
+                491,
+                256
+            ]
+        },
+        {
+            "object": "oven",
+            "bbox": [
+                49,
+                110,
+                367,
+                386
+            ]
+        },
+        {
+            "object": "bowl",
+            "bbox": [
+                478,
+                350,
+                560,
+                443
+            ]
+        }
+    ]
+}

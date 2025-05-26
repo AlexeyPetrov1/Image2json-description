@@ -1,0 +1,62 @@
+{
+    "image_name": "719_876829.jpg",
+    "description": "The image shows a robotic arm interacting with a white plastic bag. The arm is positioned near a table, and there is a box inside the bag. The arm is labeled as \"clothing\" and has a score of 0.37022536993026733. The bounding box is [0, 243, 638, 479]. The table is labeled as \"table\" and has a score of 0",
+    "objects": [
+        {
+            "name": "table",
+            "color": "White",
+            "form": "rectangle",
+            "size": "medium",
+            "location": "The table is located in the center of the image. It's on the floor. There are no objects around",
+            "purpose": "To place objects on it",
+            "relationship": "No relationship with other objects"
+        },
+        {
+            "name": "clothing",
+            "color": "Orange",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The clothing is located in the center of the image. It is inside a white bag. The bag is on a table. There are no other objects in the image.",
+            "purpose": "The clothing is inside the bag.",
+            "relationship": "The clothing is inside the bag."
+        },
+        {
+            "name": "white bag",
+            "color": "White",
+            "form": "Rectangular",
+            "size": "medium",
+            "location": "The white bag is located in the center of the image. It is placed on a table. There is a box inside the bag.",
+            "purpose": "To carry items",
+            "relationship": "The white bag is used to carry items"
+        }
+    ],
+    "2d_bbox": [
+        {
+            "object": "table",
+            "bbox": [
+                0,
+                243,
+                638,
+                479
+            ]
+        },
+        {
+            "object": "clothing",
+            "bbox": [
+                145,
+                0,
+                268,
+                239
+            ]
+        },
+        {
+            "object": "furniture",
+            "bbox": [
+                536,
+                0,
+                639,
+                205
+            ]
+        }
+    ]
+}

@@ -1,9 +1,19 @@
 {
-    "filename": "/home/alex/PROJECT/data/test_data_1/609_834794.jpg",
+    "filename": "609_834794.jpg",
     "objects": [
         {
-            "label": "snacks",
-            "score": 0.35398629307746887,
+            "label": "snack",
+            "score": 0.29992473125457764,
+            "box": [
+                190,
+                23,
+                320,
+                181
+            ]
+        },
+        {
+            "label": "snack",
+            "score": 0.37937837839126587,
             "box": [
                 286,
                 377,
@@ -12,12 +22,22 @@
             ]
         },
         {
-            "label": "snacks",
-            "score": 0.30321571230888367,
+            "label": "snack",
+            "score": 0.3090237081050873,
+            "box": [
+                395,
+                34,
+                509,
+                190
+            ]
+        },
+        {
+            "label": "snack",
+            "score": 0.332852303981781,
             "box": [
                 186,
                 0,
-                638,
+                639,
                 207
             ]
         }
